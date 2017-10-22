@@ -1,0 +1,46 @@
+<!doctype html>
+<html>
+<head>
+<title>El's Studios - Arwork</title>
+<link rel="stylesheet" type="text/css" href="styles.css">
+<link rel="icon" href="imgs/Lotus_Logo-filled.gif">
+</head>
+	<div class="banner">
+		<img class="logo" src="imgs/Lotus_Logo-filled.gif">
+		<br clear="right"/>
+		<h1 class="headtxt">Welcome to El's Studios!</h1>
+	</div>
+	<div class="sites">
+		<a class="links" href="http://elstudios.org" title="">Home</a>
+		<a class="links" href="http://elstudios.org/artwork" title="artwork">Artwork</a>
+		<a class="links" href="http://elstudios.org/forums" title="forums">Forums</a>
+		<a class="links" href="http://elstudios.org/commisions" title="commisions">Commisions</a>
+		<a class="links" href="http://elstudios.org/server" title="server">Minecraft Server</a>
+		<a class="links" href="http://elstudios.org/projects" title="projects">Animation Projects</a>
+		<a class="links" href="http://elstudios.org/programming" title="programming">Programming Projects</a>
+	</div>
+	<div class="menu">
+		<select name="selectGallery">
+			<option value="masterpieces">Masterpieces</option>
+			<option value="anime">Anime</option>
+		</select>
+	</div>
+	<div class="gallery">
+		<p>sldkfj;alsjkfde</p><br/>
+		<?php
+			if(isset($_POST['selectGallery'])) {
+			    $gallery = $_POST['selectGallery'];
+			    switch ($gallery) {
+			        case 'masterpieces':
+			            echo "Success!";
+			            break;
+			        case 'anime':
+			        	echo "Cool!";
+			        	break;
+			    }
+			}
+		?>
+	</div>
+<body>
+</body>
+</html>

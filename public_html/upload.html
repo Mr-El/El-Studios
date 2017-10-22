@@ -1,0 +1,50 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Private Upload Form</title>
+<link rel="stylesheet" type="text/css" href="styles.css">
+<link rel="icon" href="imgs/Lotus_Logo-filled.gif">
+</head>
+
+<body>
+<?php
+	$mysqli = new mysqli("localhost", "themrel", "K9iao73V\$Kfcq0", "el_gallery");
+	/*$result = $mysqli->query("select * from images");*/
+	
+	echo $mysqli or die("Cannot Connect!");
+	
+	
+	/* $dbhost = "localhost";
+	$dbuser = "themrel";
+	$dbpass = "K9iao73V\$Kfcq0";
+	$dbname = "el_gallery";
+	mysql_connect($dbhost, $dbuser, $dbpass) or die('Cannot connect to the server!');
+	mysql_select_db($dbname) or die('Database selection problem!'); */
+	
+	if (isset($_POST['Submit'])) {
+		$Image_ID = $_FILES['Image_ID'];
+		$Title = $_FILES['Title'];
+		$Description = $_FILES['Description'];
+		$Upload = $_FILES['Upload'];
+		$Image = $_FILES['Image'];
+		
+		move_uploaded_file($Image_ID, $Title, $Description, $Upload, $Image);
+		$sql="insert into images(Image_ID, Title, Description, Upload, Image)
+			values('$Image_ID', '$Title', '$Description', '$Upload', '$Image');";
+		sql_query($sql);
+		/*$mysqli->query($sql);*/
+	}
+?>
+	<div id="uploadImage" action="upload.php">
+		<form method="POST">
+			<input type="text" value="Image_ID" id="Image_ID" name="Image_ID" required="required"/><br/>
+			<input type="text" value="Title" id="Title" name="Title" required="required"/><br/>
+			<input type="text" value="Description" id="Description" name="Description" required="required"/><br/>
+			<input type="text" value="Upload Date" id="Upload" name="Upload" required="required"/><br/>
+			Image: <input type="file" id="Image" name="Image"/><br/><br/>
+			<input type="button" id="Submit" name="Submit" value="Submit"/>
+		</form>
+	</div>
+</body>
+</html>

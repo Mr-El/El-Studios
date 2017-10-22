@@ -1,0 +1,75 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta charset="utf-8">
+<title>El's Studios - Forums</title>
+<link rel="stylesheet" type="text/css" href="styles.css">
+<link rel="icon" href="imgs/Lotus_Logo-filled.gif">
+<?php
+    if(isset($_POST['email'])) {
+        $email_to = "mrel@elstudios.com";
+        $email_subject = "Commision from: " + $_POST['name'];
+        
+        function died($error) {
+            echo "We are sorry but there were some errors with your submission.";
+            echo $error."<br /><br />";
+            die();
+        }
+        
+        if(!isset($_POST['name']) ||
+            !isset($_POST['email']) ||
+            !isset($_POST['character']) ||
+            !isset($_POST['ammount']) ||
+            !isset($_POST['paypal'])) {
+                died('It appears you didn\'t submit all required information.');
+            }
+            
+        
+    }
+?>
+</head>
+
+<body>
+	<div class="banner">
+		<img class="logo" src="imgs/Lotus_Logo-filled.gif">
+		<br clear="right"/>
+		<h1 class="headtxt">Welcome to El's Studios!</h1>
+		<h3 class="subtitle">"Happy Halloween!" - Mr. El</h3>
+	</div>
+	<div class="sites">
+		<a class="links" href="http://elstudios.org" title="">Home</a>
+		<a class="links" href="http://elstudios.org/artwork" title="artwork">Artwork</a>
+		<a class="links" href="http://elstudios.org/forums" title="forums">Forums</a>
+		<a class="links" href="http://elstudios.org/commisions" title="commisions">Commisions</a>
+		<a class="links" href="http://elstudios.org/server" title="server">Minecraft Server</a>
+		<a class="links" href="http://elstudios.org/projects" title="projects">Animation Projects</a>
+		<a class="links" href="http://elstudios.org/programming" title="programming">Programming Projects</a>
+	</div>
+	<div class="commmisions">
+		<h2 class="menutext" style="text-align: center">Fill out this form to contact me!</h2><hr/>
+		<h3 style="text-align: center">Form currently in development.</h3>
+		<div class="innercomm" align="center">
+			<form class="commForm" name="commForm">
+				<table>
+					<tr>
+						<th><input class="formInput" type="text" value="Name" style="margin-top: 20px;" name="name"/><br/></th>
+					</tr><tr>
+						<th><input class="formInput" type="text" value="E-Mail" name="email"/></th>
+					</tr><tr>
+						<th><input class="formInput" type="text" value="Character" name="character"/></th>
+					</tr><tr>
+						<th><input class="formInput" type="text" value="Ammount" name="ammount"/></th>
+					</tr><tr>
+						<th><input class="formInput" type="text" value="PayPal Username" name="paypal"/></th>
+					</tr><tr>
+						<th><input class="formInput" type="text" style="height: 50px;" valign="top" value="Comments/Description" name="description"/></th>
+					</tr><tr>
+						<th><p class="aParagraph">Your Reference: <input type="file" size="25" name="reference"/></p></th>
+					</tr>
+				</table>
+			</form>
+		</div>
+	</div>
+</body>
+</html>
