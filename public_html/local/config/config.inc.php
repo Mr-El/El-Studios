@@ -1,0 +1,1 @@
+<?php $conf["show_exif"] = $conf["use_exif"] = false;?>

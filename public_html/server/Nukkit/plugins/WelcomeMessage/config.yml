@@ -1,0 +1,2 @@
+wcmmsg: '&l&bDefault message&e:&r&a do &e/wmsg set <message>&a to edit this message.'
+#Use the & for colour and use {player} to use the player's name. Make sure to only edit between the ' '

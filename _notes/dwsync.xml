@@ -6,6 +6,8 @@
 <file name=".contactemail" server="elstudios.org" local="131531059232817903" remote="131528920800000000" Dst="2" />
 <file name=".gemrc" server="elstudios.org" local="131531059300697165" remote="131528920800000000" Dst="2" />
 <file name=".md5sum" server="elstudios.org" local="131531059305630290" remote="131132016000000000" Dst="2" />
-<file name=".lastlogin" server="elstudios.org" local="131531059306432427" remote="131530760400000000" Dst="2" />
+<file name=".lastlogin" server="elstudios.org" local="131531613406889506" remote="131532245400000000" Dst="2" />
 <file name=".zshrc" server="elstudios.org" local="131531059323818686" remote="131528920800000000" Dst="2" />
+<file name=".bash_history" server="elstudios.org" local="131531612927554117" remote="131532307200000000" Dst="2" />
+<file name=".ftpquota" server="elstudios.org" local="131531613400537605" remote="131531028000000000" Dst="2" />
 </dwsync>

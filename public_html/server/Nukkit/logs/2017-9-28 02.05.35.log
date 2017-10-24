@@ -1,0 +1,39 @@
+2017-9-28 02:05:33 [INFO] Loading nukkit.yml...
+2017-9-28 02:05:33 [INFO] Loading server properties...
+2017-9-28 02:05:33 [INFO] Selected English (eng) as the base language
+2017-9-28 02:05:33 [INFO] Starting Minecraft: PE server version v1.2.0.31 beta
+2017-9-28 02:05:33 [INFO] Opening server on 0.0.0.0:19132
+2017-9-28 02:05:33 [INFO] This server is running Nukkit version 1.0dev "蘋果(Apple)派(Pie)" (API 1.0.0)
+2017-9-28 02:05:33 [INFO] Nukkit is distributed under the LGPL License
+2017-9-28 02:05:34 [INFO] Loading recipes...
+2017-9-28 02:05:34 [INFO] Loaded 415 recipes.
+2017-9-28 02:05:34 [INFO] Successfully loaded 0 resource packs
+2017-9-28 02:05:34 [INFO] Loading SpamBan v1.0.0
+2017-9-28 02:05:34 [CRITICAL] Could not load plugin 'SpamBan'
+2017-9-28 02:05:34 [INFO] Loading DbLib v0.2.1
+2017-9-28 02:05:34 [INFO] [DbLib] Connecting to: jdbc:sqlite:C:\Users\elane\Desktop\Nukkit\nukkit.db (user: nukkit)
+2017-9-28 02:05:34 [INFO] [DbLib] DbLib 0.2.1 created by fromgate for nukkit.ru
+2017-9-28 02:05:34 [INFO] Loading FastAsyncWorldEdit v17.09.24-c3d12f1-908-16.6.5
+2017-9-28 02:05:34 [INFO] Loading LeetTP v1.2.6-b29
+2017-9-28 02:05:34 [INFO] Loading PortSignal v1.1.1
+2017-9-28 02:05:34 [INFO] [PortSignal] Portal Sign 1.1.1 By [DeaDAyMeN(06699)] Loadded!!!
+2017-9-28 02:05:34 [INFO] Loading RealExplosions v1.0
+2017-9-28 02:05:34 [INFO] Loading WelcomeMessage v1.0.3
+2017-9-28 02:05:34 [INFO] Loading xKeepInventory v1.0.1505
+2017-9-28 02:05:34 [INFO] Preparing level "world"
+2017-9-28 02:05:34 [INFO] Enabling DbLib v0.2.1
+2017-9-28 02:05:34 [INFO] Enabling FastAsyncWorldEdit v17.09.24-c3d12f1-908-16.6.5
+2017-9-28 02:05:35 [INFO] Enabling LeetTP v1.2.6-b29
+2017-9-28 02:05:35 [INFO] Enabling PortSignal v1.1.1
+2017-9-28 02:05:35 [INFO] [PortSignal] Data folder founded !
+2017-9-28 02:05:35 [INFO] Enabling RealExplosions v1.0
+2017-9-28 02:05:35 [INFO] Enabling WelcomeMessage v1.0.3
+2017-9-28 02:05:35 [INFO] [WelcomeMessage] WelcomeMessage plugin Enabled!
+2017-9-28 02:05:35 [INFO] Enabling xKeepInventory v1.0.1505
+2017-9-28 02:05:35 [INFO] [xKeepInventory] Enabled successful
+2017-9-28 02:05:35 [INFO] [xKeepInventory] Inventory keeping enabled by user!
+2017-9-28 02:05:35 [INFO] Starting GS4 status listener
+2017-9-28 02:05:35 [INFO] Setting query port to 19132
+2017-9-28 02:05:35 [INFO] Query is running on 0.0.0.0:19132
+2017-9-28 02:05:35 [INFO] Default game type: Survival Mode
+2017-9-28 02:05:35 [INFO] Done (2.937s)! For help, type "help" or "?"

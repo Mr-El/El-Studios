@@ -1,0 +1,3201 @@
+2017-10-1 06:09:10 [INFO] Loading nukkit.yml...
+2017-10-1 06:09:10 [INFO] Loading server properties...
+2017-10-1 06:09:10 [INFO] Selected English (eng) as the base language
+2017-10-1 06:09:10 [INFO] Starting Minecraft: PE server version v1.2.1
+2017-10-1 06:09:10 [INFO] Opening server on 0.0.0.0:19132
+2017-10-1 06:09:10 [INFO] This server is running Nukkit version 1.0dev "蘋果(Apple)派(Pie)" (API 1.0.0)
+2017-10-1 06:09:10 [INFO] Nukkit is distributed under the LGPL License
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [ALERT] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.Double
+	at cn.nukkit.utils.Utils.toInt(Utils.java:191)
+	at cn.nukkit.item.Item.initCreativeItems(Item.java:849)
+	at cn.nukkit.item.Item.init(Item.java:826)
+	at cn.nukkit.Server.<init>(Server.java:374)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-1 06:09:10 [INFO] Loading recipes...
+2017-10-1 06:09:10 [INFO] Loaded 415 recipes.
+2017-10-1 06:09:10 [INFO] Successfully loaded 1 resource packs
+2017-10-1 06:09:10 [INFO] Loading SpamBan v1.0.0
+2017-10-1 06:09:10 [CRITICAL] Could not load plugin 'SpamBan'
+2017-10-1 06:09:10 [INFO] Loading DbLib v0.2.1
+2017-10-1 06:09:10 [INFO] [DbLib] Connecting to: jdbc:sqlite:C:\Users\elane\Desktop\Nukkit\nukkit.db (user: nukkit)
+2017-10-1 06:09:10 [INFO] [DbLib] DbLib 0.2.1 created by fromgate for nukkit.ru
+2017-10-1 06:09:10 [INFO] Loading FastAsyncWorldEdit v17.09.24-c3d12f1-908-16.6.5
+2017-10-1 06:09:10 [INFO] Loading PortSignal v1.1.1
+2017-10-1 06:09:10 [INFO] [PortSignal] Portal Sign 1.1.1 By [DeaDAyMeN(06699)] Loadded!!!
+2017-10-1 06:09:10 [INFO] Loading RealExplosions v1.0
+2017-10-1 06:09:10 [INFO] Loading WelcomeMessage v1.0.3
+2017-10-1 06:09:10 [INFO] Loading xKeepInventory v1.0.1505
+2017-10-1 06:09:10 [INFO] Preparing level "world"
+2017-10-1 06:09:10 [INFO] Enabling DbLib v0.2.1
+2017-10-1 06:09:10 [INFO] Enabling FastAsyncWorldEdit v17.09.24-c3d12f1-908-16.6.5
+2017-10-1 06:09:12 [INFO] Enabling PortSignal v1.1.1
+2017-10-1 06:09:12 [INFO] [PortSignal] Data folder founded !
+2017-10-1 06:09:12 [INFO] Enabling RealExplosions v1.0
+2017-10-1 06:09:12 [INFO] Enabling WelcomeMessage v1.0.3
+2017-10-1 06:09:12 [INFO] [WelcomeMessage] WelcomeMessage plugin Enabled!
+2017-10-1 06:09:12 [INFO] Enabling xKeepInventory v1.0.1505
+2017-10-1 06:09:12 [INFO] [xKeepInventory] Enabled successful
+2017-10-1 06:09:12 [INFO] [xKeepInventory] Inventory keeping enabled by user!
+2017-10-1 06:09:12 [INFO] Starting GS4 status listener
+2017-10-1 06:09:12 [INFO] Setting query port to 19132
+2017-10-1 06:09:12 [INFO] Query is running on 0.0.0.0:19132
+2017-10-1 06:09:12 [INFO] Default game type: Survival Mode
+2017-10-1 06:09:12 [INFO] Done (3.341s)! For help, type "help" or "?"

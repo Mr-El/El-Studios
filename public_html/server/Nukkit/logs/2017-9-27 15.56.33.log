@@ -1,0 +1,55 @@
+2017-9-27 14:30:22 [INFO] Loading nukkit.yml...
+2017-9-27 14:30:22 [INFO] Loading server properties...
+2017-9-27 14:30:22 [INFO] Selected English (eng) as the base language
+2017-9-27 14:30:22 [INFO] Starting Minecraft: PE server version v1.2.0.31 beta
+2017-9-27 14:30:22 [INFO] Opening server on 0.0.0.0:19132
+2017-9-27 14:30:22 [INFO] This server is running Nukkit version 1.0dev "蘋果(Apple)派(Pie)" (API 1.0.0)
+2017-9-27 14:30:22 [INFO] Nukkit is distributed under the LGPL License
+2017-9-27 14:30:23 [INFO] Loading recipes...
+2017-9-27 14:30:23 [INFO] Loaded 415 recipes.
+2017-9-27 14:30:23 [INFO] Successfully loaded 0 resource packs
+2017-9-27 14:30:23 [NOTICE] Level "world" not found
+2017-9-27 14:30:23 [INFO] Preparing level "world"
+2017-9-27 14:30:23 [INFO] Starting GS4 status listener
+2017-9-27 14:30:23 [INFO] Setting query port to 19132
+2017-9-27 14:30:23 [INFO] Query is running on 0.0.0.0:19132
+2017-9-27 14:30:23 [INFO] Default game type: Survival Mode
+2017-9-27 14:30:23 [INFO] Done (0.457s)! For help, type "help" or "?"
+2017-9-27 14:30:42 [INFO] TheMisterEl[/192.168.1.4:51574] logged in with entity id 1 at (world, 76.8263, 87.0, 219.3295)
+2017-9-27 14:30:53 [INFO] TheMisterEl joined the game
+2017-9-27 14:34:37 [INFO] [TheMisterEl: Set the world spawn point to (18.00, 78.00, 262.00)]
+2017-9-27 14:42:01 [INFO] [TheMisterEl: Set the time to 0]
+2017-9-27 14:52:19 [INFO] Unknown command. Try /help for a list of commands
+2017-9-27 14:52:20 [INFO] [CONSOLE: Reloading server...]
+2017-9-27 14:52:20 [INFO] Reloading...
+2017-9-27 14:52:20 [INFO] Saving levels...
+2017-9-27 14:52:20 [INFO] Reloading properties...
+2017-9-27 14:52:20 [INFO] Loading DbLib v0.2.1
+2017-9-27 14:52:20 [INFO] [DbLib] Connecting to: jdbc:sqlite:C:\Users\elane\Desktop\Nukkit\nukkit.db (user: nukkit)
+2017-9-27 14:52:20 [INFO] [DbLib] DbLib 0.2.1 created by fromgate for nukkit.ru
+2017-9-27 14:52:20 [INFO] Loading FastAsyncWorldEdit v17.09.24-c3d12f1-908-16.6.5
+2017-9-27 14:52:20 [INFO] Enabling DbLib v0.2.1
+2017-9-27 14:52:20 [INFO] Enabling FastAsyncWorldEdit v17.09.24-c3d12f1-908-16.6.5
+2017-9-27 14:52:25 [INFO] [CONSOLE: Reload complete.]
+2017-9-27 14:53:05 [INFO] TheMisterEl left the game
+2017-9-27 14:53:05 [INFO] TheMisterEl[/192.168.1.4:51574] logged out due to timeout
+2017-9-27 14:53:25 [NOTICE] Player data not found for "the mr el", creating new profile
+2017-9-27 14:53:31 [INFO] The Mr El[/192.168.1.4:56737] logged in with entity id 36 at (world, 18.0, 78.0, 262.0)
+2017-9-27 14:53:32 [INFO] The Mr El joined the game
+2017-9-27 14:53:45 [INFO] The Mr El left the game
+2017-9-27 14:53:45 [INFO] The Mr El[/192.168.1.4:56737] logged out due to client disconnect
+2017-9-27 14:54:27 [INFO] The Mr El[/192.168.1.4:56737] logged in with entity id 38 at (world, 18.0, 78.0, 262.0)
+2017-9-27 14:54:27 [INFO] The Mr El joined the game
+2017-9-27 14:54:56 [INFO] [CONSOLE: Set The Mr El's game mode to Creative Mode]
+2017-9-27 14:55:16 [INFO] The Mr El left the game
+2017-9-27 14:55:16 [INFO] The Mr El[/192.168.1.4:56737] logged out due to client disconnect
+2017-9-27 14:56:00 [INFO] TheMisterEl[/192.168.1.4:56737] logged in with entity id 44 at (world, 33.7357, 73.0131, 266.3)
+2017-9-27 14:56:01 [INFO] TheMisterEl joined the game
+2017-9-27 14:56:32 [INFO] [TheMisterEl: Set the time to 0]
+2017-9-27 15:11:51 [INFO] TheMisterEl left the game
+2017-9-27 15:11:51 [INFO] TheMisterEl[/192.168.1.4:56737] logged out due to timeout
+2017-9-27 15:15:19 [INFO] TheMisterEl[/192.168.1.4:56737] logged in with entity id 54 at (world, 47.0619, 71.2594, 257.5827)
+2017-9-27 15:15:20 [INFO] TheMisterEl joined the game
+2017-9-27 15:15:30 [INFO] [TheMisterEl: Set the time to 0]
+2017-9-27 15:56:33 [INFO] TheMisterEl left the game
+2017-9-27 15:56:33 [INFO] TheMisterEl[/192.168.1.4:56737] logged out due to timeout

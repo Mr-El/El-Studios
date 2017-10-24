@@ -1,0 +1,2043 @@
+2017-10-19 15:08:19 [INFO] Loading nukkit.yml...
+2017-10-19 15:08:19 [INFO] Loading server properties...
+2017-10-19 15:08:19 [INFO] Selected English (eng) as the base language
+2017-10-19 15:08:19 [INFO] Starting Minecraft: PE server version v1.2.2
+2017-10-19 15:08:19 [INFO] Opening server on 0.0.0.0:19132
+2017-10-19 15:08:19 [INFO] This server is running Nukkit version 1.0dev "蘋果(Apple)派(Pie)" (API 1.0.0)
+2017-10-19 15:08:19 [INFO] Nukkit is distributed under the LGPL License
+2017-10-19 15:08:20 [INFO] Loading recipes...
+2017-10-19 15:08:20 [INFO] Loaded 415 recipes.
+2017-10-19 15:08:20 [INFO] Successfully loaded 1 resource packs
+2017-10-19 15:08:20 [ERROR] Could not load 'MinoriaPortal V1.0.jar' in folder 'C:\Users\elane\Desktop\Nukkit\plugins': java.lang.NullPointerException
+	at java.util.regex.Matcher.getTextLength(Unknown Source)
+	at java.util.regex.Matcher.reset(Unknown Source)
+	at java.util.regex.Matcher.<init>(Unknown Source)
+	at java.util.regex.Pattern.matcher(Unknown Source)
+	at java.util.regex.Pattern.matches(Unknown Source)
+	at cn.nukkit.plugin.PluginManager.loadPlugins(PluginManager.java:179)
+	at cn.nukkit.plugin.PluginManager.loadPlugins(PluginManager.java:132)
+	at cn.nukkit.plugin.PluginManager.loadPlugins(PluginManager.java:124)
+	at cn.nukkit.plugin.PluginManager.loadPlugins(PluginManager.java:120)
+	at cn.nukkit.Server.<init>(Server.java:392)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-19 15:08:20 [ALERT] java.lang.NullPointerException
+	at java.util.regex.Matcher.getTextLength(Unknown Source)
+	at java.util.regex.Matcher.reset(Unknown Source)
+	at java.util.regex.Matcher.<init>(Unknown Source)
+	at java.util.regex.Pattern.matcher(Unknown Source)
+	at java.util.regex.Pattern.matches(Unknown Source)
+	at cn.nukkit.plugin.PluginManager.loadPlugins(PluginManager.java:179)
+	at cn.nukkit.plugin.PluginManager.loadPlugins(PluginManager.java:132)
+	at cn.nukkit.plugin.PluginManager.loadPlugins(PluginManager.java:124)
+	at cn.nukkit.plugin.PluginManager.loadPlugins(PluginManager.java:120)
+	at cn.nukkit.Server.<init>(Server.java:392)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-19 15:08:20 [ERROR] Could not load plugin 'PortSignal': plugin exists
+2017-10-19 15:08:20 [INFO] Loading SpamBan v1.0.0
+2017-10-19 15:08:20 [CRITICAL] Could not load plugin 'SpamBan'
+2017-10-19 15:08:20 [INFO] Loading DbLib v0.2.1
+2017-10-19 15:08:20 [INFO] [DbLib] Connecting to: jdbc:sqlite:C:\Users\elane\Desktop\Nukkit\nukkit.db (user: nukkit)
+2017-10-19 15:08:20 [INFO] [DbLib] DbLib 0.2.1 created by fromgate for nukkit.ru
+2017-10-19 15:08:20 [INFO] Loading FastAsyncWorldEdit v17.09.24-c3d12f1-908-16.6.5
+2017-10-19 15:08:20 [INFO] Loading LeetTP v1.2.6-b29
+2017-10-19 15:08:20 [INFO] Loading PortSignal v1.1.1
+2017-10-19 15:08:20 [INFO] [PortSignal] Portal Sign 1.1.1 By [DeaDAyMeN(06699)] Loadded!!!
+2017-10-19 15:08:20 [INFO] Loading RealExplosions v1.0
+2017-10-19 15:08:20 [INFO] Loading WelcomeMessage v1.0.3
+2017-10-19 15:08:20 [INFO] Loading xKeepInventory v1.0.1505
+2017-10-19 15:08:20 [INFO] Preparing level "world"
+2017-10-19 15:08:20 [INFO] Enabling DbLib v0.2.1
+2017-10-19 15:08:20 [INFO] Enabling FastAsyncWorldEdit v17.09.24-c3d12f1-908-16.6.5
+2017-10-19 15:08:21 [INFO] Enabling LeetTP v1.2.6-b29
+2017-10-19 15:08:21 [INFO] Enabling PortSignal v1.1.1
+2017-10-19 15:08:21 [INFO] [PortSignal] Data folder founded !
+2017-10-19 15:08:21 [INFO] Enabling RealExplosions v1.0
+2017-10-19 15:08:21 [INFO] Enabling WelcomeMessage v1.0.3
+2017-10-19 15:08:21 [INFO] [WelcomeMessage] WelcomeMessage plugin Enabled!
+2017-10-19 15:08:21 [INFO] Enabling xKeepInventory v1.0.1505
+2017-10-19 15:08:21 [INFO] [xKeepInventory] Enabled successful
+2017-10-19 15:08:21 [INFO] [xKeepInventory] Inventory keeping enabled by user!
+2017-10-19 15:08:21 [INFO] Starting GS4 status listener
+2017-10-19 15:08:21 [INFO] Setting query port to 19132
+2017-10-19 15:08:21 [INFO] Query is running on 0.0.0.0:19132
+2017-10-19 15:08:21 [INFO] Default game type: Survival Mode
+2017-10-19 15:08:21 [INFO] Done (3.372s)! For help, type "help" or "?"
+2017-10-19 15:34:16 [INFO] Ghreydafur[/73.169.206.156:49653] logged in with entity id 1 at (world, 81.2795, 72.0, 154.0949)
+2017-10-19 15:34:17 [INFO] Ghreydafur joined the game
+2017-10-19 15:34:38 [CRITICAL] Could not pass event 'cn.nukkit.event.player.PlayerInteractEvent' to 'PortSignal v1.1.1': null on com.deadaymen.portalsign.EventListener
+2017-10-19 15:34:38 [ALERT] cn.nukkit.utils.EventException
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:34)
+	at cn.nukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:56)
+	at cn.nukkit.plugin.PluginManager.callEvent(PluginManager.java:553)
+	at cn.nukkit.level.Level.useItemOn(Level.java:1975)
+	at cn.nukkit.level.Level.useItemOn(Level.java:1942)
+	at cn.nukkit.Player.handleDataPacket(Player.java:2921)
+	at java.util.ArrayList.forEach(Unknown Source)
+	at cn.nukkit.network.Network.processPackets(Network.java:169)
+	at cn.nukkit.network.Network.processBatch(Network.java:151)
+	at cn.nukkit.Player.handleDataPacket(Player.java:1982)
+	at cn.nukkit.network.RakNetInterface.handleEncapsulated(RakNetInterface.java:157)
+	at cn.nukkit.raknet.server.ServerHandler.handlePacket(ServerHandler.java:132)
+	at cn.nukkit.network.RakNetInterface.process(RakNetInterface.java:66)
+	at cn.nukkit.network.Network.processInterfaces(Network.java:75)
+	at cn.nukkit.Server.tick(Server.java:990)
+	at cn.nukkit.Server.tickProcessor(Server.java:799)
+	at cn.nukkit.Server.start(Server.java:778)
+	at cn.nukkit.Server.<init>(Server.java:469)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+Caused by: java.lang.NoSuchMethodError: cn.nukkit.event.player.PlayerInteractEvent.getAction()I
+	at com.deadaymen.portalsign.EventListener.onPlayerInteractEvent(EventListener.java:64)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:29)
+	... 18 more
+
+2017-10-19 15:34:39 [CRITICAL] Could not pass event 'cn.nukkit.event.player.PlayerInteractEvent' to 'PortSignal v1.1.1': null on com.deadaymen.portalsign.EventListener
+2017-10-19 15:34:39 [ALERT] cn.nukkit.utils.EventException
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:34)
+	at cn.nukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:56)
+	at cn.nukkit.plugin.PluginManager.callEvent(PluginManager.java:553)
+	at cn.nukkit.block.BlockPressurePlateBase.onEntityCollide(BlockPressurePlateBase.java:108)
+	at cn.nukkit.Player.checkBlockCollision(Player.java:1338)
+	at cn.nukkit.entity.Entity.entityBaseTick(Entity.java:1070)
+	at cn.nukkit.entity.EntityLiving.entityBaseTick(EntityLiving.java:197)
+	at cn.nukkit.Player.onUpdate(Player.java:1601)
+	at cn.nukkit.level.Level.doTick(Level.java:803)
+	at cn.nukkit.Server.checkTickUpdates(Server.java:926)
+	at cn.nukkit.Server.tick(Server.java:1001)
+	at cn.nukkit.Server.tickProcessor(Server.java:799)
+	at cn.nukkit.Server.start(Server.java:778)
+	at cn.nukkit.Server.<init>(Server.java:469)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+Caused by: java.lang.NoSuchMethodError: cn.nukkit.event.player.PlayerInteractEvent.getAction()I
+	at com.deadaymen.portalsign.EventListener.onPlayerInteractEvent(EventListener.java:64)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:29)
+	... 14 more
+
+2017-10-19 15:34:39 [CRITICAL] Could not pass event 'cn.nukkit.event.player.PlayerInteractEvent' to 'PortSignal v1.1.1': null on com.deadaymen.portalsign.EventListener
+2017-10-19 15:34:39 [ALERT] cn.nukkit.utils.EventException
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:34)
+	at cn.nukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:56)
+	at cn.nukkit.plugin.PluginManager.callEvent(PluginManager.java:553)
+	at cn.nukkit.block.BlockPressurePlateBase.onEntityCollide(BlockPressurePlateBase.java:108)
+	at cn.nukkit.Player.checkBlockCollision(Player.java:1338)
+	at cn.nukkit.entity.Entity.entityBaseTick(Entity.java:1070)
+	at cn.nukkit.entity.EntityLiving.entityBaseTick(EntityLiving.java:197)
+	at cn.nukkit.Player.onUpdate(Player.java:1601)
+	at cn.nukkit.level.Level.doTick(Level.java:803)
+	at cn.nukkit.Server.checkTickUpdates(Server.java:926)
+	at cn.nukkit.Server.tick(Server.java:1001)
+	at cn.nukkit.Server.tickProcessor(Server.java:799)
+	at cn.nukkit.Server.start(Server.java:778)
+	at cn.nukkit.Server.<init>(Server.java:469)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+Caused by: java.lang.NoSuchMethodError: cn.nukkit.event.player.PlayerInteractEvent.getAction()I
+	at com.deadaymen.portalsign.EventListener.onPlayerInteractEvent(EventListener.java:64)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:29)
+	... 14 more
+
+2017-10-19 15:34:40 [CRITICAL] Could not pass event 'cn.nukkit.event.player.PlayerInteractEvent' to 'PortSignal v1.1.1': null on com.deadaymen.portalsign.EventListener
+2017-10-19 15:34:40 [ALERT] cn.nukkit.utils.EventException
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:34)
+	at cn.nukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:56)
+	at cn.nukkit.plugin.PluginManager.callEvent(PluginManager.java:553)
+	at cn.nukkit.block.BlockPressurePlateBase.onEntityCollide(BlockPressurePlateBase.java:108)
+	at cn.nukkit.Player.checkBlockCollision(Player.java:1338)
+	at cn.nukkit.entity.Entity.entityBaseTick(Entity.java:1070)
+	at cn.nukkit.entity.EntityLiving.entityBaseTick(EntityLiving.java:197)
+	at cn.nukkit.Player.onUpdate(Player.java:1601)
+	at cn.nukkit.level.Level.doTick(Level.java:803)
+	at cn.nukkit.Server.checkTickUpdates(Server.java:926)
+	at cn.nukkit.Server.tick(Server.java:1001)
+	at cn.nukkit.Server.tickProcessor(Server.java:799)
+	at cn.nukkit.Server.start(Server.java:778)
+	at cn.nukkit.Server.<init>(Server.java:469)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+Caused by: java.lang.NoSuchMethodError: cn.nukkit.event.player.PlayerInteractEvent.getAction()I
+	at com.deadaymen.portalsign.EventListener.onPlayerInteractEvent(EventListener.java:64)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:29)
+	... 14 more
+
+2017-10-19 15:34:40 [CRITICAL] Could not pass event 'cn.nukkit.event.player.PlayerInteractEvent' to 'PortSignal v1.1.1': null on com.deadaymen.portalsign.EventListener
+2017-10-19 15:34:40 [ALERT] cn.nukkit.utils.EventException
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:34)
+	at cn.nukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:56)
+	at cn.nukkit.plugin.PluginManager.callEvent(PluginManager.java:553)
+	at cn.nukkit.block.BlockPressurePlateBase.onEntityCollide(BlockPressurePlateBase.java:108)
+	at cn.nukkit.Player.checkBlockCollision(Player.java:1338)
+	at cn.nukkit.entity.Entity.entityBaseTick(Entity.java:1070)
+	at cn.nukkit.entity.EntityLiving.entityBaseTick(EntityLiving.java:197)
+	at cn.nukkit.Player.onUpdate(Player.java:1601)
+	at cn.nukkit.level.Level.doTick(Level.java:803)
+	at cn.nukkit.Server.checkTickUpdates(Server.java:926)
+	at cn.nukkit.Server.tick(Server.java:1001)
+	at cn.nukkit.Server.tickProcessor(Server.java:799)
+	at cn.nukkit.Server.start(Server.java:778)
+	at cn.nukkit.Server.<init>(Server.java:469)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+Caused by: java.lang.NoSuchMethodError: cn.nukkit.event.player.PlayerInteractEvent.getAction()I
+	at com.deadaymen.portalsign.EventListener.onPlayerInteractEvent(EventListener.java:64)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:29)
+	... 14 more
+
+2017-10-19 15:34:46 [CRITICAL] Could not pass event 'cn.nukkit.event.player.PlayerInteractEvent' to 'PortSignal v1.1.1': null on com.deadaymen.portalsign.EventListener
+2017-10-19 15:34:46 [ALERT] cn.nukkit.utils.EventException
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:34)
+	at cn.nukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:56)
+	at cn.nukkit.plugin.PluginManager.callEvent(PluginManager.java:553)
+	at cn.nukkit.block.BlockPressurePlateBase.onEntityCollide(BlockPressurePlateBase.java:108)
+	at cn.nukkit.Player.checkBlockCollision(Player.java:1338)
+	at cn.nukkit.entity.Entity.entityBaseTick(Entity.java:1070)
+	at cn.nukkit.entity.EntityLiving.entityBaseTick(EntityLiving.java:197)
+	at cn.nukkit.Player.onUpdate(Player.java:1601)
+	at cn.nukkit.level.Level.doTick(Level.java:803)
+	at cn.nukkit.Server.checkTickUpdates(Server.java:926)
+	at cn.nukkit.Server.tick(Server.java:1001)
+	at cn.nukkit.Server.tickProcessor(Server.java:799)
+	at cn.nukkit.Server.start(Server.java:778)
+	at cn.nukkit.Server.<init>(Server.java:469)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+Caused by: java.lang.NoSuchMethodError: cn.nukkit.event.player.PlayerInteractEvent.getAction()I
+	at com.deadaymen.portalsign.EventListener.onPlayerInteractEvent(EventListener.java:64)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:29)
+	... 14 more
+
+2017-10-19 15:34:46 [CRITICAL] Could not pass event 'cn.nukkit.event.player.PlayerInteractEvent' to 'PortSignal v1.1.1': null on com.deadaymen.portalsign.EventListener
+2017-10-19 15:34:46 [ALERT] cn.nukkit.utils.EventException
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:34)
+	at cn.nukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:56)
+	at cn.nukkit.plugin.PluginManager.callEvent(PluginManager.java:553)
+	at cn.nukkit.block.BlockPressurePlateBase.onEntityCollide(BlockPressurePlateBase.java:108)
+	at cn.nukkit.Player.checkBlockCollision(Player.java:1338)
+	at cn.nukkit.entity.Entity.entityBaseTick(Entity.java:1070)
+	at cn.nukkit.entity.EntityLiving.entityBaseTick(EntityLiving.java:197)
+	at cn.nukkit.Player.onUpdate(Player.java:1601)
+	at cn.nukkit.level.Level.doTick(Level.java:803)
+	at cn.nukkit.Server.checkTickUpdates(Server.java:926)
+	at cn.nukkit.Server.tick(Server.java:1001)
+	at cn.nukkit.Server.tickProcessor(Server.java:799)
+	at cn.nukkit.Server.start(Server.java:778)
+	at cn.nukkit.Server.<init>(Server.java:469)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+Caused by: java.lang.NoSuchMethodError: cn.nukkit.event.player.PlayerInteractEvent.getAction()I
+	at com.deadaymen.portalsign.EventListener.onPlayerInteractEvent(EventListener.java:64)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:29)
+	... 14 more
+
+2017-10-19 15:34:47 [CRITICAL] Could not pass event 'cn.nukkit.event.player.PlayerInteractEvent' to 'PortSignal v1.1.1': null on com.deadaymen.portalsign.EventListener
+2017-10-19 15:34:47 [ALERT] cn.nukkit.utils.EventException
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:34)
+	at cn.nukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:56)
+	at cn.nukkit.plugin.PluginManager.callEvent(PluginManager.java:553)
+	at cn.nukkit.block.BlockPressurePlateBase.onEntityCollide(BlockPressurePlateBase.java:108)
+	at cn.nukkit.Player.checkBlockCollision(Player.java:1338)
+	at cn.nukkit.entity.Entity.entityBaseTick(Entity.java:1070)
+	at cn.nukkit.entity.EntityLiving.entityBaseTick(EntityLiving.java:197)
+	at cn.nukkit.Player.onUpdate(Player.java:1601)
+	at cn.nukkit.level.Level.doTick(Level.java:803)
+	at cn.nukkit.Server.checkTickUpdates(Server.java:926)
+	at cn.nukkit.Server.tick(Server.java:1001)
+	at cn.nukkit.Server.tickProcessor(Server.java:799)
+	at cn.nukkit.Server.start(Server.java:778)
+	at cn.nukkit.Server.<init>(Server.java:469)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+Caused by: java.lang.NoSuchMethodError: cn.nukkit.event.player.PlayerInteractEvent.getAction()I
+	at com.deadaymen.portalsign.EventListener.onPlayerInteractEvent(EventListener.java:64)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:29)
+	... 14 more
+
+2017-10-19 15:34:53 [CRITICAL] Could not pass event 'cn.nukkit.event.player.PlayerInteractEvent' to 'PortSignal v1.1.1': null on com.deadaymen.portalsign.EventListener
+2017-10-19 15:34:53 [ALERT] cn.nukkit.utils.EventException
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:34)
+	at cn.nukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:56)
+	at cn.nukkit.plugin.PluginManager.callEvent(PluginManager.java:553)
+	at cn.nukkit.level.Level.useItemOn(Level.java:1975)
+	at cn.nukkit.level.Level.useItemOn(Level.java:1942)
+	at cn.nukkit.Player.handleDataPacket(Player.java:2921)
+	at java.util.ArrayList.forEach(Unknown Source)
+	at cn.nukkit.network.Network.processPackets(Network.java:169)
+	at cn.nukkit.network.Network.processBatch(Network.java:151)
+	at cn.nukkit.Player.handleDataPacket(Player.java:1982)
+	at cn.nukkit.network.RakNetInterface.handleEncapsulated(RakNetInterface.java:157)
+	at cn.nukkit.raknet.server.ServerHandler.handlePacket(ServerHandler.java:132)
+	at cn.nukkit.network.RakNetInterface.process(RakNetInterface.java:66)
+	at cn.nukkit.network.Network.processInterfaces(Network.java:75)
+	at cn.nukkit.Server.tick(Server.java:990)
+	at cn.nukkit.Server.tickProcessor(Server.java:799)
+	at cn.nukkit.Server.start(Server.java:778)
+	at cn.nukkit.Server.<init>(Server.java:469)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+Caused by: java.lang.NoSuchMethodError: cn.nukkit.event.player.PlayerInteractEvent.getAction()I
+	at com.deadaymen.portalsign.EventListener.onPlayerInteractEvent(EventListener.java:64)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:29)
+	... 18 more
+
+2017-10-19 15:34:54 [CRITICAL] Could not pass event 'cn.nukkit.event.player.PlayerInteractEvent' to 'PortSignal v1.1.1': null on com.deadaymen.portalsign.EventListener
+2017-10-19 15:34:54 [ALERT] cn.nukkit.utils.EventException
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:34)
+	at cn.nukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:56)
+	at cn.nukkit.plugin.PluginManager.callEvent(PluginManager.java:553)
+	at cn.nukkit.level.Level.useItemOn(Level.java:1975)
+	at cn.nukkit.level.Level.useItemOn(Level.java:1942)
+	at cn.nukkit.Player.handleDataPacket(Player.java:2921)
+	at java.util.ArrayList.forEach(Unknown Source)
+	at cn.nukkit.network.Network.processPackets(Network.java:169)
+	at cn.nukkit.network.Network.processBatch(Network.java:151)
+	at cn.nukkit.Player.handleDataPacket(Player.java:1982)
+	at cn.nukkit.network.RakNetInterface.handleEncapsulated(RakNetInterface.java:157)
+	at cn.nukkit.raknet.server.ServerHandler.handlePacket(ServerHandler.java:132)
+	at cn.nukkit.network.RakNetInterface.process(RakNetInterface.java:66)
+	at cn.nukkit.network.Network.processInterfaces(Network.java:75)
+	at cn.nukkit.Server.tick(Server.java:990)
+	at cn.nukkit.Server.tickProcessor(Server.java:799)
+	at cn.nukkit.Server.start(Server.java:778)
+	at cn.nukkit.Server.<init>(Server.java:469)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+Caused by: java.lang.NoSuchMethodError: cn.nukkit.event.player.PlayerInteractEvent.getAction()I
+	at com.deadaymen.portalsign.EventListener.onPlayerInteractEvent(EventListener.java:64)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:29)
+	... 18 more
+
+2017-10-19 15:34:56 [CRITICAL] Could not pass event 'cn.nukkit.event.player.PlayerInteractEvent' to 'PortSignal v1.1.1': null on com.deadaymen.portalsign.EventListener
+2017-10-19 15:34:56 [ALERT] cn.nukkit.utils.EventException
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:34)
+	at cn.nukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:56)
+	at cn.nukkit.plugin.PluginManager.callEvent(PluginManager.java:553)
+	at cn.nukkit.level.Level.useItemOn(Level.java:1975)
+	at cn.nukkit.level.Level.useItemOn(Level.java:1942)
+	at cn.nukkit.Player.handleDataPacket(Player.java:2921)
+	at java.util.ArrayList.forEach(Unknown Source)
+	at cn.nukkit.network.Network.processPackets(Network.java:169)
+	at cn.nukkit.network.Network.processBatch(Network.java:151)
+	at cn.nukkit.Player.handleDataPacket(Player.java:1982)
+	at cn.nukkit.network.RakNetInterface.handleEncapsulated(RakNetInterface.java:157)
+	at cn.nukkit.raknet.server.ServerHandler.handlePacket(ServerHandler.java:132)
+	at cn.nukkit.network.RakNetInterface.process(RakNetInterface.java:66)
+	at cn.nukkit.network.Network.processInterfaces(Network.java:75)
+	at cn.nukkit.Server.tick(Server.java:990)
+	at cn.nukkit.Server.tickProcessor(Server.java:799)
+	at cn.nukkit.Server.start(Server.java:778)
+	at cn.nukkit.Server.<init>(Server.java:469)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+Caused by: java.lang.NoSuchMethodError: cn.nukkit.event.player.PlayerInteractEvent.getAction()I
+	at com.deadaymen.portalsign.EventListener.onPlayerInteractEvent(EventListener.java:64)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:29)
+	... 18 more
+
+2017-10-19 15:34:57 [CRITICAL] Could not pass event 'cn.nukkit.event.player.PlayerInteractEvent' to 'PortSignal v1.1.1': null on com.deadaymen.portalsign.EventListener
+2017-10-19 15:34:57 [ALERT] cn.nukkit.utils.EventException
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:34)
+	at cn.nukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:56)
+	at cn.nukkit.plugin.PluginManager.callEvent(PluginManager.java:553)
+	at cn.nukkit.level.Level.useItemOn(Level.java:1975)
+	at cn.nukkit.level.Level.useItemOn(Level.java:1942)
+	at cn.nukkit.Player.handleDataPacket(Player.java:2921)
+	at java.util.ArrayList.forEach(Unknown Source)
+	at cn.nukkit.network.Network.processPackets(Network.java:169)
+	at cn.nukkit.network.Network.processBatch(Network.java:151)
+	at cn.nukkit.Player.handleDataPacket(Player.java:1982)
+	at cn.nukkit.network.RakNetInterface.handleEncapsulated(RakNetInterface.java:157)
+	at cn.nukkit.raknet.server.ServerHandler.handlePacket(ServerHandler.java:132)
+	at cn.nukkit.network.RakNetInterface.process(RakNetInterface.java:66)
+	at cn.nukkit.network.Network.processInterfaces(Network.java:75)
+	at cn.nukkit.Server.tick(Server.java:990)
+	at cn.nukkit.Server.tickProcessor(Server.java:799)
+	at cn.nukkit.Server.start(Server.java:778)
+	at cn.nukkit.Server.<init>(Server.java:469)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+Caused by: java.lang.NoSuchMethodError: cn.nukkit.event.player.PlayerInteractEvent.getAction()I
+	at com.deadaymen.portalsign.EventListener.onPlayerInteractEvent(EventListener.java:64)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:29)
+	... 18 more
+
+2017-10-19 15:35:05 [WARNING] Ghreydafur moved wrongly!
+2017-10-19 15:35:17 [CRITICAL] Could not pass event 'cn.nukkit.event.player.PlayerInteractEvent' to 'PortSignal v1.1.1': null on com.deadaymen.portalsign.EventListener
+2017-10-19 15:35:17 [ALERT] cn.nukkit.utils.EventException
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:34)
+	at cn.nukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:56)
+	at cn.nukkit.plugin.PluginManager.callEvent(PluginManager.java:553)
+	at cn.nukkit.Player.handleDataPacket(Player.java:2220)
+	at java.util.ArrayList.forEach(Unknown Source)
+	at cn.nukkit.network.Network.processPackets(Network.java:169)
+	at cn.nukkit.network.Network.processBatch(Network.java:151)
+	at cn.nukkit.Player.handleDataPacket(Player.java:1982)
+	at cn.nukkit.network.RakNetInterface.handleEncapsulated(RakNetInterface.java:157)
+	at cn.nukkit.raknet.server.ServerHandler.handlePacket(ServerHandler.java:132)
+	at cn.nukkit.network.RakNetInterface.process(RakNetInterface.java:66)
+	at cn.nukkit.network.Network.processInterfaces(Network.java:75)
+	at cn.nukkit.Server.tick(Server.java:990)
+	at cn.nukkit.Server.tickProcessor(Server.java:799)
+	at cn.nukkit.Server.start(Server.java:778)
+	at cn.nukkit.Server.<init>(Server.java:469)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+Caused by: java.lang.NoSuchMethodError: cn.nukkit.event.player.PlayerInteractEvent.getAction()I
+	at com.deadaymen.portalsign.EventListener.onPlayerInteractEvent(EventListener.java:64)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:29)
+	... 16 more
+
+2017-10-19 15:35:17 [CRITICAL] Could not pass event 'cn.nukkit.event.player.PlayerInteractEvent' to 'PortSignal v1.1.1': null on com.deadaymen.portalsign.EventListener
+2017-10-19 15:35:17 [ALERT] cn.nukkit.utils.EventException
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:34)
+	at cn.nukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:56)
+	at cn.nukkit.plugin.PluginManager.callEvent(PluginManager.java:553)
+	at cn.nukkit.Player.handleDataPacket(Player.java:2220)
+	at java.util.ArrayList.forEach(Unknown Source)
+	at cn.nukkit.network.Network.processPackets(Network.java:169)
+	at cn.nukkit.network.Network.processBatch(Network.java:151)
+	at cn.nukkit.Player.handleDataPacket(Player.java:1982)
+	at cn.nukkit.network.RakNetInterface.handleEncapsulated(RakNetInterface.java:157)
+	at cn.nukkit.raknet.server.ServerHandler.handlePacket(ServerHandler.java:132)
+	at cn.nukkit.network.RakNetInterface.process(RakNetInterface.java:66)
+	at cn.nukkit.network.Network.processInterfaces(Network.java:75)
+	at cn.nukkit.Server.tick(Server.java:990)
+	at cn.nukkit.Server.tickProcessor(Server.java:799)
+	at cn.nukkit.Server.start(Server.java:778)
+	at cn.nukkit.Server.<init>(Server.java:469)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+Caused by: java.lang.NoSuchMethodError: cn.nukkit.event.player.PlayerInteractEvent.getAction()I
+	at com.deadaymen.portalsign.EventListener.onPlayerInteractEvent(EventListener.java:64)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:29)
+	... 16 more
+
+2017-10-19 15:35:18 [CRITICAL] Could not pass event 'cn.nukkit.event.player.PlayerInteractEvent' to 'PortSignal v1.1.1': null on com.deadaymen.portalsign.EventListener
+2017-10-19 15:35:18 [ALERT] cn.nukkit.utils.EventException
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:34)
+	at cn.nukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:56)
+	at cn.nukkit.plugin.PluginManager.callEvent(PluginManager.java:553)
+	at cn.nukkit.Player.handleDataPacket(Player.java:2220)
+	at java.util.ArrayList.forEach(Unknown Source)
+	at cn.nukkit.network.Network.processPackets(Network.java:169)
+	at cn.nukkit.network.Network.processBatch(Network.java:151)
+	at cn.nukkit.Player.handleDataPacket(Player.java:1982)
+	at cn.nukkit.network.RakNetInterface.handleEncapsulated(RakNetInterface.java:157)
+	at cn.nukkit.raknet.server.ServerHandler.handlePacket(ServerHandler.java:132)
+	at cn.nukkit.network.RakNetInterface.process(RakNetInterface.java:68)
+	at cn.nukkit.network.Network.processInterfaces(Network.java:75)
+	at cn.nukkit.Server.tick(Server.java:990)
+	at cn.nukkit.Server.tickProcessor(Server.java:799)
+	at cn.nukkit.Server.start(Server.java:778)
+	at cn.nukkit.Server.<init>(Server.java:469)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+Caused by: java.lang.NoSuchMethodError: cn.nukkit.event.player.PlayerInteractEvent.getAction()I
+	at com.deadaymen.portalsign.EventListener.onPlayerInteractEvent(EventListener.java:64)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:29)
+	... 16 more
+
+2017-10-19 15:35:30 [INFO] Ghreydafur fell out of the world
+2017-10-19 15:36:04 [CRITICAL] Could not pass event 'cn.nukkit.event.player.PlayerInteractEvent' to 'PortSignal v1.1.1': null on com.deadaymen.portalsign.EventListener
+2017-10-19 15:36:04 [ALERT] cn.nukkit.utils.EventException
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:34)
+	at cn.nukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:56)
+	at cn.nukkit.plugin.PluginManager.callEvent(PluginManager.java:553)
+	at cn.nukkit.Player.handleDataPacket(Player.java:2220)
+	at java.util.ArrayList.forEach(Unknown Source)
+	at cn.nukkit.network.Network.processPackets(Network.java:169)
+	at cn.nukkit.network.Network.processBatch(Network.java:151)
+	at cn.nukkit.Player.handleDataPacket(Player.java:1982)
+	at cn.nukkit.network.RakNetInterface.handleEncapsulated(RakNetInterface.java:157)
+	at cn.nukkit.raknet.server.ServerHandler.handlePacket(ServerHandler.java:132)
+	at cn.nukkit.network.RakNetInterface.process(RakNetInterface.java:66)
+	at cn.nukkit.network.Network.processInterfaces(Network.java:75)
+	at cn.nukkit.Server.tick(Server.java:990)
+	at cn.nukkit.Server.tickProcessor(Server.java:799)
+	at cn.nukkit.Server.start(Server.java:778)
+	at cn.nukkit.Server.<init>(Server.java:469)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+Caused by: java.lang.NoSuchMethodError: cn.nukkit.event.player.PlayerInteractEvent.getAction()I
+	at com.deadaymen.portalsign.EventListener.onPlayerInteractEvent(EventListener.java:64)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:29)
+	... 16 more
+
+2017-10-19 15:36:04 [CRITICAL] Could not pass event 'cn.nukkit.event.player.PlayerInteractEvent' to 'PortSignal v1.1.1': null on com.deadaymen.portalsign.EventListener
+2017-10-19 15:36:04 [ALERT] cn.nukkit.utils.EventException
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:34)
+	at cn.nukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:56)
+	at cn.nukkit.plugin.PluginManager.callEvent(PluginManager.java:553)
+	at cn.nukkit.Player.handleDataPacket(Player.java:2220)
+	at java.util.ArrayList.forEach(Unknown Source)
+	at cn.nukkit.network.Network.processPackets(Network.java:169)
+	at cn.nukkit.network.Network.processBatch(Network.java:151)
+	at cn.nukkit.Player.handleDataPacket(Player.java:1982)
+	at cn.nukkit.network.RakNetInterface.handleEncapsulated(RakNetInterface.java:157)
+	at cn.nukkit.raknet.server.ServerHandler.handlePacket(ServerHandler.java:132)
+	at cn.nukkit.network.RakNetInterface.process(RakNetInterface.java:66)
+	at cn.nukkit.network.Network.processInterfaces(Network.java:75)
+	at cn.nukkit.Server.tick(Server.java:990)
+	at cn.nukkit.Server.tickProcessor(Server.java:799)
+	at cn.nukkit.Server.start(Server.java:778)
+	at cn.nukkit.Server.<init>(Server.java:469)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+Caused by: java.lang.NoSuchMethodError: cn.nukkit.event.player.PlayerInteractEvent.getAction()I
+	at com.deadaymen.portalsign.EventListener.onPlayerInteractEvent(EventListener.java:64)
+	at sun.reflect.GeneratedMethodAccessor21.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:29)
+	... 16 more
+
+2017-10-19 15:36:05 [CRITICAL] Could not pass event 'cn.nukkit.event.player.PlayerInteractEvent' to 'PortSignal v1.1.1': null on com.deadaymen.portalsign.EventListener
+2017-10-19 15:36:05 [ALERT] cn.nukkit.utils.EventException
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:34)
+	at cn.nukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:56)
+	at cn.nukkit.plugin.PluginManager.callEvent(PluginManager.java:553)
+	at cn.nukkit.Player.handleDataPacket(Player.java:2220)
+	at java.util.ArrayList.forEach(Unknown Source)
+	at cn.nukkit.network.Network.processPackets(Network.java:169)
+	at cn.nukkit.network.Network.processBatch(Network.java:151)
+	at cn.nukkit.Player.handleDataPacket(Player.java:1982)
+	at cn.nukkit.network.RakNetInterface.handleEncapsulated(RakNetInterface.java:157)
+	at cn.nukkit.raknet.server.ServerHandler.handlePacket(ServerHandler.java:132)
+	at cn.nukkit.network.RakNetInterface.process(RakNetInterface.java:66)
+	at cn.nukkit.network.Network.processInterfaces(Network.java:75)
+	at cn.nukkit.Server.tick(Server.java:990)
+	at cn.nukkit.Server.tickProcessor(Server.java:799)
+	at cn.nukkit.Server.start(Server.java:778)
+	at cn.nukkit.Server.<init>(Server.java:469)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+Caused by: java.lang.NoSuchMethodError: cn.nukkit.event.player.PlayerInteractEvent.getAction()I
+	at com.deadaymen.portalsign.EventListener.onPlayerInteractEvent(EventListener.java:64)
+	at sun.reflect.GeneratedMethodAccessor21.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:29)
+	... 16 more
+
+2017-10-19 15:36:05 [CRITICAL] Could not pass event 'cn.nukkit.event.player.PlayerInteractEvent' to 'PortSignal v1.1.1': null on com.deadaymen.portalsign.EventListener
+2017-10-19 15:36:05 [ALERT] cn.nukkit.utils.EventException
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:34)
+	at cn.nukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:56)
+	at cn.nukkit.plugin.PluginManager.callEvent(PluginManager.java:553)
+	at cn.nukkit.Player.handleDataPacket(Player.java:2220)
+	at java.util.ArrayList.forEach(Unknown Source)
+	at cn.nukkit.network.Network.processPackets(Network.java:169)
+	at cn.nukkit.network.Network.processBatch(Network.java:151)
+	at cn.nukkit.Player.handleDataPacket(Player.java:1982)
+	at cn.nukkit.network.RakNetInterface.handleEncapsulated(RakNetInterface.java:157)
+	at cn.nukkit.raknet.server.ServerHandler.handlePacket(ServerHandler.java:132)
+	at cn.nukkit.network.RakNetInterface.process(RakNetInterface.java:66)
+	at cn.nukkit.network.Network.processInterfaces(Network.java:75)
+	at cn.nukkit.Server.tick(Server.java:990)
+	at cn.nukkit.Server.tickProcessor(Server.java:799)
+	at cn.nukkit.Server.start(Server.java:778)
+	at cn.nukkit.Server.<init>(Server.java:469)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+Caused by: java.lang.NoSuchMethodError: cn.nukkit.event.player.PlayerInteractEvent.getAction()I
+	at com.deadaymen.portalsign.EventListener.onPlayerInteractEvent(EventListener.java:64)
+	at sun.reflect.GeneratedMethodAccessor21.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:29)
+	... 16 more
+
+2017-10-19 15:36:06 [CRITICAL] Could not pass event 'cn.nukkit.event.player.PlayerInteractEvent' to 'PortSignal v1.1.1': null on com.deadaymen.portalsign.EventListener
+2017-10-19 15:36:06 [ALERT] cn.nukkit.utils.EventException
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:34)
+	at cn.nukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:56)
+	at cn.nukkit.plugin.PluginManager.callEvent(PluginManager.java:553)
+	at cn.nukkit.Player.handleDataPacket(Player.java:2220)
+	at java.util.ArrayList.forEach(Unknown Source)
+	at cn.nukkit.network.Network.processPackets(Network.java:169)
+	at cn.nukkit.network.Network.processBatch(Network.java:151)
+	at cn.nukkit.Player.handleDataPacket(Player.java:1982)
+	at cn.nukkit.network.RakNetInterface.handleEncapsulated(RakNetInterface.java:157)
+	at cn.nukkit.raknet.server.ServerHandler.handlePacket(ServerHandler.java:132)
+	at cn.nukkit.network.RakNetInterface.process(RakNetInterface.java:66)
+	at cn.nukkit.network.Network.processInterfaces(Network.java:75)
+	at cn.nukkit.Server.tick(Server.java:990)
+	at cn.nukkit.Server.tickProcessor(Server.java:799)
+	at cn.nukkit.Server.start(Server.java:778)
+	at cn.nukkit.Server.<init>(Server.java:469)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+Caused by: java.lang.NoSuchMethodError: cn.nukkit.event.player.PlayerInteractEvent.getAction()I
+	at com.deadaymen.portalsign.EventListener.onPlayerInteractEvent(EventListener.java:64)
+	at sun.reflect.GeneratedMethodAccessor21.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:29)
+	... 16 more
+
+2017-10-19 15:36:06 [CRITICAL] Could not pass event 'cn.nukkit.event.player.PlayerInteractEvent' to 'PortSignal v1.1.1': null on com.deadaymen.portalsign.EventListener
+2017-10-19 15:36:06 [ALERT] cn.nukkit.utils.EventException
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:34)
+	at cn.nukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:56)
+	at cn.nukkit.plugin.PluginManager.callEvent(PluginManager.java:553)
+	at cn.nukkit.Player.handleDataPacket(Player.java:2220)
+	at java.util.ArrayList.forEach(Unknown Source)
+	at cn.nukkit.network.Network.processPackets(Network.java:169)
+	at cn.nukkit.network.Network.processBatch(Network.java:151)
+	at cn.nukkit.Player.handleDataPacket(Player.java:1982)
+	at cn.nukkit.network.RakNetInterface.handleEncapsulated(RakNetInterface.java:157)
+	at cn.nukkit.raknet.server.ServerHandler.handlePacket(ServerHandler.java:132)
+	at cn.nukkit.network.RakNetInterface.process(RakNetInterface.java:66)
+	at cn.nukkit.network.Network.processInterfaces(Network.java:75)
+	at cn.nukkit.Server.tick(Server.java:990)
+	at cn.nukkit.Server.tickProcessor(Server.java:799)
+	at cn.nukkit.Server.start(Server.java:778)
+	at cn.nukkit.Server.<init>(Server.java:469)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+Caused by: java.lang.NoSuchMethodError: cn.nukkit.event.player.PlayerInteractEvent.getAction()I
+	at com.deadaymen.portalsign.EventListener.onPlayerInteractEvent(EventListener.java:64)
+	at sun.reflect.GeneratedMethodAccessor21.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:29)
+	... 16 more
+
+2017-10-19 15:36:07 [CRITICAL] Could not pass event 'cn.nukkit.event.player.PlayerInteractEvent' to 'PortSignal v1.1.1': null on com.deadaymen.portalsign.EventListener
+2017-10-19 15:36:07 [ALERT] cn.nukkit.utils.EventException
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:34)
+	at cn.nukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:56)
+	at cn.nukkit.plugin.PluginManager.callEvent(PluginManager.java:553)
+	at cn.nukkit.Player.handleDataPacket(Player.java:2220)
+	at java.util.ArrayList.forEach(Unknown Source)
+	at cn.nukkit.network.Network.processPackets(Network.java:169)
+	at cn.nukkit.network.Network.processBatch(Network.java:151)
+	at cn.nukkit.Player.handleDataPacket(Player.java:1982)
+	at cn.nukkit.network.RakNetInterface.handleEncapsulated(RakNetInterface.java:157)
+	at cn.nukkit.raknet.server.ServerHandler.handlePacket(ServerHandler.java:132)
+	at cn.nukkit.network.RakNetInterface.process(RakNetInterface.java:66)
+	at cn.nukkit.network.Network.processInterfaces(Network.java:75)
+	at cn.nukkit.Server.tick(Server.java:990)
+	at cn.nukkit.Server.tickProcessor(Server.java:799)
+	at cn.nukkit.Server.start(Server.java:778)
+	at cn.nukkit.Server.<init>(Server.java:469)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+Caused by: java.lang.NoSuchMethodError: cn.nukkit.event.player.PlayerInteractEvent.getAction()I
+	at com.deadaymen.portalsign.EventListener.onPlayerInteractEvent(EventListener.java:64)
+	at sun.reflect.GeneratedMethodAccessor21.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:29)
+	... 16 more
+
+2017-10-19 15:36:07 [CRITICAL] Could not pass event 'cn.nukkit.event.player.PlayerInteractEvent' to 'PortSignal v1.1.1': null on com.deadaymen.portalsign.EventListener
+2017-10-19 15:36:07 [ALERT] cn.nukkit.utils.EventException
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:34)
+	at cn.nukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:56)
+	at cn.nukkit.plugin.PluginManager.callEvent(PluginManager.java:553)
+	at cn.nukkit.Player.handleDataPacket(Player.java:2220)
+	at java.util.ArrayList.forEach(Unknown Source)
+	at cn.nukkit.network.Network.processPackets(Network.java:169)
+	at cn.nukkit.network.Network.processBatch(Network.java:151)
+	at cn.nukkit.Player.handleDataPacket(Player.java:1982)
+	at cn.nukkit.network.RakNetInterface.handleEncapsulated(RakNetInterface.java:157)
+	at cn.nukkit.raknet.server.ServerHandler.handlePacket(ServerHandler.java:132)
+	at cn.nukkit.network.RakNetInterface.process(RakNetInterface.java:66)
+	at cn.nukkit.network.Network.processInterfaces(Network.java:75)
+	at cn.nukkit.Server.tick(Server.java:990)
+	at cn.nukkit.Server.tickProcessor(Server.java:799)
+	at cn.nukkit.Server.start(Server.java:778)
+	at cn.nukkit.Server.<init>(Server.java:469)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+Caused by: java.lang.NoSuchMethodError: cn.nukkit.event.player.PlayerInteractEvent.getAction()I
+	at com.deadaymen.portalsign.EventListener.onPlayerInteractEvent(EventListener.java:64)
+	at sun.reflect.GeneratedMethodAccessor21.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:29)
+	... 16 more
+
+2017-10-19 15:36:07 [CRITICAL] Could not pass event 'cn.nukkit.event.player.PlayerInteractEvent' to 'PortSignal v1.1.1': null on com.deadaymen.portalsign.EventListener
+2017-10-19 15:36:07 [ALERT] cn.nukkit.utils.EventException
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:34)
+	at cn.nukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:56)
+	at cn.nukkit.plugin.PluginManager.callEvent(PluginManager.java:553)
+	at cn.nukkit.Player.handleDataPacket(Player.java:2220)
+	at java.util.ArrayList.forEach(Unknown Source)
+	at cn.nukkit.network.Network.processPackets(Network.java:169)
+	at cn.nukkit.network.Network.processBatch(Network.java:151)
+	at cn.nukkit.Player.handleDataPacket(Player.java:1982)
+	at cn.nukkit.network.RakNetInterface.handleEncapsulated(RakNetInterface.java:157)
+	at cn.nukkit.raknet.server.ServerHandler.handlePacket(ServerHandler.java:132)
+	at cn.nukkit.network.RakNetInterface.process(RakNetInterface.java:66)
+	at cn.nukkit.network.Network.processInterfaces(Network.java:75)
+	at cn.nukkit.Server.tick(Server.java:990)
+	at cn.nukkit.Server.tickProcessor(Server.java:799)
+	at cn.nukkit.Server.start(Server.java:778)
+	at cn.nukkit.Server.<init>(Server.java:469)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+Caused by: java.lang.NoSuchMethodError: cn.nukkit.event.player.PlayerInteractEvent.getAction()I
+	at com.deadaymen.portalsign.EventListener.onPlayerInteractEvent(EventListener.java:64)
+	at sun.reflect.GeneratedMethodAccessor21.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:29)
+	... 16 more
+
+2017-10-19 15:36:08 [CRITICAL] Could not pass event 'cn.nukkit.event.player.PlayerInteractEvent' to 'PortSignal v1.1.1': null on com.deadaymen.portalsign.EventListener
+2017-10-19 15:36:08 [ALERT] cn.nukkit.utils.EventException
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:34)
+	at cn.nukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:56)
+	at cn.nukkit.plugin.PluginManager.callEvent(PluginManager.java:553)
+	at cn.nukkit.Player.handleDataPacket(Player.java:2220)
+	at java.util.ArrayList.forEach(Unknown Source)
+	at cn.nukkit.network.Network.processPackets(Network.java:169)
+	at cn.nukkit.network.Network.processBatch(Network.java:151)
+	at cn.nukkit.Player.handleDataPacket(Player.java:1982)
+	at cn.nukkit.network.RakNetInterface.handleEncapsulated(RakNetInterface.java:157)
+	at cn.nukkit.raknet.server.ServerHandler.handlePacket(ServerHandler.java:132)
+	at cn.nukkit.network.RakNetInterface.process(RakNetInterface.java:66)
+	at cn.nukkit.network.Network.processInterfaces(Network.java:75)
+	at cn.nukkit.Server.tick(Server.java:990)
+	at cn.nukkit.Server.tickProcessor(Server.java:799)
+	at cn.nukkit.Server.start(Server.java:778)
+	at cn.nukkit.Server.<init>(Server.java:469)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+Caused by: java.lang.NoSuchMethodError: cn.nukkit.event.player.PlayerInteractEvent.getAction()I
+	at com.deadaymen.portalsign.EventListener.onPlayerInteractEvent(EventListener.java:64)
+	at sun.reflect.GeneratedMethodAccessor21.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:29)
+	... 16 more
+
+2017-10-19 15:36:08 [CRITICAL] Could not pass event 'cn.nukkit.event.player.PlayerInteractEvent' to 'PortSignal v1.1.1': null on com.deadaymen.portalsign.EventListener
+2017-10-19 15:36:08 [ALERT] cn.nukkit.utils.EventException
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:34)
+	at cn.nukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:56)
+	at cn.nukkit.plugin.PluginManager.callEvent(PluginManager.java:553)
+	at cn.nukkit.Player.handleDataPacket(Player.java:2220)
+	at java.util.ArrayList.forEach(Unknown Source)
+	at cn.nukkit.network.Network.processPackets(Network.java:169)
+	at cn.nukkit.network.Network.processBatch(Network.java:151)
+	at cn.nukkit.Player.handleDataPacket(Player.java:1982)
+	at cn.nukkit.network.RakNetInterface.handleEncapsulated(RakNetInterface.java:157)
+	at cn.nukkit.raknet.server.ServerHandler.handlePacket(ServerHandler.java:132)
+	at cn.nukkit.network.RakNetInterface.process(RakNetInterface.java:66)
+	at cn.nukkit.network.Network.processInterfaces(Network.java:75)
+	at cn.nukkit.Server.tick(Server.java:990)
+	at cn.nukkit.Server.tickProcessor(Server.java:799)
+	at cn.nukkit.Server.start(Server.java:778)
+	at cn.nukkit.Server.<init>(Server.java:469)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+Caused by: java.lang.NoSuchMethodError: cn.nukkit.event.player.PlayerInteractEvent.getAction()I
+	at com.deadaymen.portalsign.EventListener.onPlayerInteractEvent(EventListener.java:64)
+	at sun.reflect.GeneratedMethodAccessor21.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:29)
+	... 16 more
+
+2017-10-19 15:36:09 [CRITICAL] Could not pass event 'cn.nukkit.event.player.PlayerInteractEvent' to 'PortSignal v1.1.1': null on com.deadaymen.portalsign.EventListener
+2017-10-19 15:36:09 [ALERT] cn.nukkit.utils.EventException
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:34)
+	at cn.nukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:56)
+	at cn.nukkit.plugin.PluginManager.callEvent(PluginManager.java:553)
+	at cn.nukkit.Player.handleDataPacket(Player.java:2220)
+	at java.util.ArrayList.forEach(Unknown Source)
+	at cn.nukkit.network.Network.processPackets(Network.java:169)
+	at cn.nukkit.network.Network.processBatch(Network.java:151)
+	at cn.nukkit.Player.handleDataPacket(Player.java:1982)
+	at cn.nukkit.network.RakNetInterface.handleEncapsulated(RakNetInterface.java:157)
+	at cn.nukkit.raknet.server.ServerHandler.handlePacket(ServerHandler.java:132)
+	at cn.nukkit.network.RakNetInterface.process(RakNetInterface.java:66)
+	at cn.nukkit.network.Network.processInterfaces(Network.java:75)
+	at cn.nukkit.Server.tick(Server.java:990)
+	at cn.nukkit.Server.tickProcessor(Server.java:799)
+	at cn.nukkit.Server.start(Server.java:778)
+	at cn.nukkit.Server.<init>(Server.java:469)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+Caused by: java.lang.NoSuchMethodError: cn.nukkit.event.player.PlayerInteractEvent.getAction()I
+	at com.deadaymen.portalsign.EventListener.onPlayerInteractEvent(EventListener.java:64)
+	at sun.reflect.GeneratedMethodAccessor21.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:29)
+	... 16 more
+
+2017-10-19 15:36:09 [CRITICAL] Could not pass event 'cn.nukkit.event.player.PlayerInteractEvent' to 'PortSignal v1.1.1': null on com.deadaymen.portalsign.EventListener
+2017-10-19 15:36:09 [ALERT] cn.nukkit.utils.EventException
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:34)
+	at cn.nukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:56)
+	at cn.nukkit.plugin.PluginManager.callEvent(PluginManager.java:553)
+	at cn.nukkit.Player.handleDataPacket(Player.java:2220)
+	at java.util.ArrayList.forEach(Unknown Source)
+	at cn.nukkit.network.Network.processPackets(Network.java:169)
+	at cn.nukkit.network.Network.processBatch(Network.java:151)
+	at cn.nukkit.Player.handleDataPacket(Player.java:1982)
+	at cn.nukkit.network.RakNetInterface.handleEncapsulated(RakNetInterface.java:157)
+	at cn.nukkit.raknet.server.ServerHandler.handlePacket(ServerHandler.java:132)
+	at cn.nukkit.network.RakNetInterface.process(RakNetInterface.java:66)
+	at cn.nukkit.network.Network.processInterfaces(Network.java:75)
+	at cn.nukkit.Server.tick(Server.java:990)
+	at cn.nukkit.Server.tickProcessor(Server.java:799)
+	at cn.nukkit.Server.start(Server.java:778)
+	at cn.nukkit.Server.<init>(Server.java:469)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+Caused by: java.lang.NoSuchMethodError: cn.nukkit.event.player.PlayerInteractEvent.getAction()I
+	at com.deadaymen.portalsign.EventListener.onPlayerInteractEvent(EventListener.java:64)
+	at sun.reflect.GeneratedMethodAccessor21.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:29)
+	... 16 more
+
+2017-10-19 15:36:10 [CRITICAL] Could not pass event 'cn.nukkit.event.player.PlayerInteractEvent' to 'PortSignal v1.1.1': null on com.deadaymen.portalsign.EventListener
+2017-10-19 15:36:10 [ALERT] cn.nukkit.utils.EventException
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:34)
+	at cn.nukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:56)
+	at cn.nukkit.plugin.PluginManager.callEvent(PluginManager.java:553)
+	at cn.nukkit.Player.handleDataPacket(Player.java:2220)
+	at java.util.ArrayList.forEach(Unknown Source)
+	at cn.nukkit.network.Network.processPackets(Network.java:169)
+	at cn.nukkit.network.Network.processBatch(Network.java:151)
+	at cn.nukkit.Player.handleDataPacket(Player.java:1982)
+	at cn.nukkit.network.RakNetInterface.handleEncapsulated(RakNetInterface.java:157)
+	at cn.nukkit.raknet.server.ServerHandler.handlePacket(ServerHandler.java:132)
+	at cn.nukkit.network.RakNetInterface.process(RakNetInterface.java:66)
+	at cn.nukkit.network.Network.processInterfaces(Network.java:75)
+	at cn.nukkit.Server.tick(Server.java:990)
+	at cn.nukkit.Server.tickProcessor(Server.java:799)
+	at cn.nukkit.Server.start(Server.java:778)
+	at cn.nukkit.Server.<init>(Server.java:469)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+Caused by: java.lang.NoSuchMethodError: cn.nukkit.event.player.PlayerInteractEvent.getAction()I
+	at com.deadaymen.portalsign.EventListener.onPlayerInteractEvent(EventListener.java:64)
+	at sun.reflect.GeneratedMethodAccessor21.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:29)
+	... 16 more
+
+2017-10-19 15:36:10 [CRITICAL] Could not pass event 'cn.nukkit.event.player.PlayerInteractEvent' to 'PortSignal v1.1.1': null on com.deadaymen.portalsign.EventListener
+2017-10-19 15:36:10 [ALERT] cn.nukkit.utils.EventException
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:34)
+	at cn.nukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:56)
+	at cn.nukkit.plugin.PluginManager.callEvent(PluginManager.java:553)
+	at cn.nukkit.Player.handleDataPacket(Player.java:2220)
+	at java.util.ArrayList.forEach(Unknown Source)
+	at cn.nukkit.network.Network.processPackets(Network.java:169)
+	at cn.nukkit.network.Network.processBatch(Network.java:151)
+	at cn.nukkit.Player.handleDataPacket(Player.java:1982)
+	at cn.nukkit.network.RakNetInterface.handleEncapsulated(RakNetInterface.java:157)
+	at cn.nukkit.raknet.server.ServerHandler.handlePacket(ServerHandler.java:132)
+	at cn.nukkit.network.RakNetInterface.process(RakNetInterface.java:66)
+	at cn.nukkit.network.Network.processInterfaces(Network.java:75)
+	at cn.nukkit.Server.tick(Server.java:990)
+	at cn.nukkit.Server.tickProcessor(Server.java:799)
+	at cn.nukkit.Server.start(Server.java:778)
+	at cn.nukkit.Server.<init>(Server.java:469)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+Caused by: java.lang.NoSuchMethodError: cn.nukkit.event.player.PlayerInteractEvent.getAction()I
+	at com.deadaymen.portalsign.EventListener.onPlayerInteractEvent(EventListener.java:64)
+	at sun.reflect.GeneratedMethodAccessor21.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:29)
+	... 16 more
+
+2017-10-19 15:36:11 [CRITICAL] Could not pass event 'cn.nukkit.event.player.PlayerInteractEvent' to 'PortSignal v1.1.1': null on com.deadaymen.portalsign.EventListener
+2017-10-19 15:36:11 [ALERT] cn.nukkit.utils.EventException
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:34)
+	at cn.nukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:56)
+	at cn.nukkit.plugin.PluginManager.callEvent(PluginManager.java:553)
+	at cn.nukkit.Player.handleDataPacket(Player.java:2220)
+	at java.util.ArrayList.forEach(Unknown Source)
+	at cn.nukkit.network.Network.processPackets(Network.java:169)
+	at cn.nukkit.network.Network.processBatch(Network.java:151)
+	at cn.nukkit.Player.handleDataPacket(Player.java:1982)
+	at cn.nukkit.network.RakNetInterface.handleEncapsulated(RakNetInterface.java:157)
+	at cn.nukkit.raknet.server.ServerHandler.handlePacket(ServerHandler.java:132)
+	at cn.nukkit.network.RakNetInterface.process(RakNetInterface.java:66)
+	at cn.nukkit.network.Network.processInterfaces(Network.java:75)
+	at cn.nukkit.Server.tick(Server.java:990)
+	at cn.nukkit.Server.tickProcessor(Server.java:799)
+	at cn.nukkit.Server.start(Server.java:778)
+	at cn.nukkit.Server.<init>(Server.java:469)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+Caused by: java.lang.NoSuchMethodError: cn.nukkit.event.player.PlayerInteractEvent.getAction()I
+	at com.deadaymen.portalsign.EventListener.onPlayerInteractEvent(EventListener.java:64)
+	at sun.reflect.GeneratedMethodAccessor21.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:29)
+	... 16 more
+
+2017-10-19 15:36:12 [CRITICAL] Could not pass event 'cn.nukkit.event.player.PlayerInteractEvent' to 'PortSignal v1.1.1': null on com.deadaymen.portalsign.EventListener
+2017-10-19 15:36:12 [ALERT] cn.nukkit.utils.EventException
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:34)
+	at cn.nukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:56)
+	at cn.nukkit.plugin.PluginManager.callEvent(PluginManager.java:553)
+	at cn.nukkit.Player.handleDataPacket(Player.java:2220)
+	at java.util.ArrayList.forEach(Unknown Source)
+	at cn.nukkit.network.Network.processPackets(Network.java:169)
+	at cn.nukkit.network.Network.processBatch(Network.java:151)
+	at cn.nukkit.Player.handleDataPacket(Player.java:1982)
+	at cn.nukkit.network.RakNetInterface.handleEncapsulated(RakNetInterface.java:157)
+	at cn.nukkit.raknet.server.ServerHandler.handlePacket(ServerHandler.java:132)
+	at cn.nukkit.network.RakNetInterface.process(RakNetInterface.java:66)
+	at cn.nukkit.network.Network.processInterfaces(Network.java:75)
+	at cn.nukkit.Server.tick(Server.java:990)
+	at cn.nukkit.Server.tickProcessor(Server.java:799)
+	at cn.nukkit.Server.start(Server.java:778)
+	at cn.nukkit.Server.<init>(Server.java:469)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+Caused by: java.lang.NoSuchMethodError: cn.nukkit.event.player.PlayerInteractEvent.getAction()I
+	at com.deadaymen.portalsign.EventListener.onPlayerInteractEvent(EventListener.java:64)
+	at sun.reflect.GeneratedMethodAccessor21.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:29)
+	... 16 more
+
+2017-10-19 15:36:12 [CRITICAL] Could not pass event 'cn.nukkit.event.player.PlayerInteractEvent' to 'PortSignal v1.1.1': null on com.deadaymen.portalsign.EventListener
+2017-10-19 15:36:12 [ALERT] cn.nukkit.utils.EventException
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:34)
+	at cn.nukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:56)
+	at cn.nukkit.plugin.PluginManager.callEvent(PluginManager.java:553)
+	at cn.nukkit.Player.handleDataPacket(Player.java:2220)
+	at java.util.ArrayList.forEach(Unknown Source)
+	at cn.nukkit.network.Network.processPackets(Network.java:169)
+	at cn.nukkit.network.Network.processBatch(Network.java:151)
+	at cn.nukkit.Player.handleDataPacket(Player.java:1982)
+	at cn.nukkit.network.RakNetInterface.handleEncapsulated(RakNetInterface.java:157)
+	at cn.nukkit.raknet.server.ServerHandler.handlePacket(ServerHandler.java:132)
+	at cn.nukkit.network.RakNetInterface.process(RakNetInterface.java:66)
+	at cn.nukkit.network.Network.processInterfaces(Network.java:75)
+	at cn.nukkit.Server.tick(Server.java:990)
+	at cn.nukkit.Server.tickProcessor(Server.java:799)
+	at cn.nukkit.Server.start(Server.java:778)
+	at cn.nukkit.Server.<init>(Server.java:469)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+Caused by: java.lang.NoSuchMethodError: cn.nukkit.event.player.PlayerInteractEvent.getAction()I
+	at com.deadaymen.portalsign.EventListener.onPlayerInteractEvent(EventListener.java:64)
+	at sun.reflect.GeneratedMethodAccessor21.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:29)
+	... 16 more
+
+2017-10-19 15:36:13 [CRITICAL] Could not pass event 'cn.nukkit.event.player.PlayerInteractEvent' to 'PortSignal v1.1.1': null on com.deadaymen.portalsign.EventListener
+2017-10-19 15:36:13 [ALERT] cn.nukkit.utils.EventException
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:34)
+	at cn.nukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:56)
+	at cn.nukkit.plugin.PluginManager.callEvent(PluginManager.java:553)
+	at cn.nukkit.Player.handleDataPacket(Player.java:2220)
+	at java.util.ArrayList.forEach(Unknown Source)
+	at cn.nukkit.network.Network.processPackets(Network.java:169)
+	at cn.nukkit.network.Network.processBatch(Network.java:151)
+	at cn.nukkit.Player.handleDataPacket(Player.java:1982)
+	at cn.nukkit.network.RakNetInterface.handleEncapsulated(RakNetInterface.java:157)
+	at cn.nukkit.raknet.server.ServerHandler.handlePacket(ServerHandler.java:132)
+	at cn.nukkit.network.RakNetInterface.process(RakNetInterface.java:66)
+	at cn.nukkit.network.Network.processInterfaces(Network.java:75)
+	at cn.nukkit.Server.tick(Server.java:990)
+	at cn.nukkit.Server.tickProcessor(Server.java:799)
+	at cn.nukkit.Server.start(Server.java:778)
+	at cn.nukkit.Server.<init>(Server.java:469)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+Caused by: java.lang.NoSuchMethodError: cn.nukkit.event.player.PlayerInteractEvent.getAction()I
+	at com.deadaymen.portalsign.EventListener.onPlayerInteractEvent(EventListener.java:64)
+	at sun.reflect.GeneratedMethodAccessor21.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:29)
+	... 16 more
+
+2017-10-19 15:36:42 [WARNING] Ghreydafur moved wrongly!
+2017-10-19 15:36:42 [WARNING] Ghreydafur moved wrongly!
+2017-10-19 15:37:02 [WARNING] Ghreydafur moved wrongly!
+2017-10-19 15:37:02 [WARNING] Ghreydafur moved wrongly!
+2017-10-19 15:37:03 [WARNING] Ghreydafur moved wrongly!
+2017-10-19 15:37:03 [WARNING] Ghreydafur moved wrongly!
+2017-10-19 15:37:11 [CRITICAL] Could not pass event 'cn.nukkit.event.player.PlayerInteractEvent' to 'PortSignal v1.1.1': null on com.deadaymen.portalsign.EventListener
+2017-10-19 15:37:11 [ALERT] cn.nukkit.utils.EventException
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:34)
+	at cn.nukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:56)
+	at cn.nukkit.plugin.PluginManager.callEvent(PluginManager.java:553)
+	at cn.nukkit.block.BlockPressurePlateBase.onEntityCollide(BlockPressurePlateBase.java:108)
+	at cn.nukkit.Player.checkBlockCollision(Player.java:1338)
+	at cn.nukkit.entity.Entity.entityBaseTick(Entity.java:1070)
+	at cn.nukkit.entity.EntityLiving.entityBaseTick(EntityLiving.java:197)
+	at cn.nukkit.Player.onUpdate(Player.java:1601)
+	at cn.nukkit.level.Level.doTick(Level.java:803)
+	at cn.nukkit.Server.checkTickUpdates(Server.java:926)
+	at cn.nukkit.Server.tick(Server.java:1001)
+	at cn.nukkit.Server.tickProcessor(Server.java:799)
+	at cn.nukkit.Server.start(Server.java:778)
+	at cn.nukkit.Server.<init>(Server.java:469)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+Caused by: java.lang.NoSuchMethodError: cn.nukkit.event.player.PlayerInteractEvent.getAction()I
+	at com.deadaymen.portalsign.EventListener.onPlayerInteractEvent(EventListener.java:64)
+	at sun.reflect.GeneratedMethodAccessor21.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:29)
+	... 14 more
+
+2017-10-19 15:37:11 [CRITICAL] Could not pass event 'cn.nukkit.event.player.PlayerInteractEvent' to 'PortSignal v1.1.1': null on com.deadaymen.portalsign.EventListener
+2017-10-19 15:37:11 [ALERT] cn.nukkit.utils.EventException
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:34)
+	at cn.nukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:56)
+	at cn.nukkit.plugin.PluginManager.callEvent(PluginManager.java:553)
+	at cn.nukkit.block.BlockPressurePlateBase.onEntityCollide(BlockPressurePlateBase.java:108)
+	at cn.nukkit.Player.checkBlockCollision(Player.java:1338)
+	at cn.nukkit.entity.Entity.entityBaseTick(Entity.java:1070)
+	at cn.nukkit.entity.EntityLiving.entityBaseTick(EntityLiving.java:197)
+	at cn.nukkit.Player.onUpdate(Player.java:1601)
+	at cn.nukkit.level.Level.doTick(Level.java:803)
+	at cn.nukkit.Server.checkTickUpdates(Server.java:926)
+	at cn.nukkit.Server.tick(Server.java:1001)
+	at cn.nukkit.Server.tickProcessor(Server.java:799)
+	at cn.nukkit.Server.start(Server.java:778)
+	at cn.nukkit.Server.<init>(Server.java:469)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+Caused by: java.lang.NoSuchMethodError: cn.nukkit.event.player.PlayerInteractEvent.getAction()I
+	at com.deadaymen.portalsign.EventListener.onPlayerInteractEvent(EventListener.java:64)
+	at sun.reflect.GeneratedMethodAccessor21.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:29)
+	... 14 more
+
+2017-10-19 15:37:12 [CRITICAL] Could not pass event 'cn.nukkit.event.player.PlayerInteractEvent' to 'PortSignal v1.1.1': null on com.deadaymen.portalsign.EventListener
+2017-10-19 15:37:12 [ALERT] cn.nukkit.utils.EventException
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:34)
+	at cn.nukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:56)
+	at cn.nukkit.plugin.PluginManager.callEvent(PluginManager.java:553)
+	at cn.nukkit.block.BlockPressurePlateBase.onEntityCollide(BlockPressurePlateBase.java:108)
+	at cn.nukkit.Player.checkBlockCollision(Player.java:1338)
+	at cn.nukkit.entity.Entity.entityBaseTick(Entity.java:1070)
+	at cn.nukkit.entity.EntityLiving.entityBaseTick(EntityLiving.java:197)
+	at cn.nukkit.Player.onUpdate(Player.java:1601)
+	at cn.nukkit.level.Level.doTick(Level.java:803)
+	at cn.nukkit.Server.checkTickUpdates(Server.java:926)
+	at cn.nukkit.Server.tick(Server.java:1001)
+	at cn.nukkit.Server.tickProcessor(Server.java:799)
+	at cn.nukkit.Server.start(Server.java:778)
+	at cn.nukkit.Server.<init>(Server.java:469)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+Caused by: java.lang.NoSuchMethodError: cn.nukkit.event.player.PlayerInteractEvent.getAction()I
+	at com.deadaymen.portalsign.EventListener.onPlayerInteractEvent(EventListener.java:64)
+	at sun.reflect.GeneratedMethodAccessor21.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:29)
+	... 14 more
+
+2017-10-19 15:37:14 [CRITICAL] Could not pass event 'cn.nukkit.event.player.PlayerInteractEvent' to 'PortSignal v1.1.1': null on com.deadaymen.portalsign.EventListener
+2017-10-19 15:37:14 [ALERT] cn.nukkit.utils.EventException
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:34)
+	at cn.nukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:56)
+	at cn.nukkit.plugin.PluginManager.callEvent(PluginManager.java:553)
+	at cn.nukkit.level.Level.useItemOn(Level.java:1975)
+	at cn.nukkit.level.Level.useItemOn(Level.java:1942)
+	at cn.nukkit.Player.handleDataPacket(Player.java:2921)
+	at java.util.ArrayList.forEach(Unknown Source)
+	at cn.nukkit.network.Network.processPackets(Network.java:169)
+	at cn.nukkit.network.Network.processBatch(Network.java:151)
+	at cn.nukkit.Player.handleDataPacket(Player.java:1982)
+	at cn.nukkit.network.RakNetInterface.handleEncapsulated(RakNetInterface.java:157)
+	at cn.nukkit.raknet.server.ServerHandler.handlePacket(ServerHandler.java:132)
+	at cn.nukkit.network.RakNetInterface.process(RakNetInterface.java:68)
+	at cn.nukkit.network.Network.processInterfaces(Network.java:75)
+	at cn.nukkit.Server.tick(Server.java:990)
+	at cn.nukkit.Server.tickProcessor(Server.java:799)
+	at cn.nukkit.Server.start(Server.java:778)
+	at cn.nukkit.Server.<init>(Server.java:469)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+Caused by: java.lang.NoSuchMethodError: cn.nukkit.event.player.PlayerInteractEvent.getAction()I
+	at com.deadaymen.portalsign.EventListener.onPlayerInteractEvent(EventListener.java:64)
+	at sun.reflect.GeneratedMethodAccessor21.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:29)
+	... 18 more
+
+2017-10-19 15:37:15 [CRITICAL] Could not pass event 'cn.nukkit.event.player.PlayerInteractEvent' to 'PortSignal v1.1.1': null on com.deadaymen.portalsign.EventListener
+2017-10-19 15:37:15 [ALERT] cn.nukkit.utils.EventException
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:34)
+	at cn.nukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:56)
+	at cn.nukkit.plugin.PluginManager.callEvent(PluginManager.java:553)
+	at cn.nukkit.level.Level.useItemOn(Level.java:1975)
+	at cn.nukkit.level.Level.useItemOn(Level.java:1942)
+	at cn.nukkit.Player.handleDataPacket(Player.java:2921)
+	at java.util.ArrayList.forEach(Unknown Source)
+	at cn.nukkit.network.Network.processPackets(Network.java:169)
+	at cn.nukkit.network.Network.processBatch(Network.java:151)
+	at cn.nukkit.Player.handleDataPacket(Player.java:1982)
+	at cn.nukkit.network.RakNetInterface.handleEncapsulated(RakNetInterface.java:157)
+	at cn.nukkit.raknet.server.ServerHandler.handlePacket(ServerHandler.java:132)
+	at cn.nukkit.network.RakNetInterface.process(RakNetInterface.java:66)
+	at cn.nukkit.network.Network.processInterfaces(Network.java:75)
+	at cn.nukkit.Server.tick(Server.java:990)
+	at cn.nukkit.Server.tickProcessor(Server.java:799)
+	at cn.nukkit.Server.start(Server.java:778)
+	at cn.nukkit.Server.<init>(Server.java:469)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+Caused by: java.lang.NoSuchMethodError: cn.nukkit.event.player.PlayerInteractEvent.getAction()I
+	at com.deadaymen.portalsign.EventListener.onPlayerInteractEvent(EventListener.java:64)
+	at sun.reflect.GeneratedMethodAccessor21.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:29)
+	... 18 more
+
+2017-10-19 15:37:20 [CRITICAL] Could not pass event 'cn.nukkit.event.player.PlayerInteractEvent' to 'PortSignal v1.1.1': null on com.deadaymen.portalsign.EventListener
+2017-10-19 15:37:20 [ALERT] cn.nukkit.utils.EventException
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:34)
+	at cn.nukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:56)
+	at cn.nukkit.plugin.PluginManager.callEvent(PluginManager.java:553)
+	at cn.nukkit.level.Level.useItemOn(Level.java:1975)
+	at cn.nukkit.level.Level.useItemOn(Level.java:1942)
+	at cn.nukkit.Player.handleDataPacket(Player.java:2921)
+	at java.util.ArrayList.forEach(Unknown Source)
+	at cn.nukkit.network.Network.processPackets(Network.java:169)
+	at cn.nukkit.network.Network.processBatch(Network.java:151)
+	at cn.nukkit.Player.handleDataPacket(Player.java:1982)
+	at cn.nukkit.network.RakNetInterface.handleEncapsulated(RakNetInterface.java:157)
+	at cn.nukkit.raknet.server.ServerHandler.handlePacket(ServerHandler.java:132)
+	at cn.nukkit.network.RakNetInterface.process(RakNetInterface.java:68)
+	at cn.nukkit.network.Network.processInterfaces(Network.java:75)
+	at cn.nukkit.Server.tick(Server.java:990)
+	at cn.nukkit.Server.tickProcessor(Server.java:799)
+	at cn.nukkit.Server.start(Server.java:778)
+	at cn.nukkit.Server.<init>(Server.java:469)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+Caused by: java.lang.NoSuchMethodError: cn.nukkit.event.player.PlayerInteractEvent.getAction()I
+	at com.deadaymen.portalsign.EventListener.onPlayerInteractEvent(EventListener.java:64)
+	at sun.reflect.GeneratedMethodAccessor21.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:29)
+	... 18 more
+
+2017-10-19 15:37:22 [CRITICAL] Could not pass event 'cn.nukkit.event.player.PlayerInteractEvent' to 'PortSignal v1.1.1': null on com.deadaymen.portalsign.EventListener
+2017-10-19 15:37:22 [ALERT] cn.nukkit.utils.EventException
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:34)
+	at cn.nukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:56)
+	at cn.nukkit.plugin.PluginManager.callEvent(PluginManager.java:553)
+	at cn.nukkit.Player.handleDataPacket(Player.java:2220)
+	at java.util.ArrayList.forEach(Unknown Source)
+	at cn.nukkit.network.Network.processPackets(Network.java:169)
+	at cn.nukkit.network.Network.processBatch(Network.java:151)
+	at cn.nukkit.Player.handleDataPacket(Player.java:1982)
+	at cn.nukkit.network.RakNetInterface.handleEncapsulated(RakNetInterface.java:157)
+	at cn.nukkit.raknet.server.ServerHandler.handlePacket(ServerHandler.java:132)
+	at cn.nukkit.network.RakNetInterface.process(RakNetInterface.java:66)
+	at cn.nukkit.network.Network.processInterfaces(Network.java:75)
+	at cn.nukkit.Server.tick(Server.java:990)
+	at cn.nukkit.Server.tickProcessor(Server.java:799)
+	at cn.nukkit.Server.start(Server.java:778)
+	at cn.nukkit.Server.<init>(Server.java:469)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+Caused by: java.lang.NoSuchMethodError: cn.nukkit.event.player.PlayerInteractEvent.getAction()I
+	at com.deadaymen.portalsign.EventListener.onPlayerInteractEvent(EventListener.java:64)
+	at sun.reflect.GeneratedMethodAccessor21.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:29)
+	... 16 more
+
+2017-10-19 15:37:22 [CRITICAL] Could not pass event 'cn.nukkit.event.player.PlayerInteractEvent' to 'PortSignal v1.1.1': null on com.deadaymen.portalsign.EventListener
+2017-10-19 15:37:22 [ALERT] cn.nukkit.utils.EventException
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:34)
+	at cn.nukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:56)
+	at cn.nukkit.plugin.PluginManager.callEvent(PluginManager.java:553)
+	at cn.nukkit.Player.handleDataPacket(Player.java:2220)
+	at java.util.ArrayList.forEach(Unknown Source)
+	at cn.nukkit.network.Network.processPackets(Network.java:169)
+	at cn.nukkit.network.Network.processBatch(Network.java:151)
+	at cn.nukkit.Player.handleDataPacket(Player.java:1982)
+	at cn.nukkit.network.RakNetInterface.handleEncapsulated(RakNetInterface.java:157)
+	at cn.nukkit.raknet.server.ServerHandler.handlePacket(ServerHandler.java:132)
+	at cn.nukkit.network.RakNetInterface.process(RakNetInterface.java:66)
+	at cn.nukkit.network.Network.processInterfaces(Network.java:75)
+	at cn.nukkit.Server.tick(Server.java:990)
+	at cn.nukkit.Server.tickProcessor(Server.java:799)
+	at cn.nukkit.Server.start(Server.java:778)
+	at cn.nukkit.Server.<init>(Server.java:469)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+Caused by: java.lang.NoSuchMethodError: cn.nukkit.event.player.PlayerInteractEvent.getAction()I
+	at com.deadaymen.portalsign.EventListener.onPlayerInteractEvent(EventListener.java:64)
+	at sun.reflect.GeneratedMethodAccessor21.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:29)
+	... 16 more
+
+2017-10-19 15:37:25 [CRITICAL] Could not pass event 'cn.nukkit.event.player.PlayerInteractEvent' to 'PortSignal v1.1.1': null on com.deadaymen.portalsign.EventListener
+2017-10-19 15:37:25 [ALERT] cn.nukkit.utils.EventException
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:34)
+	at cn.nukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:56)
+	at cn.nukkit.plugin.PluginManager.callEvent(PluginManager.java:553)
+	at cn.nukkit.block.BlockPressurePlateBase.onEntityCollide(BlockPressurePlateBase.java:108)
+	at cn.nukkit.Player.checkBlockCollision(Player.java:1338)
+	at cn.nukkit.entity.Entity.entityBaseTick(Entity.java:1070)
+	at cn.nukkit.entity.EntityLiving.entityBaseTick(EntityLiving.java:197)
+	at cn.nukkit.Player.onUpdate(Player.java:1601)
+	at cn.nukkit.level.Level.doTick(Level.java:803)
+	at cn.nukkit.Server.checkTickUpdates(Server.java:926)
+	at cn.nukkit.Server.tick(Server.java:1001)
+	at cn.nukkit.Server.tickProcessor(Server.java:799)
+	at cn.nukkit.Server.start(Server.java:778)
+	at cn.nukkit.Server.<init>(Server.java:469)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+Caused by: java.lang.NoSuchMethodError: cn.nukkit.event.player.PlayerInteractEvent.getAction()I
+	at com.deadaymen.portalsign.EventListener.onPlayerInteractEvent(EventListener.java:64)
+	at sun.reflect.GeneratedMethodAccessor21.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:29)
+	... 14 more
+
+2017-10-19 15:37:25 [CRITICAL] Could not pass event 'cn.nukkit.event.player.PlayerInteractEvent' to 'PortSignal v1.1.1': null on com.deadaymen.portalsign.EventListener
+2017-10-19 15:37:25 [ALERT] cn.nukkit.utils.EventException
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:34)
+	at cn.nukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:56)
+	at cn.nukkit.plugin.PluginManager.callEvent(PluginManager.java:553)
+	at cn.nukkit.block.BlockPressurePlateBase.onEntityCollide(BlockPressurePlateBase.java:108)
+	at cn.nukkit.Player.checkBlockCollision(Player.java:1338)
+	at cn.nukkit.entity.Entity.entityBaseTick(Entity.java:1070)
+	at cn.nukkit.entity.EntityLiving.entityBaseTick(EntityLiving.java:197)
+	at cn.nukkit.Player.onUpdate(Player.java:1601)
+	at cn.nukkit.level.Level.doTick(Level.java:803)
+	at cn.nukkit.Server.checkTickUpdates(Server.java:926)
+	at cn.nukkit.Server.tick(Server.java:1001)
+	at cn.nukkit.Server.tickProcessor(Server.java:799)
+	at cn.nukkit.Server.start(Server.java:778)
+	at cn.nukkit.Server.<init>(Server.java:469)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+Caused by: java.lang.NoSuchMethodError: cn.nukkit.event.player.PlayerInteractEvent.getAction()I
+	at com.deadaymen.portalsign.EventListener.onPlayerInteractEvent(EventListener.java:64)
+	at sun.reflect.GeneratedMethodAccessor21.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:29)
+	... 14 more
+
+2017-10-19 15:38:14 [CRITICAL] Could not pass event 'cn.nukkit.event.player.PlayerInteractEvent' to 'PortSignal v1.1.1': null on com.deadaymen.portalsign.EventListener
+2017-10-19 15:38:14 [ALERT] cn.nukkit.utils.EventException
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:34)
+	at cn.nukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:56)
+	at cn.nukkit.plugin.PluginManager.callEvent(PluginManager.java:553)
+	at cn.nukkit.Player.handleDataPacket(Player.java:2220)
+	at java.util.ArrayList.forEach(Unknown Source)
+	at cn.nukkit.network.Network.processPackets(Network.java:169)
+	at cn.nukkit.network.Network.processBatch(Network.java:151)
+	at cn.nukkit.Player.handleDataPacket(Player.java:1982)
+	at cn.nukkit.network.RakNetInterface.handleEncapsulated(RakNetInterface.java:157)
+	at cn.nukkit.raknet.server.ServerHandler.handlePacket(ServerHandler.java:132)
+	at cn.nukkit.network.RakNetInterface.process(RakNetInterface.java:66)
+	at cn.nukkit.network.Network.processInterfaces(Network.java:75)
+	at cn.nukkit.Server.tick(Server.java:990)
+	at cn.nukkit.Server.tickProcessor(Server.java:799)
+	at cn.nukkit.Server.start(Server.java:778)
+	at cn.nukkit.Server.<init>(Server.java:469)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+Caused by: java.lang.NoSuchMethodError: cn.nukkit.event.player.PlayerInteractEvent.getAction()I
+	at com.deadaymen.portalsign.EventListener.onPlayerInteractEvent(EventListener.java:64)
+	at sun.reflect.GeneratedMethodAccessor21.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:29)
+	... 16 more
+
+2017-10-19 15:38:14 [CRITICAL] Could not pass event 'cn.nukkit.event.player.PlayerInteractEvent' to 'PortSignal v1.1.1': null on com.deadaymen.portalsign.EventListener
+2017-10-19 15:38:14 [ALERT] cn.nukkit.utils.EventException
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:34)
+	at cn.nukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:56)
+	at cn.nukkit.plugin.PluginManager.callEvent(PluginManager.java:553)
+	at cn.nukkit.Player.handleDataPacket(Player.java:2220)
+	at java.util.ArrayList.forEach(Unknown Source)
+	at cn.nukkit.network.Network.processPackets(Network.java:169)
+	at cn.nukkit.network.Network.processBatch(Network.java:151)
+	at cn.nukkit.Player.handleDataPacket(Player.java:1982)
+	at cn.nukkit.network.RakNetInterface.handleEncapsulated(RakNetInterface.java:157)
+	at cn.nukkit.raknet.server.ServerHandler.handlePacket(ServerHandler.java:132)
+	at cn.nukkit.network.RakNetInterface.process(RakNetInterface.java:66)
+	at cn.nukkit.network.Network.processInterfaces(Network.java:75)
+	at cn.nukkit.Server.tick(Server.java:990)
+	at cn.nukkit.Server.tickProcessor(Server.java:799)
+	at cn.nukkit.Server.start(Server.java:778)
+	at cn.nukkit.Server.<init>(Server.java:469)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+Caused by: java.lang.NoSuchMethodError: cn.nukkit.event.player.PlayerInteractEvent.getAction()I
+	at com.deadaymen.portalsign.EventListener.onPlayerInteractEvent(EventListener.java:64)
+	at sun.reflect.GeneratedMethodAccessor21.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:29)
+	... 16 more
+
+2017-10-19 15:38:17 [CRITICAL] Could not pass event 'cn.nukkit.event.player.PlayerInteractEvent' to 'PortSignal v1.1.1': null on com.deadaymen.portalsign.EventListener
+2017-10-19 15:38:17 [ALERT] cn.nukkit.utils.EventException
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:34)
+	at cn.nukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:56)
+	at cn.nukkit.plugin.PluginManager.callEvent(PluginManager.java:553)
+	at cn.nukkit.Player.handleDataPacket(Player.java:2220)
+	at java.util.ArrayList.forEach(Unknown Source)
+	at cn.nukkit.network.Network.processPackets(Network.java:169)
+	at cn.nukkit.network.Network.processBatch(Network.java:151)
+	at cn.nukkit.Player.handleDataPacket(Player.java:1982)
+	at cn.nukkit.network.RakNetInterface.handleEncapsulated(RakNetInterface.java:157)
+	at cn.nukkit.raknet.server.ServerHandler.handlePacket(ServerHandler.java:132)
+	at cn.nukkit.network.RakNetInterface.process(RakNetInterface.java:66)
+	at cn.nukkit.network.Network.processInterfaces(Network.java:75)
+	at cn.nukkit.Server.tick(Server.java:990)
+	at cn.nukkit.Server.tickProcessor(Server.java:799)
+	at cn.nukkit.Server.start(Server.java:778)
+	at cn.nukkit.Server.<init>(Server.java:469)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+Caused by: java.lang.NoSuchMethodError: cn.nukkit.event.player.PlayerInteractEvent.getAction()I
+	at com.deadaymen.portalsign.EventListener.onPlayerInteractEvent(EventListener.java:64)
+	at sun.reflect.GeneratedMethodAccessor21.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:29)
+	... 16 more
+
+2017-10-19 15:38:17 [INFO] Ghreydafur has just earned the achievement Getting Wood
+2017-10-19 15:38:20 [CRITICAL] Could not pass event 'cn.nukkit.event.player.PlayerInteractEvent' to 'PortSignal v1.1.1': null on com.deadaymen.portalsign.EventListener
+2017-10-19 15:38:20 [ALERT] cn.nukkit.utils.EventException
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:34)
+	at cn.nukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:56)
+	at cn.nukkit.plugin.PluginManager.callEvent(PluginManager.java:553)
+	at cn.nukkit.Player.handleDataPacket(Player.java:2220)
+	at java.util.ArrayList.forEach(Unknown Source)
+	at cn.nukkit.network.Network.processPackets(Network.java:169)
+	at cn.nukkit.network.Network.processBatch(Network.java:151)
+	at cn.nukkit.Player.handleDataPacket(Player.java:1982)
+	at cn.nukkit.network.RakNetInterface.handleEncapsulated(RakNetInterface.java:157)
+	at cn.nukkit.raknet.server.ServerHandler.handlePacket(ServerHandler.java:132)
+	at cn.nukkit.network.RakNetInterface.process(RakNetInterface.java:68)
+	at cn.nukkit.network.Network.processInterfaces(Network.java:75)
+	at cn.nukkit.Server.tick(Server.java:990)
+	at cn.nukkit.Server.tickProcessor(Server.java:799)
+	at cn.nukkit.Server.start(Server.java:778)
+	at cn.nukkit.Server.<init>(Server.java:469)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+Caused by: java.lang.NoSuchMethodError: cn.nukkit.event.player.PlayerInteractEvent.getAction()I
+	at com.deadaymen.portalsign.EventListener.onPlayerInteractEvent(EventListener.java:64)
+	at sun.reflect.GeneratedMethodAccessor21.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:29)
+	... 16 more
+
+2017-10-19 15:38:20 [CRITICAL] Could not pass event 'cn.nukkit.event.player.PlayerInteractEvent' to 'PortSignal v1.1.1': null on com.deadaymen.portalsign.EventListener
+2017-10-19 15:38:20 [ALERT] cn.nukkit.utils.EventException
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:34)
+	at cn.nukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:56)
+	at cn.nukkit.plugin.PluginManager.callEvent(PluginManager.java:553)
+	at cn.nukkit.Player.handleDataPacket(Player.java:2220)
+	at java.util.ArrayList.forEach(Unknown Source)
+	at cn.nukkit.network.Network.processPackets(Network.java:169)
+	at cn.nukkit.network.Network.processBatch(Network.java:151)
+	at cn.nukkit.Player.handleDataPacket(Player.java:1982)
+	at cn.nukkit.network.RakNetInterface.handleEncapsulated(RakNetInterface.java:157)
+	at cn.nukkit.raknet.server.ServerHandler.handlePacket(ServerHandler.java:132)
+	at cn.nukkit.network.RakNetInterface.process(RakNetInterface.java:66)
+	at cn.nukkit.network.Network.processInterfaces(Network.java:75)
+	at cn.nukkit.Server.tick(Server.java:990)
+	at cn.nukkit.Server.tickProcessor(Server.java:799)
+	at cn.nukkit.Server.start(Server.java:778)
+	at cn.nukkit.Server.<init>(Server.java:469)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+Caused by: java.lang.NoSuchMethodError: cn.nukkit.event.player.PlayerInteractEvent.getAction()I
+	at com.deadaymen.portalsign.EventListener.onPlayerInteractEvent(EventListener.java:64)
+	at sun.reflect.GeneratedMethodAccessor21.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:29)
+	... 16 more
+
+2017-10-19 15:38:22 [CRITICAL] Could not pass event 'cn.nukkit.event.player.PlayerInteractEvent' to 'PortSignal v1.1.1': null on com.deadaymen.portalsign.EventListener
+2017-10-19 15:38:22 [ALERT] cn.nukkit.utils.EventException
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:34)
+	at cn.nukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:56)
+	at cn.nukkit.plugin.PluginManager.callEvent(PluginManager.java:553)
+	at cn.nukkit.Player.handleDataPacket(Player.java:3007)
+	at java.util.ArrayList.forEach(Unknown Source)
+	at cn.nukkit.network.Network.processPackets(Network.java:169)
+	at cn.nukkit.network.Network.processBatch(Network.java:151)
+	at cn.nukkit.Player.handleDataPacket(Player.java:1982)
+	at cn.nukkit.network.RakNetInterface.handleEncapsulated(RakNetInterface.java:157)
+	at cn.nukkit.raknet.server.ServerHandler.handlePacket(ServerHandler.java:132)
+	at cn.nukkit.network.RakNetInterface.process(RakNetInterface.java:66)
+	at cn.nukkit.network.Network.processInterfaces(Network.java:75)
+	at cn.nukkit.Server.tick(Server.java:990)
+	at cn.nukkit.Server.tickProcessor(Server.java:799)
+	at cn.nukkit.Server.start(Server.java:778)
+	at cn.nukkit.Server.<init>(Server.java:469)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+Caused by: java.lang.NoSuchMethodError: cn.nukkit.event.player.PlayerInteractEvent.getAction()I
+	at com.deadaymen.portalsign.EventListener.onPlayerInteractEvent(EventListener.java:64)
+	at sun.reflect.GeneratedMethodAccessor21.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:29)
+	... 16 more
+
+2017-10-19 15:38:22 [CRITICAL] Could not pass event 'cn.nukkit.event.player.PlayerInteractEvent' to 'PortSignal v1.1.1': null on com.deadaymen.portalsign.EventListener
+2017-10-19 15:38:22 [ALERT] cn.nukkit.utils.EventException
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:34)
+	at cn.nukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:56)
+	at cn.nukkit.plugin.PluginManager.callEvent(PluginManager.java:553)
+	at cn.nukkit.Player.handleDataPacket(Player.java:2220)
+	at java.util.ArrayList.forEach(Unknown Source)
+	at cn.nukkit.network.Network.processPackets(Network.java:169)
+	at cn.nukkit.network.Network.processBatch(Network.java:151)
+	at cn.nukkit.Player.handleDataPacket(Player.java:1982)
+	at cn.nukkit.network.RakNetInterface.handleEncapsulated(RakNetInterface.java:157)
+	at cn.nukkit.raknet.server.ServerHandler.handlePacket(ServerHandler.java:132)
+	at cn.nukkit.network.RakNetInterface.process(RakNetInterface.java:66)
+	at cn.nukkit.network.Network.processInterfaces(Network.java:75)
+	at cn.nukkit.Server.tick(Server.java:990)
+	at cn.nukkit.Server.tickProcessor(Server.java:799)
+	at cn.nukkit.Server.start(Server.java:778)
+	at cn.nukkit.Server.<init>(Server.java:469)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+Caused by: java.lang.NoSuchMethodError: cn.nukkit.event.player.PlayerInteractEvent.getAction()I
+	at com.deadaymen.portalsign.EventListener.onPlayerInteractEvent(EventListener.java:64)
+	at sun.reflect.GeneratedMethodAccessor21.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:29)
+	... 16 more
+
+2017-10-19 15:38:22 [CRITICAL] Could not pass event 'cn.nukkit.event.player.PlayerInteractEvent' to 'PortSignal v1.1.1': null on com.deadaymen.portalsign.EventListener
+2017-10-19 15:38:22 [ALERT] cn.nukkit.utils.EventException
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:34)
+	at cn.nukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:56)
+	at cn.nukkit.plugin.PluginManager.callEvent(PluginManager.java:553)
+	at cn.nukkit.Player.handleDataPacket(Player.java:2220)
+	at java.util.ArrayList.forEach(Unknown Source)
+	at cn.nukkit.network.Network.processPackets(Network.java:169)
+	at cn.nukkit.network.Network.processBatch(Network.java:151)
+	at cn.nukkit.Player.handleDataPacket(Player.java:1982)
+	at cn.nukkit.network.RakNetInterface.handleEncapsulated(RakNetInterface.java:157)
+	at cn.nukkit.raknet.server.ServerHandler.handlePacket(ServerHandler.java:132)
+	at cn.nukkit.network.RakNetInterface.process(RakNetInterface.java:66)
+	at cn.nukkit.network.Network.processInterfaces(Network.java:75)
+	at cn.nukkit.Server.tick(Server.java:990)
+	at cn.nukkit.Server.tickProcessor(Server.java:799)
+	at cn.nukkit.Server.start(Server.java:778)
+	at cn.nukkit.Server.<init>(Server.java:469)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+Caused by: java.lang.NoSuchMethodError: cn.nukkit.event.player.PlayerInteractEvent.getAction()I
+	at com.deadaymen.portalsign.EventListener.onPlayerInteractEvent(EventListener.java:64)
+	at sun.reflect.GeneratedMethodAccessor21.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:29)
+	... 16 more
+
+2017-10-19 15:38:25 [CRITICAL] Could not pass event 'cn.nukkit.event.player.PlayerInteractEvent' to 'PortSignal v1.1.1': null on com.deadaymen.portalsign.EventListener
+2017-10-19 15:38:25 [ALERT] cn.nukkit.utils.EventException
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:34)
+	at cn.nukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:56)
+	at cn.nukkit.plugin.PluginManager.callEvent(PluginManager.java:553)
+	at cn.nukkit.Player.handleDataPacket(Player.java:2220)
+	at java.util.ArrayList.forEach(Unknown Source)
+	at cn.nukkit.network.Network.processPackets(Network.java:169)
+	at cn.nukkit.network.Network.processBatch(Network.java:151)
+	at cn.nukkit.Player.handleDataPacket(Player.java:1982)
+	at cn.nukkit.network.RakNetInterface.handleEncapsulated(RakNetInterface.java:157)
+	at cn.nukkit.raknet.server.ServerHandler.handlePacket(ServerHandler.java:132)
+	at cn.nukkit.network.RakNetInterface.process(RakNetInterface.java:66)
+	at cn.nukkit.network.Network.processInterfaces(Network.java:75)
+	at cn.nukkit.Server.tick(Server.java:990)
+	at cn.nukkit.Server.tickProcessor(Server.java:799)
+	at cn.nukkit.Server.start(Server.java:778)
+	at cn.nukkit.Server.<init>(Server.java:469)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+Caused by: java.lang.NoSuchMethodError: cn.nukkit.event.player.PlayerInteractEvent.getAction()I
+	at com.deadaymen.portalsign.EventListener.onPlayerInteractEvent(EventListener.java:64)
+	at sun.reflect.GeneratedMethodAccessor21.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:29)
+	... 16 more
+
+2017-10-19 15:38:29 [CRITICAL] Could not pass event 'cn.nukkit.event.player.PlayerInteractEvent' to 'PortSignal v1.1.1': null on com.deadaymen.portalsign.EventListener
+2017-10-19 15:38:29 [ALERT] cn.nukkit.utils.EventException
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:34)
+	at cn.nukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:56)
+	at cn.nukkit.plugin.PluginManager.callEvent(PluginManager.java:553)
+	at cn.nukkit.Player.handleDataPacket(Player.java:2220)
+	at java.util.ArrayList.forEach(Unknown Source)
+	at cn.nukkit.network.Network.processPackets(Network.java:169)
+	at cn.nukkit.network.Network.processBatch(Network.java:151)
+	at cn.nukkit.Player.handleDataPacket(Player.java:1982)
+	at cn.nukkit.network.RakNetInterface.handleEncapsulated(RakNetInterface.java:157)
+	at cn.nukkit.raknet.server.ServerHandler.handlePacket(ServerHandler.java:132)
+	at cn.nukkit.network.RakNetInterface.process(RakNetInterface.java:66)
+	at cn.nukkit.network.Network.processInterfaces(Network.java:75)
+	at cn.nukkit.Server.tick(Server.java:990)
+	at cn.nukkit.Server.tickProcessor(Server.java:799)
+	at cn.nukkit.Server.start(Server.java:778)
+	at cn.nukkit.Server.<init>(Server.java:469)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+Caused by: java.lang.NoSuchMethodError: cn.nukkit.event.player.PlayerInteractEvent.getAction()I
+	at com.deadaymen.portalsign.EventListener.onPlayerInteractEvent(EventListener.java:64)
+	at sun.reflect.GeneratedMethodAccessor21.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:29)
+	... 16 more
+
+2017-10-19 15:39:10 [WARNING] Ghreydafur moved wrongly!
+2017-10-19 15:39:10 [WARNING] Ghreydafur moved wrongly!
+2017-10-19 15:39:12 [WARNING] Ghreydafur moved wrongly!
+2017-10-19 15:39:18 [CRITICAL] Could not pass event 'cn.nukkit.event.player.PlayerInteractEvent' to 'PortSignal v1.1.1': null on com.deadaymen.portalsign.EventListener
+2017-10-19 15:39:18 [ALERT] cn.nukkit.utils.EventException
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:34)
+	at cn.nukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:56)
+	at cn.nukkit.plugin.PluginManager.callEvent(PluginManager.java:553)
+	at cn.nukkit.level.Level.useItemOn(Level.java:1975)
+	at cn.nukkit.level.Level.useItemOn(Level.java:1942)
+	at cn.nukkit.Player.handleDataPacket(Player.java:2921)
+	at java.util.ArrayList.forEach(Unknown Source)
+	at cn.nukkit.network.Network.processPackets(Network.java:169)
+	at cn.nukkit.network.Network.processBatch(Network.java:151)
+	at cn.nukkit.Player.handleDataPacket(Player.java:1982)
+	at cn.nukkit.network.RakNetInterface.handleEncapsulated(RakNetInterface.java:157)
+	at cn.nukkit.raknet.server.ServerHandler.handlePacket(ServerHandler.java:132)
+	at cn.nukkit.network.RakNetInterface.process(RakNetInterface.java:66)
+	at cn.nukkit.network.Network.processInterfaces(Network.java:75)
+	at cn.nukkit.Server.tick(Server.java:990)
+	at cn.nukkit.Server.tickProcessor(Server.java:799)
+	at cn.nukkit.Server.start(Server.java:778)
+	at cn.nukkit.Server.<init>(Server.java:469)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+Caused by: java.lang.NoSuchMethodError: cn.nukkit.event.player.PlayerInteractEvent.getAction()I
+	at com.deadaymen.portalsign.EventListener.onPlayerInteractEvent(EventListener.java:64)
+	at sun.reflect.GeneratedMethodAccessor21.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:29)
+	... 18 more
+
+2017-10-19 15:39:19 [CRITICAL] Could not pass event 'cn.nukkit.event.player.PlayerInteractEvent' to 'PortSignal v1.1.1': null on com.deadaymen.portalsign.EventListener
+2017-10-19 15:39:19 [ALERT] cn.nukkit.utils.EventException
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:34)
+	at cn.nukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:56)
+	at cn.nukkit.plugin.PluginManager.callEvent(PluginManager.java:553)
+	at cn.nukkit.level.Level.useItemOn(Level.java:1975)
+	at cn.nukkit.level.Level.useItemOn(Level.java:1942)
+	at cn.nukkit.Player.handleDataPacket(Player.java:2921)
+	at java.util.ArrayList.forEach(Unknown Source)
+	at cn.nukkit.network.Network.processPackets(Network.java:169)
+	at cn.nukkit.network.Network.processBatch(Network.java:151)
+	at cn.nukkit.Player.handleDataPacket(Player.java:1982)
+	at cn.nukkit.network.RakNetInterface.handleEncapsulated(RakNetInterface.java:157)
+	at cn.nukkit.raknet.server.ServerHandler.handlePacket(ServerHandler.java:132)
+	at cn.nukkit.network.RakNetInterface.process(RakNetInterface.java:66)
+	at cn.nukkit.network.Network.processInterfaces(Network.java:75)
+	at cn.nukkit.Server.tick(Server.java:990)
+	at cn.nukkit.Server.tickProcessor(Server.java:799)
+	at cn.nukkit.Server.start(Server.java:778)
+	at cn.nukkit.Server.<init>(Server.java:469)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+Caused by: java.lang.NoSuchMethodError: cn.nukkit.event.player.PlayerInteractEvent.getAction()I
+	at com.deadaymen.portalsign.EventListener.onPlayerInteractEvent(EventListener.java:64)
+	at sun.reflect.GeneratedMethodAccessor21.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:29)
+	... 18 more
+
+2017-10-19 15:39:27 [CRITICAL] Could not pass event 'cn.nukkit.event.player.PlayerInteractEvent' to 'PortSignal v1.1.1': null on com.deadaymen.portalsign.EventListener
+2017-10-19 15:39:27 [ALERT] cn.nukkit.utils.EventException
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:34)
+	at cn.nukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:56)
+	at cn.nukkit.plugin.PluginManager.callEvent(PluginManager.java:553)
+	at cn.nukkit.level.Level.useItemOn(Level.java:1975)
+	at cn.nukkit.level.Level.useItemOn(Level.java:1942)
+	at cn.nukkit.Player.handleDataPacket(Player.java:2921)
+	at java.util.ArrayList.forEach(Unknown Source)
+	at cn.nukkit.network.Network.processPackets(Network.java:169)
+	at cn.nukkit.network.Network.processBatch(Network.java:151)
+	at cn.nukkit.Player.handleDataPacket(Player.java:1982)
+	at cn.nukkit.network.RakNetInterface.handleEncapsulated(RakNetInterface.java:157)
+	at cn.nukkit.raknet.server.ServerHandler.handlePacket(ServerHandler.java:132)
+	at cn.nukkit.network.RakNetInterface.process(RakNetInterface.java:66)
+	at cn.nukkit.network.Network.processInterfaces(Network.java:75)
+	at cn.nukkit.Server.tick(Server.java:990)
+	at cn.nukkit.Server.tickProcessor(Server.java:799)
+	at cn.nukkit.Server.start(Server.java:778)
+	at cn.nukkit.Server.<init>(Server.java:469)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+Caused by: java.lang.NoSuchMethodError: cn.nukkit.event.player.PlayerInteractEvent.getAction()I
+	at com.deadaymen.portalsign.EventListener.onPlayerInteractEvent(EventListener.java:64)
+	at sun.reflect.GeneratedMethodAccessor21.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:29)
+	... 18 more
+
+2017-10-19 15:39:29 [CRITICAL] Could not pass event 'cn.nukkit.event.player.PlayerInteractEvent' to 'PortSignal v1.1.1': null on com.deadaymen.portalsign.EventListener
+2017-10-19 15:39:29 [ALERT] cn.nukkit.utils.EventException
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:34)
+	at cn.nukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:56)
+	at cn.nukkit.plugin.PluginManager.callEvent(PluginManager.java:553)
+	at cn.nukkit.level.Level.useItemOn(Level.java:1975)
+	at cn.nukkit.level.Level.useItemOn(Level.java:1942)
+	at cn.nukkit.Player.handleDataPacket(Player.java:2921)
+	at java.util.ArrayList.forEach(Unknown Source)
+	at cn.nukkit.network.Network.processPackets(Network.java:169)
+	at cn.nukkit.network.Network.processBatch(Network.java:151)
+	at cn.nukkit.Player.handleDataPacket(Player.java:1982)
+	at cn.nukkit.network.RakNetInterface.handleEncapsulated(RakNetInterface.java:157)
+	at cn.nukkit.raknet.server.ServerHandler.handlePacket(ServerHandler.java:132)
+	at cn.nukkit.network.RakNetInterface.process(RakNetInterface.java:66)
+	at cn.nukkit.network.Network.processInterfaces(Network.java:75)
+	at cn.nukkit.Server.tick(Server.java:990)
+	at cn.nukkit.Server.tickProcessor(Server.java:799)
+	at cn.nukkit.Server.start(Server.java:778)
+	at cn.nukkit.Server.<init>(Server.java:469)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+Caused by: java.lang.NoSuchMethodError: cn.nukkit.event.player.PlayerInteractEvent.getAction()I
+	at com.deadaymen.portalsign.EventListener.onPlayerInteractEvent(EventListener.java:64)
+	at sun.reflect.GeneratedMethodAccessor21.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:29)
+	... 18 more
+
+2017-10-19 15:39:30 [CRITICAL] Could not pass event 'cn.nukkit.event.player.PlayerInteractEvent' to 'PortSignal v1.1.1': null on com.deadaymen.portalsign.EventListener
+2017-10-19 15:39:30 [ALERT] cn.nukkit.utils.EventException
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:34)
+	at cn.nukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:56)
+	at cn.nukkit.plugin.PluginManager.callEvent(PluginManager.java:553)
+	at cn.nukkit.level.Level.useItemOn(Level.java:1975)
+	at cn.nukkit.level.Level.useItemOn(Level.java:1942)
+	at cn.nukkit.Player.handleDataPacket(Player.java:2921)
+	at java.util.ArrayList.forEach(Unknown Source)
+	at cn.nukkit.network.Network.processPackets(Network.java:169)
+	at cn.nukkit.network.Network.processBatch(Network.java:151)
+	at cn.nukkit.Player.handleDataPacket(Player.java:1982)
+	at cn.nukkit.network.RakNetInterface.handleEncapsulated(RakNetInterface.java:157)
+	at cn.nukkit.raknet.server.ServerHandler.handlePacket(ServerHandler.java:132)
+	at cn.nukkit.network.RakNetInterface.process(RakNetInterface.java:66)
+	at cn.nukkit.network.Network.processInterfaces(Network.java:75)
+	at cn.nukkit.Server.tick(Server.java:990)
+	at cn.nukkit.Server.tickProcessor(Server.java:799)
+	at cn.nukkit.Server.start(Server.java:778)
+	at cn.nukkit.Server.<init>(Server.java:469)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+Caused by: java.lang.NoSuchMethodError: cn.nukkit.event.player.PlayerInteractEvent.getAction()I
+	at com.deadaymen.portalsign.EventListener.onPlayerInteractEvent(EventListener.java:64)
+	at sun.reflect.GeneratedMethodAccessor21.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:29)
+	... 18 more
+
+2017-10-19 15:39:33 [CRITICAL] Could not pass event 'cn.nukkit.event.player.PlayerInteractEvent' to 'PortSignal v1.1.1': null on com.deadaymen.portalsign.EventListener
+2017-10-19 15:39:33 [ALERT] cn.nukkit.utils.EventException
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:34)
+	at cn.nukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:56)
+	at cn.nukkit.plugin.PluginManager.callEvent(PluginManager.java:553)
+	at cn.nukkit.Player.handleDataPacket(Player.java:2220)
+	at java.util.ArrayList.forEach(Unknown Source)
+	at cn.nukkit.network.Network.processPackets(Network.java:169)
+	at cn.nukkit.network.Network.processBatch(Network.java:151)
+	at cn.nukkit.Player.handleDataPacket(Player.java:1982)
+	at cn.nukkit.network.RakNetInterface.handleEncapsulated(RakNetInterface.java:157)
+	at cn.nukkit.raknet.server.ServerHandler.handlePacket(ServerHandler.java:132)
+	at cn.nukkit.network.RakNetInterface.process(RakNetInterface.java:66)
+	at cn.nukkit.network.Network.processInterfaces(Network.java:75)
+	at cn.nukkit.Server.tick(Server.java:990)
+	at cn.nukkit.Server.tickProcessor(Server.java:799)
+	at cn.nukkit.Server.start(Server.java:778)
+	at cn.nukkit.Server.<init>(Server.java:469)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+Caused by: java.lang.NoSuchMethodError: cn.nukkit.event.player.PlayerInteractEvent.getAction()I
+	at com.deadaymen.portalsign.EventListener.onPlayerInteractEvent(EventListener.java:64)
+	at sun.reflect.GeneratedMethodAccessor21.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:29)
+	... 16 more
+
+2017-10-19 15:39:33 [CRITICAL] Could not pass event 'cn.nukkit.event.player.PlayerInteractEvent' to 'PortSignal v1.1.1': null on com.deadaymen.portalsign.EventListener
+2017-10-19 15:39:33 [ALERT] cn.nukkit.utils.EventException
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:34)
+	at cn.nukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:56)
+	at cn.nukkit.plugin.PluginManager.callEvent(PluginManager.java:553)
+	at cn.nukkit.Player.handleDataPacket(Player.java:2220)
+	at java.util.ArrayList.forEach(Unknown Source)
+	at cn.nukkit.network.Network.processPackets(Network.java:169)
+	at cn.nukkit.network.Network.processBatch(Network.java:151)
+	at cn.nukkit.Player.handleDataPacket(Player.java:1982)
+	at cn.nukkit.network.RakNetInterface.handleEncapsulated(RakNetInterface.java:157)
+	at cn.nukkit.raknet.server.ServerHandler.handlePacket(ServerHandler.java:132)
+	at cn.nukkit.network.RakNetInterface.process(RakNetInterface.java:66)
+	at cn.nukkit.network.Network.processInterfaces(Network.java:75)
+	at cn.nukkit.Server.tick(Server.java:990)
+	at cn.nukkit.Server.tickProcessor(Server.java:799)
+	at cn.nukkit.Server.start(Server.java:778)
+	at cn.nukkit.Server.<init>(Server.java:469)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+Caused by: java.lang.NoSuchMethodError: cn.nukkit.event.player.PlayerInteractEvent.getAction()I
+	at com.deadaymen.portalsign.EventListener.onPlayerInteractEvent(EventListener.java:64)
+	at sun.reflect.GeneratedMethodAccessor21.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:29)
+	... 16 more
+
+2017-10-19 15:39:36 [CRITICAL] Could not pass event 'cn.nukkit.event.player.PlayerInteractEvent' to 'PortSignal v1.1.1': null on com.deadaymen.portalsign.EventListener
+2017-10-19 15:39:36 [ALERT] cn.nukkit.utils.EventException
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:34)
+	at cn.nukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:56)
+	at cn.nukkit.plugin.PluginManager.callEvent(PluginManager.java:553)
+	at cn.nukkit.Player.handleDataPacket(Player.java:2220)
+	at java.util.ArrayList.forEach(Unknown Source)
+	at cn.nukkit.network.Network.processPackets(Network.java:169)
+	at cn.nukkit.network.Network.processBatch(Network.java:151)
+	at cn.nukkit.Player.handleDataPacket(Player.java:1982)
+	at cn.nukkit.network.RakNetInterface.handleEncapsulated(RakNetInterface.java:157)
+	at cn.nukkit.raknet.server.ServerHandler.handlePacket(ServerHandler.java:132)
+	at cn.nukkit.network.RakNetInterface.process(RakNetInterface.java:66)
+	at cn.nukkit.network.Network.processInterfaces(Network.java:75)
+	at cn.nukkit.Server.tick(Server.java:990)
+	at cn.nukkit.Server.tickProcessor(Server.java:799)
+	at cn.nukkit.Server.start(Server.java:778)
+	at cn.nukkit.Server.<init>(Server.java:469)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+Caused by: java.lang.NoSuchMethodError: cn.nukkit.event.player.PlayerInteractEvent.getAction()I
+	at com.deadaymen.portalsign.EventListener.onPlayerInteractEvent(EventListener.java:64)
+	at sun.reflect.GeneratedMethodAccessor21.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:29)
+	... 16 more
+
+2017-10-19 15:39:38 [CRITICAL] Could not pass event 'cn.nukkit.event.player.PlayerInteractEvent' to 'PortSignal v1.1.1': null on com.deadaymen.portalsign.EventListener
+2017-10-19 15:39:38 [ALERT] cn.nukkit.utils.EventException
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:34)
+	at cn.nukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:56)
+	at cn.nukkit.plugin.PluginManager.callEvent(PluginManager.java:553)
+	at cn.nukkit.level.Level.useItemOn(Level.java:1975)
+	at cn.nukkit.level.Level.useItemOn(Level.java:1942)
+	at cn.nukkit.Player.handleDataPacket(Player.java:2921)
+	at java.util.ArrayList.forEach(Unknown Source)
+	at cn.nukkit.network.Network.processPackets(Network.java:169)
+	at cn.nukkit.network.Network.processBatch(Network.java:151)
+	at cn.nukkit.Player.handleDataPacket(Player.java:1982)
+	at cn.nukkit.network.RakNetInterface.handleEncapsulated(RakNetInterface.java:157)
+	at cn.nukkit.raknet.server.ServerHandler.handlePacket(ServerHandler.java:132)
+	at cn.nukkit.network.RakNetInterface.process(RakNetInterface.java:68)
+	at cn.nukkit.network.Network.processInterfaces(Network.java:75)
+	at cn.nukkit.Server.tick(Server.java:990)
+	at cn.nukkit.Server.tickProcessor(Server.java:799)
+	at cn.nukkit.Server.start(Server.java:778)
+	at cn.nukkit.Server.<init>(Server.java:469)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+Caused by: java.lang.NoSuchMethodError: cn.nukkit.event.player.PlayerInteractEvent.getAction()I
+	at com.deadaymen.portalsign.EventListener.onPlayerInteractEvent(EventListener.java:64)
+	at sun.reflect.GeneratedMethodAccessor21.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:29)
+	... 18 more
+
+2017-10-19 15:40:20 [WARNING] Ghreydafur moved wrongly!
+2017-10-19 15:40:21 [WARNING] Ghreydafur moved wrongly!
+2017-10-19 15:40:23 [WARNING] Ghreydafur moved wrongly!
+2017-10-19 15:40:23 [WARNING] Ghreydafur moved wrongly!
+2017-10-19 15:40:24 [WARNING] Ghreydafur moved wrongly!
+2017-10-19 15:40:24 [WARNING] Ghreydafur moved wrongly!
+2017-10-19 15:40:26 [WARNING] Ghreydafur moved wrongly!
+2017-10-19 15:40:42 [CRITICAL] Could not pass event 'cn.nukkit.event.player.PlayerInteractEvent' to 'PortSignal v1.1.1': null on com.deadaymen.portalsign.EventListener
+2017-10-19 15:40:42 [ALERT] cn.nukkit.utils.EventException
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:34)
+	at cn.nukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:56)
+	at cn.nukkit.plugin.PluginManager.callEvent(PluginManager.java:553)
+	at cn.nukkit.level.Level.useItemOn(Level.java:1975)
+	at cn.nukkit.level.Level.useItemOn(Level.java:1942)
+	at cn.nukkit.Player.handleDataPacket(Player.java:2921)
+	at java.util.ArrayList.forEach(Unknown Source)
+	at cn.nukkit.network.Network.processPackets(Network.java:169)
+	at cn.nukkit.network.Network.processBatch(Network.java:151)
+	at cn.nukkit.Player.handleDataPacket(Player.java:1982)
+	at cn.nukkit.network.RakNetInterface.handleEncapsulated(RakNetInterface.java:157)
+	at cn.nukkit.raknet.server.ServerHandler.handlePacket(ServerHandler.java:132)
+	at cn.nukkit.network.RakNetInterface.process(RakNetInterface.java:66)
+	at cn.nukkit.network.Network.processInterfaces(Network.java:75)
+	at cn.nukkit.Server.tick(Server.java:990)
+	at cn.nukkit.Server.tickProcessor(Server.java:799)
+	at cn.nukkit.Server.start(Server.java:778)
+	at cn.nukkit.Server.<init>(Server.java:469)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+Caused by: java.lang.NoSuchMethodError: cn.nukkit.event.player.PlayerInteractEvent.getAction()I
+	at com.deadaymen.portalsign.EventListener.onPlayerInteractEvent(EventListener.java:64)
+	at sun.reflect.GeneratedMethodAccessor21.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:29)
+	... 18 more
+
+2017-10-19 15:40:43 [CRITICAL] Could not pass event 'cn.nukkit.event.player.PlayerInteractEvent' to 'PortSignal v1.1.1': null on com.deadaymen.portalsign.EventListener
+2017-10-19 15:40:43 [ALERT] cn.nukkit.utils.EventException
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:34)
+	at cn.nukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:56)
+	at cn.nukkit.plugin.PluginManager.callEvent(PluginManager.java:553)
+	at cn.nukkit.level.Level.useItemOn(Level.java:1975)
+	at cn.nukkit.level.Level.useItemOn(Level.java:1942)
+	at cn.nukkit.Player.handleDataPacket(Player.java:2921)
+	at java.util.ArrayList.forEach(Unknown Source)
+	at cn.nukkit.network.Network.processPackets(Network.java:169)
+	at cn.nukkit.network.Network.processBatch(Network.java:151)
+	at cn.nukkit.Player.handleDataPacket(Player.java:1982)
+	at cn.nukkit.network.RakNetInterface.handleEncapsulated(RakNetInterface.java:157)
+	at cn.nukkit.raknet.server.ServerHandler.handlePacket(ServerHandler.java:132)
+	at cn.nukkit.network.RakNetInterface.process(RakNetInterface.java:66)
+	at cn.nukkit.network.Network.processInterfaces(Network.java:75)
+	at cn.nukkit.Server.tick(Server.java:990)
+	at cn.nukkit.Server.tickProcessor(Server.java:799)
+	at cn.nukkit.Server.start(Server.java:778)
+	at cn.nukkit.Server.<init>(Server.java:469)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+Caused by: java.lang.NoSuchMethodError: cn.nukkit.event.player.PlayerInteractEvent.getAction()I
+	at com.deadaymen.portalsign.EventListener.onPlayerInteractEvent(EventListener.java:64)
+	at sun.reflect.GeneratedMethodAccessor21.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:29)
+	... 18 more
+
+2017-10-19 15:40:46 [CRITICAL] Could not pass event 'cn.nukkit.event.player.PlayerInteractEvent' to 'PortSignal v1.1.1': null on com.deadaymen.portalsign.EventListener
+2017-10-19 15:40:46 [ALERT] cn.nukkit.utils.EventException
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:34)
+	at cn.nukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:56)
+	at cn.nukkit.plugin.PluginManager.callEvent(PluginManager.java:553)
+	at cn.nukkit.level.Level.useItemOn(Level.java:1975)
+	at cn.nukkit.level.Level.useItemOn(Level.java:1942)
+	at cn.nukkit.Player.handleDataPacket(Player.java:2921)
+	at java.util.ArrayList.forEach(Unknown Source)
+	at cn.nukkit.network.Network.processPackets(Network.java:169)
+	at cn.nukkit.network.Network.processBatch(Network.java:151)
+	at cn.nukkit.Player.handleDataPacket(Player.java:1982)
+	at cn.nukkit.network.RakNetInterface.handleEncapsulated(RakNetInterface.java:157)
+	at cn.nukkit.raknet.server.ServerHandler.handlePacket(ServerHandler.java:132)
+	at cn.nukkit.network.RakNetInterface.process(RakNetInterface.java:66)
+	at cn.nukkit.network.Network.processInterfaces(Network.java:75)
+	at cn.nukkit.Server.tick(Server.java:990)
+	at cn.nukkit.Server.tickProcessor(Server.java:799)
+	at cn.nukkit.Server.start(Server.java:778)
+	at cn.nukkit.Server.<init>(Server.java:469)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+Caused by: java.lang.NoSuchMethodError: cn.nukkit.event.player.PlayerInteractEvent.getAction()I
+	at com.deadaymen.portalsign.EventListener.onPlayerInteractEvent(EventListener.java:64)
+	at sun.reflect.GeneratedMethodAccessor21.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:29)
+	... 18 more
+
+2017-10-19 15:40:59 [CRITICAL] Could not pass event 'cn.nukkit.event.player.PlayerInteractEvent' to 'PortSignal v1.1.1': null on com.deadaymen.portalsign.EventListener
+2017-10-19 15:40:59 [ALERT] cn.nukkit.utils.EventException
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:34)
+	at cn.nukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:56)
+	at cn.nukkit.plugin.PluginManager.callEvent(PluginManager.java:553)
+	at cn.nukkit.level.Level.useItemOn(Level.java:1975)
+	at cn.nukkit.level.Level.useItemOn(Level.java:1942)
+	at cn.nukkit.Player.handleDataPacket(Player.java:2921)
+	at java.util.ArrayList.forEach(Unknown Source)
+	at cn.nukkit.network.Network.processPackets(Network.java:169)
+	at cn.nukkit.network.Network.processBatch(Network.java:151)
+	at cn.nukkit.Player.handleDataPacket(Player.java:1982)
+	at cn.nukkit.network.RakNetInterface.handleEncapsulated(RakNetInterface.java:157)
+	at cn.nukkit.raknet.server.ServerHandler.handlePacket(ServerHandler.java:132)
+	at cn.nukkit.network.RakNetInterface.process(RakNetInterface.java:66)
+	at cn.nukkit.network.Network.processInterfaces(Network.java:75)
+	at cn.nukkit.Server.tick(Server.java:990)
+	at cn.nukkit.Server.tickProcessor(Server.java:799)
+	at cn.nukkit.Server.start(Server.java:778)
+	at cn.nukkit.Server.<init>(Server.java:469)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+Caused by: java.lang.NoSuchMethodError: cn.nukkit.event.player.PlayerInteractEvent.getAction()I
+	at com.deadaymen.portalsign.EventListener.onPlayerInteractEvent(EventListener.java:64)
+	at sun.reflect.GeneratedMethodAccessor21.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:29)
+	... 18 more
+
+2017-10-19 15:41:13 [CRITICAL] Could not pass event 'cn.nukkit.event.player.PlayerInteractEvent' to 'PortSignal v1.1.1': null on com.deadaymen.portalsign.EventListener
+2017-10-19 15:41:13 [ALERT] cn.nukkit.utils.EventException
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:34)
+	at cn.nukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:56)
+	at cn.nukkit.plugin.PluginManager.callEvent(PluginManager.java:553)
+	at cn.nukkit.level.Level.useItemOn(Level.java:1975)
+	at cn.nukkit.level.Level.useItemOn(Level.java:1942)
+	at cn.nukkit.Player.handleDataPacket(Player.java:2921)
+	at java.util.ArrayList.forEach(Unknown Source)
+	at cn.nukkit.network.Network.processPackets(Network.java:169)
+	at cn.nukkit.network.Network.processBatch(Network.java:151)
+	at cn.nukkit.Player.handleDataPacket(Player.java:1982)
+	at cn.nukkit.network.RakNetInterface.handleEncapsulated(RakNetInterface.java:157)
+	at cn.nukkit.raknet.server.ServerHandler.handlePacket(ServerHandler.java:132)
+	at cn.nukkit.network.RakNetInterface.process(RakNetInterface.java:66)
+	at cn.nukkit.network.Network.processInterfaces(Network.java:75)
+	at cn.nukkit.Server.tick(Server.java:990)
+	at cn.nukkit.Server.tickProcessor(Server.java:799)
+	at cn.nukkit.Server.start(Server.java:778)
+	at cn.nukkit.Server.<init>(Server.java:469)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+Caused by: java.lang.NoSuchMethodError: cn.nukkit.event.player.PlayerInteractEvent.getAction()I
+	at com.deadaymen.portalsign.EventListener.onPlayerInteractEvent(EventListener.java:64)
+	at sun.reflect.GeneratedMethodAccessor21.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:29)
+	... 18 more
+
+2017-10-19 15:41:32 [CRITICAL] Could not pass event 'cn.nukkit.event.player.PlayerInteractEvent' to 'PortSignal v1.1.1': null on com.deadaymen.portalsign.EventListener
+2017-10-19 15:41:32 [ALERT] cn.nukkit.utils.EventException
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:34)
+	at cn.nukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:56)
+	at cn.nukkit.plugin.PluginManager.callEvent(PluginManager.java:553)
+	at cn.nukkit.Player.handleDataPacket(Player.java:2220)
+	at java.util.ArrayList.forEach(Unknown Source)
+	at cn.nukkit.network.Network.processPackets(Network.java:169)
+	at cn.nukkit.network.Network.processBatch(Network.java:151)
+	at cn.nukkit.Player.handleDataPacket(Player.java:1982)
+	at cn.nukkit.network.RakNetInterface.handleEncapsulated(RakNetInterface.java:157)
+	at cn.nukkit.raknet.server.ServerHandler.handlePacket(ServerHandler.java:132)
+	at cn.nukkit.network.RakNetInterface.process(RakNetInterface.java:66)
+	at cn.nukkit.network.Network.processInterfaces(Network.java:75)
+	at cn.nukkit.Server.tick(Server.java:990)
+	at cn.nukkit.Server.tickProcessor(Server.java:799)
+	at cn.nukkit.Server.start(Server.java:778)
+	at cn.nukkit.Server.<init>(Server.java:469)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+Caused by: java.lang.NoSuchMethodError: cn.nukkit.event.player.PlayerInteractEvent.getAction()I
+	at com.deadaymen.portalsign.EventListener.onPlayerInteractEvent(EventListener.java:64)
+	at sun.reflect.GeneratedMethodAccessor21.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:29)
+	... 16 more
+
+2017-10-19 15:41:32 [CRITICAL] Could not pass event 'cn.nukkit.event.player.PlayerInteractEvent' to 'PortSignal v1.1.1': null on com.deadaymen.portalsign.EventListener
+2017-10-19 15:41:32 [ALERT] cn.nukkit.utils.EventException
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:34)
+	at cn.nukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:56)
+	at cn.nukkit.plugin.PluginManager.callEvent(PluginManager.java:553)
+	at cn.nukkit.Player.handleDataPacket(Player.java:2220)
+	at java.util.ArrayList.forEach(Unknown Source)
+	at cn.nukkit.network.Network.processPackets(Network.java:169)
+	at cn.nukkit.network.Network.processBatch(Network.java:151)
+	at cn.nukkit.Player.handleDataPacket(Player.java:1982)
+	at cn.nukkit.network.RakNetInterface.handleEncapsulated(RakNetInterface.java:157)
+	at cn.nukkit.raknet.server.ServerHandler.handlePacket(ServerHandler.java:132)
+	at cn.nukkit.network.RakNetInterface.process(RakNetInterface.java:66)
+	at cn.nukkit.network.Network.processInterfaces(Network.java:75)
+	at cn.nukkit.Server.tick(Server.java:990)
+	at cn.nukkit.Server.tickProcessor(Server.java:799)
+	at cn.nukkit.Server.start(Server.java:778)
+	at cn.nukkit.Server.<init>(Server.java:469)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+Caused by: java.lang.NoSuchMethodError: cn.nukkit.event.player.PlayerInteractEvent.getAction()I
+	at com.deadaymen.portalsign.EventListener.onPlayerInteractEvent(EventListener.java:64)
+	at sun.reflect.GeneratedMethodAccessor21.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:29)
+	... 16 more
+
+2017-10-19 15:41:34 [WARNING] Ghreydafur moved wrongly!
+2017-10-19 15:41:51 [CRITICAL] Could not pass event 'cn.nukkit.event.player.PlayerInteractEvent' to 'PortSignal v1.1.1': null on com.deadaymen.portalsign.EventListener
+2017-10-19 15:41:51 [ALERT] cn.nukkit.utils.EventException
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:34)
+	at cn.nukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:56)
+	at cn.nukkit.plugin.PluginManager.callEvent(PluginManager.java:553)
+	at cn.nukkit.level.Level.useItemOn(Level.java:1975)
+	at cn.nukkit.level.Level.useItemOn(Level.java:1942)
+	at cn.nukkit.Player.handleDataPacket(Player.java:2921)
+	at java.util.ArrayList.forEach(Unknown Source)
+	at cn.nukkit.network.Network.processPackets(Network.java:169)
+	at cn.nukkit.network.Network.processBatch(Network.java:151)
+	at cn.nukkit.Player.handleDataPacket(Player.java:1982)
+	at cn.nukkit.network.RakNetInterface.handleEncapsulated(RakNetInterface.java:157)
+	at cn.nukkit.raknet.server.ServerHandler.handlePacket(ServerHandler.java:132)
+	at cn.nukkit.network.RakNetInterface.process(RakNetInterface.java:68)
+	at cn.nukkit.network.Network.processInterfaces(Network.java:75)
+	at cn.nukkit.Server.tick(Server.java:990)
+	at cn.nukkit.Server.tickProcessor(Server.java:799)
+	at cn.nukkit.Server.start(Server.java:778)
+	at cn.nukkit.Server.<init>(Server.java:469)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+Caused by: java.lang.NoSuchMethodError: cn.nukkit.event.player.PlayerInteractEvent.getAction()I
+	at com.deadaymen.portalsign.EventListener.onPlayerInteractEvent(EventListener.java:64)
+	at sun.reflect.GeneratedMethodAccessor21.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:29)
+	... 18 more
+
+2017-10-19 15:42:15 [INFO] Ghreydafur left the game
+2017-10-19 15:42:15 [INFO] Ghreydafur[/73.169.206.156:49653] logged out due to client disconnect
+2017-10-19 18:01:28 [INFO] Zylenox[/76.85.87.152:55347] logged in with entity id 98 at (world, 230.8653, 87.0, -121.8276)
+2017-10-19 18:01:29 [INFO] Zylenox joined the game
+2017-10-19 18:01:43 [INFO] Zylenox left the game
+2017-10-19 18:01:43 [INFO] Zylenox[/76.85.87.152:55347] logged out due to client disconnect

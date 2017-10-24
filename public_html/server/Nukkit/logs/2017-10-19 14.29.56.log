@@ -1,0 +1,66 @@
+2017-10-19 14:29:53 [INFO] Loading nukkit.yml...
+2017-10-19 14:29:53 [INFO] Loading server properties...
+2017-10-19 14:29:53 [INFO] Selected English (eng) as the base language
+2017-10-19 14:29:53 [INFO] Starting Minecraft: PE server version v1.2.2
+2017-10-19 14:29:53 [INFO] Opening server on 0.0.0.0:19132
+2017-10-19 14:29:53 [INFO] This server is running Nukkit version 1.0dev "蘋果(Apple)派(Pie)" (API 1.0.0)
+2017-10-19 14:29:53 [INFO] Nukkit is distributed under the LGPL License
+2017-10-19 14:29:53 [INFO] Loading recipes...
+2017-10-19 14:29:53 [INFO] Loaded 415 recipes.
+2017-10-19 14:29:54 [INFO] Successfully loaded 1 resource packs
+2017-10-19 14:29:54 [ERROR] Could not load 'MinoriaPortal V1.0.jar' in folder 'C:\Users\elane\Desktop\Nukkit\plugins': java.lang.NullPointerException
+	at java.util.regex.Matcher.getTextLength(Unknown Source)
+	at java.util.regex.Matcher.reset(Unknown Source)
+	at java.util.regex.Matcher.<init>(Unknown Source)
+	at java.util.regex.Pattern.matcher(Unknown Source)
+	at java.util.regex.Pattern.matches(Unknown Source)
+	at cn.nukkit.plugin.PluginManager.loadPlugins(PluginManager.java:179)
+	at cn.nukkit.plugin.PluginManager.loadPlugins(PluginManager.java:132)
+	at cn.nukkit.plugin.PluginManager.loadPlugins(PluginManager.java:124)
+	at cn.nukkit.plugin.PluginManager.loadPlugins(PluginManager.java:120)
+	at cn.nukkit.Server.<init>(Server.java:392)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-19 14:29:54 [ALERT] java.lang.NullPointerException
+	at java.util.regex.Matcher.getTextLength(Unknown Source)
+	at java.util.regex.Matcher.reset(Unknown Source)
+	at java.util.regex.Matcher.<init>(Unknown Source)
+	at java.util.regex.Pattern.matcher(Unknown Source)
+	at java.util.regex.Pattern.matches(Unknown Source)
+	at cn.nukkit.plugin.PluginManager.loadPlugins(PluginManager.java:179)
+	at cn.nukkit.plugin.PluginManager.loadPlugins(PluginManager.java:132)
+	at cn.nukkit.plugin.PluginManager.loadPlugins(PluginManager.java:124)
+	at cn.nukkit.plugin.PluginManager.loadPlugins(PluginManager.java:120)
+	at cn.nukkit.Server.<init>(Server.java:392)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-19 14:29:54 [ERROR] Could not load plugin 'PortSignal': plugin exists
+2017-10-19 14:29:54 [INFO] Loading SpamBan v1.0.0
+2017-10-19 14:29:54 [CRITICAL] Could not load plugin 'SpamBan'
+2017-10-19 14:29:54 [INFO] Loading DbLib v0.2.1
+2017-10-19 14:29:54 [INFO] [DbLib] Connecting to: jdbc:sqlite:C:\Users\elane\Desktop\Nukkit\nukkit.db (user: nukkit)
+2017-10-19 14:29:54 [INFO] [DbLib] DbLib 0.2.1 created by fromgate for nukkit.ru
+2017-10-19 14:29:54 [INFO] Loading FastAsyncWorldEdit v17.09.24-c3d12f1-908-16.6.5
+2017-10-19 14:29:54 [INFO] Loading LeetTP v1.2.6-b29
+2017-10-19 14:29:54 [INFO] Loading PortSignal v1.1.1
+2017-10-19 14:29:54 [INFO] [PortSignal] Portal Sign 1.1.1 By [DeaDAyMeN(06699)] Loadded!!!
+2017-10-19 14:29:54 [INFO] Loading RealExplosions v1.0
+2017-10-19 14:29:54 [INFO] Loading WelcomeMessage v1.0.3
+2017-10-19 14:29:54 [INFO] Loading xKeepInventory v1.0.1505
+2017-10-19 14:29:54 [INFO] Preparing level "world"
+2017-10-19 14:29:54 [INFO] Enabling DbLib v0.2.1
+2017-10-19 14:29:54 [INFO] Enabling FastAsyncWorldEdit v17.09.24-c3d12f1-908-16.6.5
+2017-10-19 14:29:56 [INFO] Enabling LeetTP v1.2.6-b29
+2017-10-19 14:29:56 [INFO] Enabling PortSignal v1.1.1
+2017-10-19 14:29:56 [INFO] [PortSignal] Data folder founded !
+2017-10-19 14:29:56 [INFO] Enabling RealExplosions v1.0
+2017-10-19 14:29:56 [INFO] Enabling WelcomeMessage v1.0.3
+2017-10-19 14:29:56 [INFO] [WelcomeMessage] WelcomeMessage plugin Enabled!
+2017-10-19 14:29:56 [INFO] Enabling xKeepInventory v1.0.1505
+2017-10-19 14:29:56 [INFO] [xKeepInventory] Enabled successful
+2017-10-19 14:29:56 [INFO] [xKeepInventory] Inventory keeping enabled by user!
+2017-10-19 14:29:56 [INFO] Starting GS4 status listener
+2017-10-19 14:29:56 [INFO] Setting query port to 19132
+2017-10-19 14:29:56 [INFO] Query is running on 0.0.0.0:19132
+2017-10-19 14:29:56 [INFO] Default game type: Survival Mode
+2017-10-19 14:29:56 [INFO] Done (3.848s)! For help, type "help" or "?"

@@ -1,8 +1,1 @@
-Options +ExecCGI
-AddHandler fcgid-script .html
-FCGIWrapper /usr/local/cpanel/cgi-sys/php5 .html
 
-RewriteEngine on 
-RewriteCond %{REQUEST_FILENAME} !-d 
-RewriteCond %{REQUEST_FILENAME}\.html -f 
-RewriteRule ^(.*)$ $1.html

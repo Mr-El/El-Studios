@@ -1,0 +1,75 @@
+2017-9-27 13:51:35 [INFO] Loading nukkit.yml...
+2017-9-27 13:51:35 [INFO] Loading server properties...
+2017-9-27 13:51:35 [INFO] Selected English (eng) as the base language
+2017-9-27 13:51:35 [INFO] Starting Minecraft: PE server version v1.2.0.31 beta
+2017-9-27 13:51:35 [INFO] Opening server on 0.0.0.0:19132
+2017-9-27 13:51:35 [INFO] This server is running Nukkit version 1.0dev "蘋果(Apple)派(Pie)" (API 1.0.0)
+2017-9-27 13:51:35 [INFO] Nukkit is distributed under the LGPL License
+2017-9-27 13:51:36 [INFO] Loading recipes...
+2017-9-27 13:51:36 [INFO] Loaded 415 recipes.
+2017-9-27 13:51:36 [INFO] Successfully loaded 0 resource packs
+2017-9-27 13:51:36 [INFO] Preparing level "world"
+2017-9-27 13:51:36 [INFO] Starting GS4 status listener
+2017-9-27 13:51:36 [INFO] Setting query port to 19132
+2017-9-27 13:51:36 [INFO] Query is running on 0.0.0.0:19132
+2017-9-27 13:51:36 [INFO] Default game type: Survival Mode
+2017-9-27 13:51:36 [INFO] Done (0.447s)! For help, type "help" or "?"
+2017-9-27 13:51:58 [INFO] TheMisterEl[/192.168.1.4:51574] logged in with entity id 1 at (world, 188.6552, 72.0, 81.1404)
+2017-9-27 13:52:08 [INFO] TheMisterEl joined the game
+2017-9-27 13:52:35 [INFO] TheMisterEl left the game
+2017-9-27 13:52:35 [INFO] TheMisterEl[/192.168.1.4:51574] logged out due to client disconnect
+2017-9-27 13:53:21 [INFO] Unknown command. Try /help for a list of commands
+2017-9-27 13:53:24 [INFO] Unknown command. Try /help for a list of commands
+2017-9-27 13:53:26 [INFO] Unknown command. Try /help for a list of commands
+2017-9-27 13:53:35 [INFO] Unknown command. Try /help for a list of commands
+2017-9-27 13:53:53 [INFO] Unknown command. Try /help for a list of commands
+2017-9-27 13:53:56 [INFO] Unknown command. Try /help for a list of commands
+2017-9-27 13:54:02 [INFO] Unknown command. Try /help for a list of commands
+2017-9-27 13:54:05 [INFO] --- Showing help page 1 of 1 (/help <page>) ---
+2017-9-27 13:54:05 [INFO] /ban: Prevents the specified player from using this server
+2017-9-27 13:54:05 [INFO] /ban-ip: Prevents the specified IP address from using this server
+2017-9-27 13:54:05 [INFO] /banlist: View all players banned from this server
+2017-9-27 13:54:05 [INFO] /defaultgamemode: Set the default gamemode
+2017-9-27 13:54:05 [INFO] /deop: Takes the specified player's operator status
+2017-9-27 13:54:05 [INFO] /difficulty: Sets the game difficulty
+2017-9-27 13:54:05 [INFO] /effect: Adds/Removes effects on players
+2017-9-27 13:54:05 [INFO] /enchant: Adds enchantments on items
+2017-9-27 13:54:05 [INFO] /gamemode: Changes the player to a specific game mode
+2017-9-27 13:54:05 [INFO] /give: Gives the specified player a certain amount of items
+2017-9-27 13:54:05 [INFO] /help: Shows the help menu
+2017-9-27 13:54:05 [INFO] /kick: Removes the specified player from the server
+2017-9-27 13:54:05 [INFO] /kill: Commit suicide or kill other players
+2017-9-27 13:54:05 [INFO] /list: Lists all online players
+2017-9-27 13:54:05 [INFO] /me: Performs the specified action in chat
+2017-9-27 13:54:05 [INFO] /op: Gives the specified player operator status
+2017-9-27 13:54:05 [INFO] /pardon: Allows the specified player to use this server
+2017-9-27 13:54:05 [INFO] /pardon-ip: Allows the specified IP address to use this server
+2017-9-27 13:54:05 [INFO] /particle: Adds particles to a world
+2017-9-27 13:54:05 [INFO] /plugins: Gets a list of plugins running on the server
+2017-9-27 13:54:05 [INFO] /reload: Reloads the server configuration and plugins
+2017-9-27 13:54:05 [INFO] /save-all: Saves the server to disk
+2017-9-27 13:54:05 [INFO] /save-off: Disables server autosaving
+2017-9-27 13:54:05 [INFO] /save-on: Enables server autosaving
+2017-9-27 13:54:05 [INFO] /say: Broadcasts the given message as the sender
+2017-9-27 13:54:05 [INFO] /seed: Shows the world seed
+2017-9-27 13:54:05 [INFO] /setworldspawn: Sets a worlds's spawn point. If no coordinates are specified, the player's coordinates will be used.
+2017-9-27 13:54:05 [INFO] /spawnpoint: Sets a player's spawn point
+2017-9-27 13:54:05 [INFO] /stop: Stops the server
+2017-9-27 13:54:05 [INFO] /tell: Sends a private message to the given player
+2017-9-27 13:54:05 [INFO] /time: Changes the time on each world
+2017-9-27 13:54:05 [INFO] /timings: Records timings to see performance of the server.
+2017-9-27 13:54:05 [INFO] /title: Sends a title to the specified player or modifies title settings for that player
+2017-9-27 13:54:05 [INFO] /tp: Teleports the given player (or yourself) to another player or coordinates
+2017-9-27 13:54:05 [INFO] /version: Gets the version of this server including any plugins in use
+2017-9-27 13:54:05 [INFO] /weather: Sets the weather in current world
+2017-9-27 13:54:05 [INFO] /whitelist: Manages the list of players allowed to use this server
+2017-9-27 13:54:05 [INFO] /xp: Gives the specified player a certain amount of experience
+2017-9-27 13:54:10 [INFO] [CONSOLE: Reloading server...]
+2017-9-27 13:54:10 [INFO] Reloading...
+2017-9-27 13:54:10 [INFO] Saving levels...
+2017-9-27 13:54:10 [INFO] Reloading properties...
+2017-9-27 13:54:10 [INFO] [CONSOLE: Reload complete.]
+2017-9-27 13:54:21 [INFO] TheMisterEl[/192.168.1.4:51574] logged in with entity id 14 at (world, 160.7326, 71.0, 40.2269)
+2017-9-27 13:54:22 [INFO] TheMisterEl joined the game
+2017-9-27 13:55:07 [INFO] TheMisterEl left the game
+2017-9-27 13:55:07 [INFO] TheMisterEl[/192.168.1.4:51574] logged out due to client disconnect

@@ -1,0 +1,20 @@
+2017-9-27 14:02:00 [INFO] Loading nukkit.yml...
+2017-9-27 14:02:00 [INFO] Loading server properties...
+2017-9-27 14:02:00 [INFO] Selected English (eng) as the base language
+2017-9-27 14:02:00 [INFO] Starting Minecraft: PE server version v1.2.0.31 beta
+2017-9-27 14:02:00 [INFO] Opening server on 0.0.0.0:19132
+2017-9-27 14:02:00 [INFO] This server is running Nukkit version 1.0dev "蘋果(Apple)派(Pie)" (API 1.0.0)
+2017-9-27 14:02:00 [INFO] Nukkit is distributed under the LGPL License
+2017-9-27 14:02:01 [INFO] Loading recipes...
+2017-9-27 14:02:01 [INFO] Loaded 415 recipes.
+2017-9-27 14:02:01 [INFO] Successfully loaded 0 resource packs
+2017-9-27 14:02:01 [INFO] Preparing level "world"
+2017-9-27 14:02:01 [INFO] Starting GS4 status listener
+2017-9-27 14:02:01 [INFO] Setting query port to 19132
+2017-9-27 14:02:01 [INFO] Query is running on 0.0.0.0:19132
+2017-9-27 14:02:01 [INFO] Default game type: Survival Mode
+2017-9-27 14:02:01 [INFO] Done (0.463s)! For help, type "help" or "?"
+2017-9-27 14:02:19 [INFO] TheMisterEl[/192.168.1.4:51574] logged in with entity id 1 at (world, 83.2581, 119.1008, 152.445)
+2017-9-27 14:02:20 [INFO] TheMisterEl joined the game
+2017-9-27 14:02:44 [INFO] TheMisterEl left the game
+2017-9-27 14:02:44 [INFO] TheMisterEl[/192.168.1.4:51574] logged out due to client disconnect

@@ -1,0 +1,1 @@
+{"action":"fetch","version":"2.4","timeout":0,"exit_code":0,"mode":"simple","status":1,"statusmsg":"Ran adminbin Cpanel/ftp/LISTSTORE","error":0,"data":[{"type":"sub","homedir":"/home/themrel","user":"mrel@elstudios.org"},{"homedir":"/home/themrel","type":"main","user":"themrel"},{"homedir":"/usr/local/apache/domlogs/themrel","type":"logaccess","user":"themrel_logs"}]}

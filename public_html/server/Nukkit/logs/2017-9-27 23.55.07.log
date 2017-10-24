@@ -1,0 +1,178 @@
+2017-9-27 22:49:52 [INFO] Loading nukkit.yml...
+2017-9-27 22:49:52 [INFO] Loading server properties...
+2017-9-27 22:49:52 [INFO] Selected English (eng) as the base language
+2017-9-27 22:49:52 [INFO] Starting Minecraft: PE server version v1.2.0.31 beta
+2017-9-27 22:49:52 [INFO] Opening server on 0.0.0.0:19132
+2017-9-27 22:49:52 [INFO] This server is running Nukkit version 1.0dev "蘋果(Apple)派(Pie)" (API 1.0.0)
+2017-9-27 22:49:52 [INFO] Nukkit is distributed under the LGPL License
+2017-9-27 22:49:52 [INFO] Loading recipes...
+2017-9-27 22:49:52 [INFO] Loaded 415 recipes.
+2017-9-27 22:49:52 [INFO] Successfully loaded 0 resource packs
+2017-9-27 22:49:52 [INFO] Loading DbLib v0.2.1
+2017-9-27 22:49:52 [INFO] [DbLib] Connecting to: jdbc:sqlite:C:\Users\elane\Desktop\Nukkit\nukkit.db (user: nukkit)
+2017-9-27 22:49:52 [INFO] [DbLib] DbLib 0.2.1 created by fromgate for nukkit.ru
+2017-9-27 22:49:52 [INFO] Loading FastAsyncWorldEdit v17.09.24-c3d12f1-908-16.6.5
+2017-9-27 22:49:52 [INFO] Loading xKeepInventory v1.0.1505
+2017-9-27 22:49:52 [INFO] Preparing level "world"
+2017-9-27 22:49:52 [INFO] Enabling DbLib v0.2.1
+2017-9-27 22:49:52 [INFO] Enabling FastAsyncWorldEdit v17.09.24-c3d12f1-908-16.6.5
+2017-9-27 22:49:53 [INFO] Enabling xKeepInventory v1.0.1505
+2017-9-27 22:49:53 [INFO] [xKeepInventory] Enabled successful
+2017-9-27 22:49:53 [INFO] [xKeepInventory] Inventory keeping enabled by user!
+2017-9-27 22:49:53 [INFO] Starting GS4 status listener
+2017-9-27 22:49:53 [INFO] Setting query port to 19132
+2017-9-27 22:49:53 [INFO] Query is running on 0.0.0.0:19132
+2017-9-27 22:49:53 [INFO] Default game type: Survival Mode
+2017-9-27 22:49:53 [INFO] Done (0.958s)! For help, type "help" or "?"
+2017-9-27 22:50:11 [INFO] TheMisterEl[/192.168.1.2:59378] logged in with entity id 1 at (world, 54.3539, 70.0, 155.8936)
+2017-9-27 22:50:12 [INFO] TheMisterEl joined the game
+2017-9-27 22:51:18 [INFO] [TheMisterEl: Set own game mode to Survival Mode]
+2017-9-27 22:53:02 [INFO] [TheMisterEl: Set own game mode to Creative Mode]
+2017-9-27 22:56:02 [INFO] TheMisterEl left the game
+2017-9-27 22:56:02 [INFO] TheMisterEl[/192.168.1.2:59378] logged out due to timeout
+2017-9-27 22:59:51 [INFO] [CONSOLE: Reloading server...]
+2017-9-27 22:59:51 [INFO] Reloading...
+2017-9-27 22:59:51 [INFO] Saving levels...
+2017-9-27 22:59:51 [INFO] Disabling xKeepInventory v1.0.1505
+2017-9-27 22:59:51 [INFO] Disabling FastAsyncWorldEdit v17.09.24-c3d12f1-908-16.6.5
+2017-9-27 22:59:51 [INFO] Disabling DbLib v0.2.1
+2017-9-27 22:59:51 [INFO] Reloading properties...
+2017-9-27 22:59:51 [INFO] Loading DbLib v0.2.1
+2017-9-27 22:59:51 [INFO] [DbLib] Connecting to: jdbc:sqlite:C:\Users\elane\Desktop\Nukkit\nukkit.db (user: nukkit)
+2017-9-27 22:59:51 [INFO] [DbLib] DbLib 0.2.1 created by fromgate for nukkit.ru
+2017-9-27 22:59:51 [INFO] Loading FastAsyncWorldEdit v17.09.24-c3d12f1-908-16.6.5
+2017-9-27 22:59:51 [INFO] Loading PortSignal v1.1.1
+2017-9-27 22:59:51 [INFO] [PortSignal] Portal Sign 1.1.1 By [DeaDAyMeN(06699)] Loadded!!!
+2017-9-27 22:59:51 [INFO] Loading xKeepInventory v1.0.1505
+2017-9-27 22:59:51 [INFO] Enabling DbLib v0.2.1
+2017-9-27 22:59:51 [INFO] Enabling FastAsyncWorldEdit v17.09.24-c3d12f1-908-16.6.5
+2017-9-27 22:59:51 [INFO] Enabling PortSignal v1.1.1
+2017-9-27 22:59:51 [INFO] [PortSignal] Can't find the Data folder ..... Craeting one !
+2017-9-27 22:59:51 [INFO] Enabling xKeepInventory v1.0.1505
+2017-9-27 22:59:51 [INFO] [xKeepInventory] Enabled successful
+2017-9-27 22:59:51 [INFO] [xKeepInventory] Inventory keeping enabled by user!
+2017-9-27 22:59:51 [INFO] [CONSOLE: Reload complete.]
+2017-9-27 23:00:51 [INFO] [CONSOLE: Reloading server...]
+2017-9-27 23:00:51 [INFO] Reloading...
+2017-9-27 23:00:51 [INFO] Saving levels...
+2017-9-27 23:00:51 [INFO] Disabling xKeepInventory v1.0.1505
+2017-9-27 23:00:51 [INFO] Disabling PortSignal v1.1.1
+2017-9-27 23:00:51 [INFO] Disabling FastAsyncWorldEdit v17.09.24-c3d12f1-908-16.6.5
+2017-9-27 23:00:51 [INFO] Disabling DbLib v0.2.1
+2017-9-27 23:00:51 [INFO] Reloading properties...
+2017-9-27 23:00:51 [INFO] Loading DbLib v0.2.1
+2017-9-27 23:00:51 [INFO] [DbLib] Connecting to: jdbc:sqlite:C:\Users\elane\Desktop\Nukkit\nukkit.db (user: nukkit)
+2017-9-27 23:00:51 [INFO] [DbLib] DbLib 0.2.1 created by fromgate for nukkit.ru
+2017-9-27 23:00:51 [INFO] Loading FastAsyncWorldEdit v17.09.24-c3d12f1-908-16.6.5
+2017-9-27 23:00:51 [INFO] Loading PortSignal v1.1.1
+2017-9-27 23:00:51 [INFO] [PortSignal] Portal Sign 1.1.1 By [DeaDAyMeN(06699)] Loadded!!!
+2017-9-27 23:00:51 [INFO] Loading RealExplosions v1.0
+2017-9-27 23:00:51 [INFO] Loading xKeepInventory v1.0.1505
+2017-9-27 23:00:51 [INFO] Enabling DbLib v0.2.1
+2017-9-27 23:00:51 [INFO] Enabling FastAsyncWorldEdit v17.09.24-c3d12f1-908-16.6.5
+2017-9-27 23:00:51 [INFO] Enabling PortSignal v1.1.1
+2017-9-27 23:00:51 [INFO] [PortSignal] Data folder founded !
+2017-9-27 23:00:51 [INFO] Enabling RealExplosions v1.0
+2017-9-27 23:00:51 [INFO] Enabling xKeepInventory v1.0.1505
+2017-9-27 23:00:51 [INFO] [xKeepInventory] Enabled successful
+2017-9-27 23:00:51 [INFO] [xKeepInventory] Inventory keeping enabled by user!
+2017-9-27 23:00:51 [INFO] [CONSOLE: Reload complete.]
+2017-9-27 23:03:29 [INFO] [CONSOLE: Reloading server...]
+2017-9-27 23:03:29 [INFO] Reloading...
+2017-9-27 23:03:29 [INFO] Saving levels...
+2017-9-27 23:03:29 [INFO] Disabling xKeepInventory v1.0.1505
+2017-9-27 23:03:29 [INFO] Disabling RealExplosions v1.0
+2017-9-27 23:03:29 [INFO] Disabling PortSignal v1.1.1
+2017-9-27 23:03:29 [INFO] Disabling FastAsyncWorldEdit v17.09.24-c3d12f1-908-16.6.5
+2017-9-27 23:03:29 [INFO] Disabling DbLib v0.2.1
+2017-9-27 23:03:29 [INFO] Reloading properties...
+2017-9-27 23:03:29 [INFO] Loading DbLib v0.2.1
+2017-9-27 23:03:29 [INFO] [DbLib] Connecting to: jdbc:sqlite:C:\Users\elane\Desktop\Nukkit\nukkit.db (user: nukkit)
+2017-9-27 23:03:29 [INFO] [DbLib] DbLib 0.2.1 created by fromgate for nukkit.ru
+2017-9-27 23:03:29 [INFO] Loading FastAsyncWorldEdit v17.09.24-c3d12f1-908-16.6.5
+2017-9-27 23:03:29 [INFO] Loading LeetTP v1.2.6-b29
+2017-9-27 23:03:29 [INFO] Loading PortSignal v1.1.1
+2017-9-27 23:03:29 [INFO] [PortSignal] Portal Sign 1.1.1 By [DeaDAyMeN(06699)] Loadded!!!
+2017-9-27 23:03:29 [INFO] Loading RealExplosions v1.0
+2017-9-27 23:03:29 [INFO] Loading WelcomeMessage v1.0.3
+2017-9-27 23:03:29 [INFO] Loading xKeepInventory v1.0.1505
+2017-9-27 23:03:29 [INFO] Enabling DbLib v0.2.1
+2017-9-27 23:03:29 [INFO] Enabling FastAsyncWorldEdit v17.09.24-c3d12f1-908-16.6.5
+2017-9-27 23:03:29 [INFO] Enabling LeetTP v1.2.6-b29
+2017-9-27 23:03:29 [INFO] Enabling PortSignal v1.1.1
+2017-9-27 23:03:29 [INFO] [PortSignal] Data folder founded !
+2017-9-27 23:03:29 [INFO] Enabling RealExplosions v1.0
+2017-9-27 23:03:29 [INFO] Enabling WelcomeMessage v1.0.3
+2017-9-27 23:03:29 [INFO] [WelcomeMessage] WelcomeMessage plugin Enabled!
+2017-9-27 23:03:29 [INFO] Enabling xKeepInventory v1.0.1505
+2017-9-27 23:03:29 [INFO] [xKeepInventory] Enabled successful
+2017-9-27 23:03:29 [INFO] [xKeepInventory] Inventory keeping enabled by user!
+2017-9-27 23:03:29 [INFO] [CONSOLE: Reload complete.]
+2017-9-27 23:04:10 [INFO] TheMisterEl[/192.168.1.2:59378] logged in with entity id 46 at (world, 47.8494, 71.0, 251.789)
+2017-9-27 23:04:11 [INFO] TheMisterEl joined the game
+2017-9-27 23:51:36 [INFO] TheMisterEl left the game
+2017-9-27 23:51:36 [INFO] TheMisterEl[/192.168.1.2:59378] logged out due to timeout
+2017-9-27 23:52:56 [INFO] CorgiWolfz[/71.163.145.11:65276] logged in with entity id 88 at (world, 18.0, 78.0, 262.0)
+2017-9-27 23:52:57 [INFO] CorgiWolfz joined the game
+2017-9-27 23:53:22 [CRITICAL] Could not pass event 'cn.nukkit.event.player.PlayerInteractEvent' to 'PortSignal v1.1.1': null on com.deadaymen.portalsign.EventListener
+2017-9-27 23:53:22 [ALERT] cn.nukkit.utils.EventException
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:34)
+	at cn.nukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:56)
+	at cn.nukkit.plugin.PluginManager.callEvent(PluginManager.java:553)
+	at cn.nukkit.level.Level.useItemOn(Level.java:1975)
+	at cn.nukkit.level.Level.useItemOn(Level.java:1942)
+	at cn.nukkit.Player.handleDataPacket(Player.java:3181)
+	at java.util.ArrayList.forEach(Unknown Source)
+	at cn.nukkit.network.Network.processPackets(Network.java:169)
+	at cn.nukkit.network.Network.processBatch(Network.java:151)
+	at cn.nukkit.Player.handleDataPacket(Player.java:1969)
+	at cn.nukkit.network.RakNetInterface.handleEncapsulated(RakNetInterface.java:157)
+	at cn.nukkit.raknet.server.ServerHandler.handlePacket(ServerHandler.java:132)
+	at cn.nukkit.network.RakNetInterface.process(RakNetInterface.java:66)
+	at cn.nukkit.network.Network.processInterfaces(Network.java:75)
+	at cn.nukkit.Server.tick(Server.java:990)
+	at cn.nukkit.Server.tickProcessor(Server.java:799)
+	at cn.nukkit.Server.start(Server.java:778)
+	at cn.nukkit.Server.<init>(Server.java:469)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+Caused by: java.lang.NoSuchMethodError: cn.nukkit.event.player.PlayerInteractEvent.getAction()I
+	at com.deadaymen.portalsign.EventListener.onPlayerInteractEvent(EventListener.java:64)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:29)
+	... 18 more
+
+2017-9-27 23:53:53 [CRITICAL] Could not pass event 'cn.nukkit.event.player.PlayerInteractEvent' to 'PortSignal v1.1.1': null on com.deadaymen.portalsign.EventListener
+2017-9-27 23:53:53 [ALERT] cn.nukkit.utils.EventException
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:34)
+	at cn.nukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:56)
+	at cn.nukkit.plugin.PluginManager.callEvent(PluginManager.java:553)
+	at cn.nukkit.level.Level.useItemOn(Level.java:1975)
+	at cn.nukkit.level.Level.useItemOn(Level.java:1942)
+	at cn.nukkit.Player.handleDataPacket(Player.java:3181)
+	at java.util.ArrayList.forEach(Unknown Source)
+	at cn.nukkit.network.Network.processPackets(Network.java:169)
+	at cn.nukkit.network.Network.processBatch(Network.java:151)
+	at cn.nukkit.Player.handleDataPacket(Player.java:1969)
+	at cn.nukkit.network.RakNetInterface.handleEncapsulated(RakNetInterface.java:157)
+	at cn.nukkit.raknet.server.ServerHandler.handlePacket(ServerHandler.java:132)
+	at cn.nukkit.network.RakNetInterface.process(RakNetInterface.java:66)
+	at cn.nukkit.network.Network.processInterfaces(Network.java:75)
+	at cn.nukkit.Server.tick(Server.java:990)
+	at cn.nukkit.Server.tickProcessor(Server.java:799)
+	at cn.nukkit.Server.start(Server.java:778)
+	at cn.nukkit.Server.<init>(Server.java:469)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+Caused by: java.lang.NoSuchMethodError: cn.nukkit.event.player.PlayerInteractEvent.getAction()I
+	at com.deadaymen.portalsign.EventListener.onPlayerInteractEvent(EventListener.java:64)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:29)
+	... 18 more
+
+2017-9-27 23:55:07 [INFO] CorgiWolfz left the game
+2017-9-27 23:55:07 [INFO] CorgiWolfz[/71.163.145.11:65276] logged out due to client disconnect

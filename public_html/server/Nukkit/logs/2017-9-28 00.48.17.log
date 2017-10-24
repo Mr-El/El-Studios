@@ -1,0 +1,69 @@
+2017-9-28 00:47:49 [INFO] Loading nukkit.yml...
+2017-9-28 00:47:50 [INFO] Loading server properties...
+2017-9-28 00:47:50 [INFO] Selected English (eng) as the base language
+2017-9-28 00:47:50 [INFO] Starting Minecraft: PE server version v1.2.0.31 beta
+2017-9-28 00:47:50 [INFO] Opening server on 0.0.0.0:19132
+2017-9-28 00:47:50 [INFO] This server is running Nukkit version 1.0dev "蘋果(Apple)派(Pie)" (API 1.0.0)
+2017-9-28 00:47:50 [INFO] Nukkit is distributed under the LGPL License
+2017-9-28 00:47:50 [INFO] Loading recipes...
+2017-9-28 00:47:50 [INFO] Loaded 415 recipes.
+2017-9-28 00:47:50 [INFO] Successfully loaded 0 resource packs
+2017-9-28 00:47:50 [INFO] Loading SpamBan v1.0.0
+2017-9-28 00:47:50 [CRITICAL] Could not load plugin 'SpamBan'
+2017-9-28 00:47:50 [INFO] Loading DbLib v0.2.1
+2017-9-28 00:47:50 [INFO] [DbLib] Connecting to: jdbc:sqlite:C:\Users\elane\Desktop\Nukkit\nukkit.db (user: nukkit)
+2017-9-28 00:47:50 [INFO] [DbLib] DbLib 0.2.1 created by fromgate for nukkit.ru
+2017-9-28 00:47:50 [INFO] Loading FastAsyncWorldEdit v17.09.24-c3d12f1-908-16.6.5
+2017-9-28 00:47:50 [INFO] Loading LeetTP v1.2.6-b29
+2017-9-28 00:47:50 [INFO] Loading PortSignal v1.1.1
+2017-9-28 00:47:50 [INFO] [PortSignal] Portal Sign 1.1.1 By [DeaDAyMeN(06699)] Loadded!!!
+2017-9-28 00:47:50 [INFO] Loading RealExplosions v1.0
+2017-9-28 00:47:50 [INFO] Loading WelcomeMessage v1.0.3
+2017-9-28 00:47:50 [INFO] Loading xKeepInventory v1.0.1505
+2017-9-28 00:47:50 [INFO] Preparing level "world"
+2017-9-28 00:47:50 [INFO] Enabling DbLib v0.2.1
+2017-9-28 00:47:50 [INFO] Enabling FastAsyncWorldEdit v17.09.24-c3d12f1-908-16.6.5
+2017-9-28 00:47:50 [INFO] Enabling LeetTP v1.2.6-b29
+2017-9-28 00:47:50 [INFO] Enabling PortSignal v1.1.1
+2017-9-28 00:47:50 [INFO] [PortSignal] Data folder founded !
+2017-9-28 00:47:50 [INFO] Enabling RealExplosions v1.0
+2017-9-28 00:47:50 [INFO] Enabling WelcomeMessage v1.0.3
+2017-9-28 00:47:50 [INFO] [WelcomeMessage] WelcomeMessage plugin Enabled!
+2017-9-28 00:47:50 [INFO] Enabling xKeepInventory v1.0.1505
+2017-9-28 00:47:50 [INFO] [xKeepInventory] Enabled successful
+2017-9-28 00:47:50 [INFO] [xKeepInventory] Inventory keeping enabled by user!
+2017-9-28 00:47:50 [INFO] Starting GS4 status listener
+2017-9-28 00:47:50 [INFO] Setting query port to 19132
+2017-9-28 00:47:50 [INFO] Query is running on 0.0.0.0:19132
+2017-9-28 00:47:50 [INFO] Default game type: Survival Mode
+2017-9-28 00:47:50 [INFO] Done (0.965s)! For help, type "help" or "?"
+2017-9-28 00:48:10 [INFO] TheMisterEl[/192.168.1.2:53716] logged in with entity id 1 at (world, 23.3913, 69.0, 146.9066)
+2017-9-28 00:48:10 [INFO] TheMisterEl joined the game
+2017-9-28 00:48:16 [CRITICAL] Could not pass event 'cn.nukkit.event.player.PlayerInteractEvent' to 'PortSignal v1.1.1': null on com.deadaymen.portalsign.EventListener
+2017-9-28 00:48:16 [ALERT] cn.nukkit.utils.EventException
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:34)
+	at cn.nukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:56)
+	at cn.nukkit.plugin.PluginManager.callEvent(PluginManager.java:553)
+	at cn.nukkit.Player.handleDataPacket(Player.java:3260)
+	at java.util.ArrayList.forEach(Unknown Source)
+	at cn.nukkit.network.Network.processPackets(Network.java:169)
+	at cn.nukkit.network.Network.processBatch(Network.java:151)
+	at cn.nukkit.Player.handleDataPacket(Player.java:1962)
+	at cn.nukkit.network.RakNetInterface.handleEncapsulated(RakNetInterface.java:157)
+	at cn.nukkit.raknet.server.ServerHandler.handlePacket(ServerHandler.java:132)
+	at cn.nukkit.network.RakNetInterface.process(RakNetInterface.java:66)
+	at cn.nukkit.network.Network.processInterfaces(Network.java:75)
+	at cn.nukkit.Server.tick(Server.java:990)
+	at cn.nukkit.Server.tickProcessor(Server.java:799)
+	at cn.nukkit.Server.start(Server.java:778)
+	at cn.nukkit.Server.<init>(Server.java:469)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+Caused by: java.lang.NoSuchMethodError: cn.nukkit.event.player.PlayerInteractEvent.getAction()I
+	at com.deadaymen.portalsign.EventListener.onPlayerInteractEvent(EventListener.java:64)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:29)
+	... 16 more
+

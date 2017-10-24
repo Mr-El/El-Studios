@@ -1,0 +1,16 @@
+2017-10-22 05:02:14 [INFO] Loading nukkit.yml...
+2017-10-22 05:02:14 [INFO] Loading server properties...
+2017-10-22 05:02:14 [INFO] Selected English (eng) as the base language
+2017-10-22 05:02:14 [INFO] Starting Minecraft: PE server version v1.2.2
+2017-10-22 05:02:14 [INFO] Opening server on 0.0.0.0:19132
+2017-10-22 05:02:14 [INFO] This server is running Nukkit version 1.0dev "蘋果(Apple)派(Pie)" (API 1.0.0)
+2017-10-22 05:02:14 [INFO] Nukkit is distributed under the LGPL License
+2017-10-22 05:02:15 [INFO] Loading recipes...
+2017-10-22 05:02:16 [INFO] Loaded 415 recipes.
+2017-10-22 05:02:16 [INFO] Successfully loaded 0 resource packs
+2017-10-22 05:02:16 [INFO] Preparing level "world"
+2017-10-22 05:02:16 [INFO] Starting GS4 status listener
+2017-10-22 05:02:16 [INFO] Setting query port to 19132
+2017-10-22 05:02:16 [INFO] Query is running on 0.0.0.0:19132
+2017-10-22 05:02:16 [INFO] Default game type: Survival Mode
+2017-10-22 05:02:16 [INFO] Done (3.099s)! For help, type "help" or "?"

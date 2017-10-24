@@ -1,0 +1,188 @@
+2017-10-9 20:07:03 [INFO] Loading nukkit.yml...
+2017-10-9 20:07:03 [INFO] Loading server properties...
+2017-10-9 20:07:03 [INFO] Selected English (eng) as the base language
+2017-10-9 20:07:03 [INFO] Starting Minecraft: PE server version v1.2.2
+2017-10-9 20:07:03 [INFO] Opening server on 0.0.0.0:19132
+2017-10-9 20:07:03 [INFO] This server is running Nukkit version 1.0dev "蘋果(Apple)派(Pie)" (API 1.0.0)
+2017-10-9 20:07:03 [INFO] Nukkit is distributed under the LGPL License
+2017-10-9 20:07:03 [INFO] Loading recipes...
+2017-10-9 20:07:03 [INFO] Loaded 415 recipes.
+2017-10-9 20:07:03 [INFO] Successfully loaded 1 resource packs
+2017-10-9 20:07:03 [ERROR] Could not load 'MinoriaPortal V1.0.jar' in folder 'C:\Users\elane\Desktop\Nukkit\plugins': java.lang.NullPointerException
+	at java.util.regex.Matcher.getTextLength(Unknown Source)
+	at java.util.regex.Matcher.reset(Unknown Source)
+	at java.util.regex.Matcher.<init>(Unknown Source)
+	at java.util.regex.Pattern.matcher(Unknown Source)
+	at java.util.regex.Pattern.matches(Unknown Source)
+	at cn.nukkit.plugin.PluginManager.loadPlugins(PluginManager.java:179)
+	at cn.nukkit.plugin.PluginManager.loadPlugins(PluginManager.java:132)
+	at cn.nukkit.plugin.PluginManager.loadPlugins(PluginManager.java:124)
+	at cn.nukkit.plugin.PluginManager.loadPlugins(PluginManager.java:120)
+	at cn.nukkit.Server.<init>(Server.java:392)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-9 20:07:03 [ALERT] java.lang.NullPointerException
+	at java.util.regex.Matcher.getTextLength(Unknown Source)
+	at java.util.regex.Matcher.reset(Unknown Source)
+	at java.util.regex.Matcher.<init>(Unknown Source)
+	at java.util.regex.Pattern.matcher(Unknown Source)
+	at java.util.regex.Pattern.matches(Unknown Source)
+	at cn.nukkit.plugin.PluginManager.loadPlugins(PluginManager.java:179)
+	at cn.nukkit.plugin.PluginManager.loadPlugins(PluginManager.java:132)
+	at cn.nukkit.plugin.PluginManager.loadPlugins(PluginManager.java:124)
+	at cn.nukkit.plugin.PluginManager.loadPlugins(PluginManager.java:120)
+	at cn.nukkit.Server.<init>(Server.java:392)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+
+2017-10-9 20:07:03 [ERROR] Could not load plugin 'PortSignal': plugin exists
+2017-10-9 20:07:03 [ERROR] Could not load plugin 'PortSignal': plugin exists
+2017-10-9 20:07:03 [INFO] Loading SpamBan v1.0.0
+2017-10-9 20:07:03 [CRITICAL] Could not load plugin 'SpamBan'
+2017-10-9 20:07:03 [INFO] Loading DbLib v0.2.1
+2017-10-9 20:07:03 [INFO] [DbLib] Connecting to: jdbc:sqlite:C:\Users\elane\Desktop\Nukkit\nukkit.db (user: nukkit)
+2017-10-9 20:07:03 [INFO] [DbLib] DbLib 0.2.1 created by fromgate for nukkit.ru
+2017-10-9 20:07:03 [INFO] Loading FastAsyncWorldEdit v17.09.24-c3d12f1-908-16.6.5
+2017-10-9 20:07:03 [INFO] Loading LeetTP v1.2.6-b29
+2017-10-9 20:07:03 [INFO] Loading PortSignal v1.1.1
+2017-10-9 20:07:03 [INFO] [PortSignal] Portal Sign 1.1.1 By [DeaDAyMeN(06699)] Loadded!!!
+2017-10-9 20:07:03 [INFO] Loading RealExplosions v1.0
+2017-10-9 20:07:03 [INFO] Loading WelcomeMessage v1.0.3
+2017-10-9 20:07:03 [INFO] Loading xKeepInventory v1.0.1505
+2017-10-9 20:07:03 [INFO] Preparing level "world"
+2017-10-9 20:07:03 [INFO] Enabling DbLib v0.2.1
+2017-10-9 20:07:03 [INFO] Enabling FastAsyncWorldEdit v17.09.24-c3d12f1-908-16.6.5
+2017-10-9 20:07:04 [INFO] Enabling LeetTP v1.2.6-b29
+2017-10-9 20:07:04 [INFO] Enabling PortSignal v1.1.1
+2017-10-9 20:07:04 [INFO] [PortSignal] Data folder founded !
+2017-10-9 20:07:04 [INFO] Enabling RealExplosions v1.0
+2017-10-9 20:07:04 [INFO] Enabling WelcomeMessage v1.0.3
+2017-10-9 20:07:04 [INFO] [WelcomeMessage] WelcomeMessage plugin Enabled!
+2017-10-9 20:07:04 [INFO] Enabling xKeepInventory v1.0.1505
+2017-10-9 20:07:04 [INFO] [xKeepInventory] Enabled successful
+2017-10-9 20:07:04 [INFO] [xKeepInventory] Inventory keeping enabled by user!
+2017-10-9 20:07:04 [INFO] Starting GS4 status listener
+2017-10-9 20:07:04 [INFO] Setting query port to 19132
+2017-10-9 20:07:04 [INFO] Query is running on 0.0.0.0:19132
+2017-10-9 20:07:04 [INFO] Default game type: Survival Mode
+2017-10-9 20:07:04 [INFO] Done (1.079s)! For help, type "help" or "?"
+2017-10-9 20:07:20 [INFO] TheMisterEl[/192.168.1.2:60068] logged in with entity id 1 at (world, 152.3497, 69.0, 86.5292)
+2017-10-9 20:07:21 [INFO] TheMisterEl joined the game
+2017-10-9 20:07:28 [INFO] [TheMisterEl: Set the time to 0]
+2017-10-9 20:07:30 [CRITICAL] Could not pass event 'cn.nukkit.event.player.PlayerInteractEvent' to 'PortSignal v1.1.1': null on com.deadaymen.portalsign.EventListener
+2017-10-9 20:07:30 [ALERT] cn.nukkit.utils.EventException
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:34)
+	at cn.nukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:56)
+	at cn.nukkit.plugin.PluginManager.callEvent(PluginManager.java:553)
+	at cn.nukkit.level.Level.useItemOn(Level.java:1975)
+	at cn.nukkit.level.Level.useItemOn(Level.java:1942)
+	at cn.nukkit.Player.handleDataPacket(Player.java:2914)
+	at java.util.ArrayList.forEach(Unknown Source)
+	at cn.nukkit.network.Network.processPackets(Network.java:169)
+	at cn.nukkit.network.Network.processBatch(Network.java:151)
+	at cn.nukkit.Player.handleDataPacket(Player.java:1982)
+	at cn.nukkit.network.RakNetInterface.handleEncapsulated(RakNetInterface.java:157)
+	at cn.nukkit.raknet.server.ServerHandler.handlePacket(ServerHandler.java:132)
+	at cn.nukkit.network.RakNetInterface.process(RakNetInterface.java:66)
+	at cn.nukkit.network.Network.processInterfaces(Network.java:75)
+	at cn.nukkit.Server.tick(Server.java:990)
+	at cn.nukkit.Server.tickProcessor(Server.java:799)
+	at cn.nukkit.Server.start(Server.java:778)
+	at cn.nukkit.Server.<init>(Server.java:469)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+Caused by: java.lang.NoSuchMethodError: cn.nukkit.event.player.PlayerInteractEvent.getAction()I
+	at com.deadaymen.portalsign.EventListener.onPlayerInteractEvent(EventListener.java:64)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:29)
+	... 18 more
+
+2017-10-9 20:07:30 [CRITICAL] Could not pass event 'cn.nukkit.event.player.PlayerInteractEvent' to 'PortSignal v1.1.1': null on com.deadaymen.portalsign.EventListener
+2017-10-9 20:07:30 [ALERT] cn.nukkit.utils.EventException
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:34)
+	at cn.nukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:56)
+	at cn.nukkit.plugin.PluginManager.callEvent(PluginManager.java:553)
+	at cn.nukkit.Player.handleDataPacket(Player.java:3007)
+	at java.util.ArrayList.forEach(Unknown Source)
+	at cn.nukkit.network.Network.processPackets(Network.java:169)
+	at cn.nukkit.network.Network.processBatch(Network.java:151)
+	at cn.nukkit.Player.handleDataPacket(Player.java:1982)
+	at cn.nukkit.network.RakNetInterface.handleEncapsulated(RakNetInterface.java:157)
+	at cn.nukkit.raknet.server.ServerHandler.handlePacket(ServerHandler.java:132)
+	at cn.nukkit.network.RakNetInterface.process(RakNetInterface.java:66)
+	at cn.nukkit.network.Network.processInterfaces(Network.java:75)
+	at cn.nukkit.Server.tick(Server.java:990)
+	at cn.nukkit.Server.tickProcessor(Server.java:799)
+	at cn.nukkit.Server.start(Server.java:778)
+	at cn.nukkit.Server.<init>(Server.java:469)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+Caused by: java.lang.NoSuchMethodError: cn.nukkit.event.player.PlayerInteractEvent.getAction()I
+	at com.deadaymen.portalsign.EventListener.onPlayerInteractEvent(EventListener.java:64)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:29)
+	... 16 more
+
+2017-10-9 20:07:33 [CRITICAL] Could not pass event 'cn.nukkit.event.block.SignChangeEvent' to 'PortSignal v1.1.1': null on com.deadaymen.portalsign.EventListener
+2017-10-9 20:07:33 [ALERT] cn.nukkit.utils.EventException
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:34)
+	at cn.nukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:56)
+	at cn.nukkit.plugin.PluginManager.callEvent(PluginManager.java:553)
+	at cn.nukkit.blockentity.BlockEntitySign.updateCompoundTag(BlockEntitySign.java:89)
+	at cn.nukkit.Player.handleDataPacket(Player.java:2758)
+	at java.util.ArrayList.forEach(Unknown Source)
+	at cn.nukkit.network.Network.processPackets(Network.java:169)
+	at cn.nukkit.network.Network.processBatch(Network.java:151)
+	at cn.nukkit.Player.handleDataPacket(Player.java:1982)
+	at cn.nukkit.network.RakNetInterface.handleEncapsulated(RakNetInterface.java:157)
+	at cn.nukkit.raknet.server.ServerHandler.handlePacket(ServerHandler.java:132)
+	at cn.nukkit.network.RakNetInterface.process(RakNetInterface.java:66)
+	at cn.nukkit.network.Network.processInterfaces(Network.java:75)
+	at cn.nukkit.Server.tick(Server.java:990)
+	at cn.nukkit.Server.tickProcessor(Server.java:799)
+	at cn.nukkit.Server.start(Server.java:778)
+	at cn.nukkit.Server.<init>(Server.java:469)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+Caused by: java.lang.ArrayIndexOutOfBoundsException: 1
+	at cn.nukkit.event.block.SignChangeEvent.getLine(SignChangeEvent.java:38)
+	at com.deadaymen.portalsign.EventListener.onSignChangeEvent(EventListener.java:47)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:29)
+	... 17 more
+
+2017-10-9 20:07:34 [CRITICAL] Could not pass event 'cn.nukkit.event.block.SignChangeEvent' to 'PortSignal v1.1.1': null on com.deadaymen.portalsign.EventListener
+2017-10-9 20:07:34 [ALERT] cn.nukkit.utils.EventException
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:34)
+	at cn.nukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:56)
+	at cn.nukkit.plugin.PluginManager.callEvent(PluginManager.java:553)
+	at cn.nukkit.blockentity.BlockEntitySign.updateCompoundTag(BlockEntitySign.java:89)
+	at cn.nukkit.Player.handleDataPacket(Player.java:2758)
+	at java.util.ArrayList.forEach(Unknown Source)
+	at cn.nukkit.network.Network.processPackets(Network.java:169)
+	at cn.nukkit.network.Network.processBatch(Network.java:151)
+	at cn.nukkit.Player.handleDataPacket(Player.java:1982)
+	at cn.nukkit.network.RakNetInterface.handleEncapsulated(RakNetInterface.java:157)
+	at cn.nukkit.raknet.server.ServerHandler.handlePacket(ServerHandler.java:132)
+	at cn.nukkit.network.RakNetInterface.process(RakNetInterface.java:66)
+	at cn.nukkit.network.Network.processInterfaces(Network.java:75)
+	at cn.nukkit.Server.tick(Server.java:990)
+	at cn.nukkit.Server.tickProcessor(Server.java:799)
+	at cn.nukkit.Server.start(Server.java:778)
+	at cn.nukkit.Server.<init>(Server.java:469)
+	at cn.nukkit.Nukkit.main(Nukkit.java:68)
+Caused by: java.lang.ArrayIndexOutOfBoundsException: 1
+	at cn.nukkit.event.block.SignChangeEvent.getLine(SignChangeEvent.java:38)
+	at com.deadaymen.portalsign.EventListener.onSignChangeEvent(EventListener.java:47)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:29)
+	... 17 more
+

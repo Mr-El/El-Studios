@@ -4,7 +4,10 @@
 <title>El's Studios - Arwork</title>
 <link rel="stylesheet" type="text/css" href="styles.css">
 <link rel="icon" href="imgs/Lotus_Logo-filled.gif">
+<script src="script.js"></script>
 </head>
+	
+<body>
 	<div class="banner">
 		<img class="logo" src="imgs/Lotus_Logo-filled.gif">
 		<br clear="right"/>
@@ -20,27 +23,16 @@
 		<a class="links" href="http://elstudios.org/programming" title="programming">Programming Projects</a>
 	</div>
 	<div class="menu">
-		<select name="selectGallery">
-			<option value="masterpieces">Masterpieces</option>
-			<option value="anime">Anime</option>
-		</select>
+		<ul>
+			<li><a href="javascript:all()" onClick="">All</a></li>
+			<li><a href="javascript:masterpieces()">Masterpieces</a></li>
+			<li><a href="javascript:anime()">Anime</a></li>
+			<li><a href="javascript:furry()">Furry</a></li>
+			<li><a href="javascript:nsfw()">NSFW</a></li>
+		</ul>
 	</div>
 	<div class="gallery">
-		<p>sldkfj;alsjkfde</p><br/>
-		<?php
-			if(isset($_POST['selectGallery'])) {
-			    $gallery = $_POST['selectGallery'];
-			    switch ($gallery) {
-			        case 'masterpieces':
-			            echo "Success!";
-			            break;
-			        case 'anime':
-			        	echo "Cool!";
-			        	break;
-			    }
-			}
-		?>
+		<p id="displayAnime"></p>
 	</div>
-<body>
 </body>
 </html>
