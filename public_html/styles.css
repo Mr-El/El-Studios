@@ -2,6 +2,14 @@
 
 /* CSS Document */
 
+.searchBar	{border-radius: 10px;
+			max-width: 100%;
+			min-width: 100%;
+			margin-left: 20px;
+			margin-right: 50px;
+			margin-top: 5px;
+			background-image: url("imgs/mag-glass.png");}
+
 body { background-color: yellow;
 		background-image: url("imgs/halloween.jpg");
 		background-size: cover;
@@ -39,17 +47,20 @@ body { background-color: yellow;
 		border-style: solid;
 		border-color: white;}
 
-.content	{ background-color: aquamarine;
+.latest		{ background-color: aquamarine;
 			border-radius: 15px;
 			margin-top: 5px;
 			margin-bottom: 5px;
 			margin-left: 0px;
-			width: 100%}
+			width: 70%;
+			float: left;}
 
 .contact	{background-color: blueviolet;
 			border-radius: 15px;
 			margin-left: 5px;
-			width: 100%;}
+			width: 29%;
+			float: right;
+			margin-top: 5px;}
 
 .menutext	{ color: white;
 			margin-left: 5px;}
@@ -74,7 +85,7 @@ body { background-color: yellow;
 .aboutme	{border-radius: 15px;
 			background-color: green;
 			margin-top: 420px;
-			width: 100%;}
+			width: 70%;}
 
 .aParagraph	{color: whitesmoke;
 			margin-left: 5px;}
@@ -84,8 +95,9 @@ body { background-color: yellow;
 
 .todolist	{background-color: #00FF37;
 			border-radius: 15px;
-			width: 100%;
-			margin-top: 5px;}
+			width: 29%;
+			margin-top: 5px;
+			float: right;}
 
 .checklist	{color: white;
 			margin-left: 5px;
@@ -104,6 +116,13 @@ a 	{color: white;}
 		width: 70%;
 		border-radius: 15px;
 		margin-top: 5px;}
+
+#pageNumbers	{background-color: blue;
+				border-radius: 15px;
+				font-size: 20px;}
+
+.artList	{color: white;
+			margin-bottom: 5px;}
 
 /* Server Page */
 .server	{border-radius: 15px;
@@ -132,6 +151,14 @@ a 	{color: white;}
 				border-radius: 15px;
 				margin-top: 5px;}
 
+.proj1			{background-image: url("imgs/programming/minekart_red.png");
+				background-repeat: no-repeat;
+				border-color: red;}
+
+.transBox		{margin-top: 50px;
+				opacity: 0.6;
+				background-color: #ffffff;}
+
 /* Upload Site */
 .uploadImage	{background-color: greenyellow;
 				border-radius: 15px;
@@ -140,7 +167,12 @@ a 	{color: white;}
 input.uploadImage {margin-top: 5px;
 					color: white;}
 
+
 /* Redirect Page */
 .redirect {background-color: blue;
 			border-radius: 15px;
 			height: 100px;}
+
+/*Projects Page */
+.projects	{background-color: limegreen;
+			border-radius: 15px;}

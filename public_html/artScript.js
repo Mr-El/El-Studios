@@ -1,0 +1,1 @@
+document.getElementById('art1').innerHTML = '<p>It works!</p>';

@@ -1,0 +1,42 @@
+#Header	{background-color: red;
+		color: white;
+		height: 45px;}
+
+.Header	{background-color: red;
+		color: white;
+		height: 45px;}
+
+.Content {background-color: aqua;
+		color: white;
+		min-height: 100%;
+		overflow: auto;}
+
+.Footer	{background-color: orange;
+		color: white;}
+
+.navPanel	{background-color: red;}
+
+.latest {background-color: blueviolet;
+		border-radius: 15px;
+		border-color: black;}
+
+.ui-content	{background-size: 100% 100%;
+			min-height: 100%;}
+
+.list-group-item {background-color: aqua;}
+
+#navigation-button	{background-color: blue;
+					color: white;}
+
+.h1	{font-family: "Brush Script MT", cursive}
+
+.panel	{background-color: red;}
+
+.aboutme	{background-color: green;
+			border-radius: 15px;}
+
+.contact	{background-color: blue;
+			border-radius: 15px;}
+
+.todolist	{background-color: red;
+			border-radius: 15px;}
