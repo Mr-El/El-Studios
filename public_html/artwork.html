@@ -2,17 +2,17 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>El's Studios - Arwork</title>
+<title>El's Studios - Artwork</title>
 <link rel="stylesheet" type="text/css" href="styles.css">
 <link rel="icon" href="imgs/Lotus_Logo-filled.gif">
-<script src="script.js"></script>
+<script src="artScript.js"></script>
 <script
   src="https://code.jquery.com/jquery-3.2.1.js"
   integrity="sha256-DZAnKJ/6XZ9si04Hgrsxu/8s717jcIzLy3oi35EouyE="
   crossorigin="anonymous"></script>
 </head>
+
 <?php
-$id = $_GET['id'];
 
 	$link = mysqli_connect("localhost", "mrel", "halo-2511", "el_gallery");
 	$sql = $link->query("select File from Anime where Image_ID = 1");
@@ -20,16 +20,20 @@ $id = $_GET['id'];
 
 	$img = base64_encode($row['File']);
 
-	if (!$link) {
-		echo "<p>Unable to connect!</p>";
-	} else {
-		echo "<p>Connection to database succesfull!</p>";
-	}
-
-
+	echo $img;
+	
+	$title = $link->query("select Title from Anime where Image_ID = 1");
+	$row2 = mysqli_fetch_array($title);
 	
 	mysqli_close($link);
 ?>
+<script>
+	function anime() {
+		document.getElementById('img1').innerHTML = '<img src="data:image/jpg;charset=utf8;base64, <?php $id = 1; echo $img; ?>" class="galleryImg"/>';
+		document.getElementById('title1').innerHTML = '<p id="t1"></p>';
+	}
+</script>
+
 	
 <body>
 	<div class="banner">
@@ -46,7 +50,7 @@ $id = $_GET['id'];
 		<a class="links" href="http://elstudios.org/projects" title="projects">Animation Projects</a>
 		<a class="links" href="http://elstudios.org/programming" title="programming">Programming Projects</a>
 	</div>
-	<input type="text" style="background-image: url("imgs/mag-glass.png")"/>
+	<input type="text" style="background-image: url(imgs/mag-glass.png)"/>
 	<div class="menu">
 		<ul>
 			<li class="artList"><a href="javascript:all()" onClick="">All</a></li>
@@ -58,20 +62,14 @@ $id = $_GET['id'];
 			<li class="artList"><a href="javascript:scetches()">Sketches</a></li>
 		</ul>
 	</div>
-	<script>
-		
-		function anime() {
-			document.getElementById('img1').innerHTML = '<img src="data:image/jpg;charset=utf8;base64,<?php echo $img ?>"/>';
-			document.getElementById('title1').innerHTML = '<p id="t1"></p>';
-		}
-	</script>
+	
 	<div class="gallery">
 		<div id="Gallery">
 			<table>
 				<tr>
 					<th><a href="http://elstudios.org/art#art1" id="img1"></a></th>
 				</tr><tr>
-					<th id="title1"></th>
+					<th></th>
 				</tr>
 			</table>
 			

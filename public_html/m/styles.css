@@ -40,3 +40,9 @@
 
 .todolist	{background-color: red;
 			border-radius: 15px;}
+
+.selectionMenu	{background-color: yellow;
+				border-radius: 15px;
+				color: white;}
+
+.whiteLink		{color: blue;}

@@ -78,6 +78,20 @@
 			<h1>Artwork</h1>
 		</div>
 		<div data-role="content" class="Content">
+			<div class="selectionMenu">
+				<ul>
+					<li><a href="javascript:all()" class="whiteLink">All</a></li>
+					<li><a href="javascript:masterpieces()" class="whiteLink">Masterpieces</a></li>
+					<li><a href="javascript:anime()" class="whiteLink">Anime</a></li>
+					<li><a href="javascript:manga()" class="whiteLink">Manga</a></li>
+					<li><a href="javascript:furry()" class="whiteLink">Furry</a></li>
+					<li><a href="javascript:nsfw()" class="whiteLink">NSFW</a></li>
+					<li><a href="javascript:sketches()" class="whiteLink">Sketches</a></li>
+				</ul>
+			</div>
+			<div class="galleryMenu">
+				
+			</div>
 		</div>
 		<div data-role="footer" class="Footer">
 			<h2>&#169; El's Studios - 2017</h2>
@@ -138,8 +152,8 @@
 				<form method="post" enctype="multipart/form-data" name="commForm" action="form.php">
 					<input type="text" placeholder="Name" name="name"/>
 					<input type="text" placeholder="Character" name="character"/>
-					<input type="text" placeholder="Ammount" name="ammount"/>
-					<input type="text" placeholder="Paypal Username" name="paypal"/>
+					<input type="text" placeholder="Ammount (BTC or USD)" name="ammount"/>
+					<input type="text" placeholder="Paypal/Bitcoin Address" name="paypal"/>
 					<input type="text" placeholder="Comments/Description" name="description" style="height: 100px;"/>
 					Your Reference: <input type="file"/>
 					<input type="submit" value="Send"/>
