@@ -11,7 +11,7 @@
 			background-image: url("imgs/mag-glass.png");}
 
 body { background-color: yellow;
-		background-image: url("imgs/halloween.jpg");
+		background-image: url("imgs/wallpaper.jpg");
 		background-size: cover;
 		background-repeat: no-repeat;}
 
@@ -23,15 +23,15 @@ body { background-color: yellow;
 		height: 120px;
 		background-position: 0px -50px;}
 
-.logo {width: 10%;
-	   height: auto;
+.logo {width: auto;
+	   height: 5%;
 	   float: left;}
 
 .headtxt { color: white;}
 
 .subtitle	{ color: whitesmoke;
 			margin-left: 100px;
-			font-size: 12px;
+			font-size: 16px;
 			margin-top: 0px;}
 
 .sites { border-radius: 20px; 

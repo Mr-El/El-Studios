@@ -1,0 +1,13 @@
+.banner	{background-color: aquamarine;
+		border-radius: 15px;
+		border-color: darkblue;
+		border-width: thick;
+		border: thick;
+		height: 70px;}
+
+.logo	{margin-left: 10px;
+		float: left;
+		margin-top: 1px;}
+
+.title	{color: darkblue;
+		float: inherit;}

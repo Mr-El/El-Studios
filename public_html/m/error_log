@@ -4,3 +4,15 @@
 Stack trace:
 #0 {main}
   thrown in /home/themrel/public_html/m/form.php on line 32
+[01-Nov-2017 23:14:18 UTC] PHP Notice:  Undefined index: email in /home/themrel/public_html/m/form.php on line 4
+[01-Nov-2017 23:14:18 UTC] PHP Notice:  Undefined variable: date in /home/themrel/public_html/m/form.php on line 20
+[01-Nov-2017 23:14:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/themrel/public_html/m/form.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/themrel/public_html/m/form.php on line 32
+[01-Nov-2017 23:14:25 UTC] PHP Notice:  Undefined index: email in /home/themrel/public_html/m/form.php on line 4
+[01-Nov-2017 23:14:25 UTC] PHP Notice:  Undefined variable: date in /home/themrel/public_html/m/form.php on line 20
+[01-Nov-2017 23:14:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/themrel/public_html/m/form.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/themrel/public_html/m/form.php on line 32

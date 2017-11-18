@@ -1,0 +1,67 @@
+body 	{background-image: url("imgs/perfectbackground.jpg");
+		background-size: cover;
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;}
+
+.banner	{background-color: aquamarine;
+		border-radius: 15px;
+		border-color: darkblue;
+		border-width: thick;
+		border: thick;
+		height: 70px;}
+
+.logo	{margin-left: 10px;
+		float: left;
+		margin-top: 1px;}
+
+.title	{color: darkblue;
+		float: inherit;
+		margin-bottom: 0px;}
+		
+.nav	{background-color: green;
+		border-radius: 5px;
+		margin-top: 5px;
+		margin-left: 10px;
+		margin-right: 10px;}
+
+.nav a	{background-color: red;
+		border-radius: 5px;
+		border: thick;
+		border-color: darkblue;
+		color: white;
+		margin-left: 5%;
+		font-size: 20px;
+		text-decoration: none;}
+
+.featured	{background-color: gold;
+			border-radius: 15px;}
+
+.featured h2 {margin-left: 10px;
+			 margin-top: 10px;
+			color: crimson;}
+
+.newgames	{background-color: mediumspringgreen;
+			border-radius: 15px;
+			color: crimson;}
+
+.newgames h2 {margin-left: 10px;
+			 margin-top: 10px;
+			color: crimson;}
+
+.menu	{background-color: cornflowerblue;
+		width: 30%;
+		float: left;
+		border-radius: 15px;
+		margin-top: 5px;
+		margin-right: 10px;}
+
+.games	{background-color: forestgreen;
+		width: 70%;
+		float: right;
+		border-radius: 15px;
+		margin-top: 5px;}
+
+.searchBar	{margin-top: 5px;
+			width: 100%;
+			border-radius: 5px;}
